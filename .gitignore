@@ -1,0 +1,12 @@
+
+data-collected
+temp
+*.ttml
+*.webm
+
+
+
+node_modules
+*-log
+*.log
+
