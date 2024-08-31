@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:03.280" style="s2">so anna we did two lessons so far we did</p>
+<p begin="00:00:01.839" end="00:00:05.040" style="s2">one on the forehand backhand and the</p>
+<p begin="00:00:03.280" end="00:00:06.879" style="s2">serve we did one on the valley</p>
+<p begin="00:00:05.040" end="00:00:08.800" style="s2">and today we&#39;re gonna do something super</p>
+<p begin="00:00:06.879" end="00:00:10.719" style="s2">important and it&#39;s called rallying</p>
+<p begin="00:00:08.800" end="00:00:12.719" style="s2">you know yeah you know what rallying is</p>
+<p begin="00:00:10.719" end="00:00:14.719" style="s2">okay a lot of people confuse</p>
+<p begin="00:00:12.719" end="00:00:16.400" style="s2">volleying with rallying so they&#39;ll say</p>
+<p begin="00:00:14.719" end="00:00:17.600" style="s2">oh let&#39;s volley back and forth to each</p>
+<p begin="00:00:16.400" end="00:00:19.039" style="s2">other meaning that they&#39;re going to keep</p>
+<p begin="00:00:17.600" end="00:00:20.880" style="s2">the ball in play but that&#39;s the wrong</p>
+<p begin="00:00:19.039" end="00:00:22.640" style="s2">term the actual term for keeping the</p>
+<p begin="00:00:20.880" end="00:00:24.480" style="s2">ball in play hitting it back and forth</p>
+<p begin="00:00:22.640" end="00:00:25.439" style="s2">to each other is rallying so that&#39;s what</p>
+<p begin="00:00:24.480" end="00:00:27.039" style="s2">we&#39;re going to do today we&#39;re going to</p>
+<p begin="00:00:25.439" end="00:00:28.480" style="s2">try to hit back and forth to each other</p>
+<p begin="00:00:27.039" end="00:00:30.240" style="s2">when you learn to rally you&#39;re going to</p>
+<p begin="00:00:28.480" end="00:00:31.439" style="s2">also be able to play with other people</p>
+<p begin="00:00:30.240" end="00:00:32.880" style="s2">which is going to be very important and</p>
+<p begin="00:00:31.439" end="00:00:33.600" style="s2">so what you got to watch out for when</p>
+<p begin="00:00:32.880" end="00:00:34.800" style="s2">you&#39;re rallying</p>
+<p begin="00:00:33.600" end="00:00:36.399" style="s2">is number one being in your ready</p>
+<p begin="00:00:34.800" end="00:00:37.360" style="s2">position that we learned so when you&#39;re</p>
+<p begin="00:00:36.399" end="00:00:38.960" style="s2">waiting for the ball</p>
+<p begin="00:00:37.360" end="00:00:40.800" style="s2">a lot of people have a tendency to kind</p>
+<p begin="00:00:38.960" end="00:00:42.399" style="s2">of stand around on their heels</p>
+<p begin="00:00:40.800" end="00:00:44.000" style="s2">and kind of straight up and then when</p>
+<p begin="00:00:42.399" end="00:00:45.520" style="s2">the ball comes they&#39;re not ready to move</p>
+<p begin="00:00:44.000" end="00:00:47.120" style="s2">because let&#39;s face it the ball it&#39;s not</p>
+<p begin="00:00:45.520" end="00:00:48.559" style="s2">going to come right to you it&#39;s going to</p>
+<p begin="00:00:47.120" end="00:00:50.559" style="s2">be all over the place and you&#39;ll have to</p>
+<p begin="00:00:48.559" end="00:00:52.160" style="s2">go get it so you have to be ready to</p>
+<p begin="00:00:50.559" end="00:00:54.239" style="s2">move your feet and watch the ball very</p>
+<p begin="00:00:52.160" end="00:00:56.239" style="s2">carefully another common thing when the</p>
+<p begin="00:00:54.239" end="00:00:57.920" style="s2">beginner level players start to rally is</p>
+<p begin="00:00:56.239" end="00:00:59.120" style="s2">that they panic so what they do is</p>
+<p begin="00:00:57.920" end="00:01:00.239" style="s2">they&#39;re waiting for the ball and the</p>
+<p begin="00:00:59.120" end="00:01:01.760" style="s2">ball comes and then they</p>
+<p begin="00:01:00.239" end="00:01:03.359" style="s2">right away try to take a swing at it</p>
+<p begin="00:01:01.760" end="00:01:05.199" style="s2">they swing right away and now</p>
+<p begin="00:01:03.359" end="00:01:06.640" style="s2">they&#39;re not set up properly they&#39;re not</p>
+<p begin="00:01:05.199" end="00:01:08.159" style="s2">timing the ball properly</p>
+<p begin="00:01:06.640" end="00:01:09.760" style="s2">and because they&#39;re swinging super fast</p>
+<p begin="00:01:08.159" end="00:01:11.280" style="s2">they&#39;re not executing the proper</p>
+<p begin="00:01:09.760" end="00:01:12.400" style="s2">technique so i want you to remember to</p>
+<p begin="00:01:11.280" end="00:01:13.520" style="s2">use the correct sequence</p>
+<p begin="00:01:12.400" end="00:01:15.360" style="s2">this is something that we talked about</p>
+<p begin="00:01:13.520" end="00:01:16.799" style="s2">in our first lesson which is go in a</p>
+<p begin="00:01:15.360" end="00:01:18.000" style="s2">ready position and now</p>
+<p begin="00:01:16.799" end="00:01:19.759" style="s2">the first thing you&#39;re going to do is</p>
+<p begin="00:01:18.000" end="00:01:21.280" style="s2">observe the incoming ball while you are</p>
+<p begin="00:01:19.759" end="00:01:22.560" style="s2">in a ready position so let&#39;s assume it</p>
+<p begin="00:01:21.280" end="00:01:24.000" style="s2">goes to the forehand</p>
+<p begin="00:01:22.560" end="00:01:25.840" style="s2">the first thing you do is make a turn</p>
+<p begin="00:01:24.000" end="00:01:27.360" style="s2">towards your forehand side okay and then</p>
+<p begin="00:01:25.840" end="00:01:28.640" style="s2">you also change the grip and find the</p>
+<p begin="00:01:27.360" end="00:01:30.720" style="s2">forehand grip and now</p>
+<p begin="00:01:28.640" end="00:01:32.560" style="s2">you set up the forehand and then once</p>
+<p begin="00:01:30.720" end="00:01:33.520" style="s2">you find that you&#39;re set up in the most</p>
+<p begin="00:01:32.560" end="00:01:35.119" style="s2">accurate place</p>
+<p begin="00:01:33.520" end="00:01:36.560" style="s2">then you think about hitting the ball so</p>
+<p begin="00:01:35.119" end="00:01:37.439" style="s2">hitting is going to be the third step</p>
+<p begin="00:01:36.560" end="00:01:39.520" style="s2">we&#39;re going to try</p>
+<p begin="00:01:37.439" end="00:01:40.880" style="s2">to rally volleys first because those are</p>
+<p begin="00:01:39.520" end="00:01:42.320" style="s2">the easiest ones to rally so go ahead</p>
+<p begin="00:01:40.880" end="00:01:44.000" style="s2">and stand at the net right here so right</p>
+<p begin="00:01:42.320" end="00:01:45.520" style="s2">now i want you to do forehand valleys</p>
+<p begin="00:01:44.000" end="00:01:47.360" style="s2">first just to get used to</p>
+<p begin="00:01:45.520" end="00:01:48.640" style="s2">the tempo of the rally come on up a</p>
+<p begin="00:01:47.360" end="00:01:50.399" style="s2">little closer</p>
+<p begin="00:01:48.640" end="00:01:51.759" style="s2">and set the racket on the side already</p>
+<p begin="00:01:50.399" end="00:01:53.119" style="s2">like this go a little higher with the</p>
+<p begin="00:01:51.759" end="00:01:53.439" style="s2">racket just put it right here bend the</p>
+<p begin="00:01:53.119" end="00:01:56.159" style="s2">arm</p>
+<p begin="00:01:53.439" end="00:01:57.119" style="s2">in front and uh yeah and now i&#39;m gonna</p>
+<p begin="00:01:56.159" end="00:01:58.799" style="s2">hit the ball</p>
+<p begin="00:01:57.119" end="00:02:01.280" style="s2">and you&#39;re just gonna tap it back right</p>
+<p begin="00:01:58.799" end="00:02:03.759" style="s2">to me okay</p>
+<p begin="00:02:01.280" end="00:02:06.000" style="s2">good good and just kind of track the</p>
+<p begin="00:02:03.759" end="00:02:09.039" style="s2">ball and come right back to me</p>
+<p begin="00:02:06.000" end="00:02:12.160" style="s2">good all right</p>
+<p begin="00:02:09.039" end="00:02:13.440" style="s2">are we doing it now remember we talked</p>
+<p begin="00:02:12.160" end="00:02:15.599" style="s2">about you want to be in an athletic</p>
+<p begin="00:02:13.440" end="00:02:17.360" style="s2">position because look if i go here</p>
+<p begin="00:02:15.599" end="00:02:19.120" style="s2">you&#39;re not ready if you&#39;re straight up</p>
+<p begin="00:02:17.360" end="00:02:20.480" style="s2">you&#39;re fine if it&#39;s coming to you</p>
+<p begin="00:02:19.120" end="00:02:22.800" style="s2">you have to be in an athletic position</p>
+<p begin="00:02:20.480" end="00:02:25.520" style="s2">let&#39;s do it again</p>
+<p begin="00:02:22.800" end="00:02:27.200" style="s2">okay you come right at me here we go</p>
+<p begin="00:02:25.520" end="00:02:30.239" style="s2">good</p>
+<p begin="00:02:27.200" end="00:02:31.519" style="s2">wow no no no for now we&#39;re just doing</p>
+<p begin="00:02:30.239" end="00:02:32.800" style="s2">forehand so you don&#39;t have to worry</p>
+<p begin="00:02:31.519" end="00:02:34.840" style="s2">about switching</p>
+<p begin="00:02:32.800" end="00:02:36.080" style="s2">all right we&#39;re going to do both in a</p>
+<p begin="00:02:34.840" end="00:02:39.280" style="s2">second</p>
+<p begin="00:02:36.080" end="00:02:41.519" style="s2">good and again</p>
+<p begin="00:02:39.280" end="00:02:43.840" style="s2">let&#39;s try to go up to ten three i&#39;m only</p>
+<p begin="00:02:41.519" end="00:02:47.920" style="s2">counting your hits four</p>
+<p begin="00:02:43.840" end="00:02:51.760" style="s2">five six seven</p>
+<p begin="00:02:47.920" end="00:02:52.560" style="s2">eight nine and ten all right what do you</p>
+<p begin="00:02:51.760" end="00:02:54.480" style="s2">think</p>
+<p begin="00:02:52.560" end="00:02:56.640" style="s2">it&#39;s fun right see this is the real</p>
+<p begin="00:02:54.480" end="00:03:00.319" style="s2">tennis okay going back and forth</p>
+<p begin="00:02:56.640" end="00:03:04.159" style="s2">let&#39;s try backhand same thing one</p>
+<p begin="00:03:00.319" end="00:03:08.319" style="s2">two three four</p>
+<p begin="00:03:04.159" end="00:03:11.920" style="s2">five six seven</p>
+<p begin="00:03:08.319" end="00:03:14.560" style="s2">eight nine wow</p>
+<p begin="00:03:11.920" end="00:03:15.440" style="s2">ten in a row that&#39;s very impressive okay</p>
+<p begin="00:03:14.560" end="00:03:17.040" style="s2">now we do</p>
+<p begin="00:03:15.440" end="00:03:18.239" style="s2">ten in a row random so you don&#39;t know</p>
+<p begin="00:03:17.040" end="00:03:20.000" style="s2">where it&#39;s coming so you&#39;re gonna have</p>
+<p begin="00:03:18.239" end="00:03:24.560" style="s2">to go from the ready position</p>
+<p begin="00:03:20.000" end="00:03:26.319" style="s2">one two three</p>
+<p begin="00:03:24.560" end="00:03:27.680" style="s2">oh you missed it okay so this is going</p>
+<p begin="00:03:26.319" end="00:03:28.720" style="s2">to be a lot harder than the other way</p>
+<p begin="00:03:27.680" end="00:03:30.799" style="s2">around because</p>
+<p begin="00:03:28.720" end="00:03:32.000" style="s2">this is the difficulty about rallying is</p>
+<p begin="00:03:30.799" end="00:03:32.720" style="s2">that you don&#39;t know where the ball is</p>
+<p begin="00:03:32.000" end="00:03:34.560" style="s2">coming</p>
+<p begin="00:03:32.720" end="00:03:36.400" style="s2">and this is where you have to apply the</p>
+<p begin="00:03:34.560" end="00:03:38.159" style="s2">sequencing okay so you have to be calm</p>
+<p begin="00:03:36.400" end="00:03:39.920" style="s2">and not to rush even though the ball is</p>
+<p begin="00:03:38.159" end="00:03:41.840" style="s2">coming quickly make sure you see the</p>
+<p begin="00:03:39.920" end="00:03:43.760" style="s2">ball first before you make a decision</p>
+<p begin="00:03:41.840" end="00:03:44.799" style="s2">like don&#39;t go to the back end without</p>
+<p begin="00:03:43.760" end="00:03:46.480" style="s2">knowing that the ball is going to go to</p>
+<p begin="00:03:44.799" end="00:03:47.680" style="s2">your backhand side never takes you</p>
+<p begin="00:03:46.480" end="00:03:51.519" style="s2">anywhere anyways</p>
+<p begin="00:03:47.680" end="00:03:55.519" style="s2">absolutely one oh</p>
+<p begin="00:03:51.519" end="00:03:59.599" style="s2">that was too low come again one</p>
+<p begin="00:03:55.519" end="00:04:03.920" style="s2">two all right here we go one</p>
+<p begin="00:03:59.599" end="00:04:07.920" style="s2">two three four</p>
+<p begin="00:04:03.920" end="00:04:12.400" style="s2">five six</p>
+<p begin="00:04:07.920" end="00:04:15.439" style="s2">seven eight nice good</p>
+<p begin="00:04:12.400" end="00:04:17.199" style="s2">nine match points all right</p>
+<p begin="00:04:15.439" end="00:04:18.639" style="s2">yes very good what did you think that</p>
+<p begin="00:04:17.199" end="00:04:20.479" style="s2">was pretty easy right it was fun</p>
+<p begin="00:04:18.639" end="00:04:22.560" style="s2">you got 10 in a row pretty fast very</p>
+<p begin="00:04:20.479" end="00:04:23.759" style="s2">nice job so now let&#39;s try to rally</p>
+<p begin="00:04:22.560" end="00:04:24.800" style="s2">forehands and backhands</p>
+<p begin="00:04:23.759" end="00:04:26.240" style="s2">and we&#39;re going to do it from the</p>
+<p begin="00:04:24.800" end="00:04:27.520" style="s2">service line first so the important</p>
+<p begin="00:04:26.240" end="00:04:28.960" style="s2">antennas is that you</p>
+<p begin="00:04:27.520" end="00:04:30.639" style="s2">in the beginning when you first start to</p>
+<p begin="00:04:28.960" end="00:04:32.240" style="s2">hit back and forth is that you do it</p>
+<p begin="00:04:30.639" end="00:04:33.360" style="s2">very gently and slowly</p>
+<p begin="00:04:32.240" end="00:04:34.880" style="s2">if you hit it hard you&#39;re not going to</p>
+<p begin="00:04:33.360" end="00:04:36.320" style="s2">be able to keep the ball in play and</p>
+<p begin="00:04:34.880" end="00:04:38.639" style="s2">then gradually over time you start</p>
+<p begin="00:04:36.320" end="00:04:38.639" style="s2">adding</p>
+<p begin="00:04:40.840" end="00:04:44.720" style="s2">speed</p>
+<p begin="00:04:42.400" end="00:04:44.720" style="s2">nice</p>
+<p begin="00:04:45.600" end="00:04:47.919" style="s2">okay</p>
+<p begin="00:04:49.759" end="00:04:55.440" style="s2">go go go come on come on come on this is</p>
+<p begin="00:04:52.080" end="00:04:57.199" style="s2">different than what we did here</p>
+<p begin="00:04:55.440" end="00:04:59.759" style="s2">this is like our first lesson that we</p>
+<p begin="00:04:57.199" end="00:05:03.120" style="s2">had is our forehands and backhands</p>
+<p begin="00:04:59.759" end="00:05:04.800" style="s2">ground strokes right okay so so a couple</p>
+<p begin="00:05:03.120" end="00:05:06.639" style="s2">of things i want to tell you</p>
+<p begin="00:05:04.800" end="00:05:08.400" style="s2">yes remember our lesson we kind of</p>
+<p begin="00:05:06.639" end="00:05:09.759" style="s2">started short here</p>
+<p begin="00:05:08.400" end="00:05:12.400" style="s2">and then we made sure we finished all</p>
+<p begin="00:05:09.759" end="00:05:13.520" style="s2">the way applied exactly the same</p>
+<p begin="00:05:12.400" end="00:05:14.800" style="s2">fundamentals</p>
+<p begin="00:05:13.520" end="00:05:16.080" style="s2">to the rally and the most important</p>
+<p begin="00:05:14.800" end="00:05:18.240" style="s2">thing is that you finish because a lot</p>
+<p begin="00:05:16.080" end="00:05:20.639" style="s2">of beginner players are very</p>
+<p begin="00:05:18.240" end="00:05:22.240" style="s2">cautious about finishing so they hit the</p>
+<p begin="00:05:20.639" end="00:05:24.000" style="s2">ball and they kind of stop here or</p>
+<p begin="00:05:22.240" end="00:05:25.360" style="s2">they&#39;re very careful in this area and</p>
+<p begin="00:05:24.000" end="00:05:30.240" style="s2">it&#39;s very difficult to control</p>
+<p begin="00:05:25.360" end="00:05:30.240" style="s2">the ball that way good</p>
+<p begin="00:05:30.639" end="00:05:36.840" style="s2">nice okay i&#39;m still gonna keep score</p>
+<p begin="00:05:34.560" end="00:05:40.880" style="s2">okay that&#39;s three</p>
+<p begin="00:05:36.840" end="00:05:40.880" style="s2">four five</p>
+<p begin="00:05:40.960" end="00:05:45.840" style="s2">six seven</p>
+<p begin="00:05:46.000" end="00:05:50.800" style="s2">eight nine</p>
+<p begin="00:05:51.440" end="00:05:55.520" style="s2">ten okay so now you do the exact same</p>
+<p begin="00:05:54.320" end="00:05:57.199" style="s2">thing but you&#39;re gonna hit it to this</p>
+<p begin="00:05:55.520" end="00:05:58.479" style="s2">corner where i&#39;m standing okay and you</p>
+<p begin="00:05:57.199" end="00:06:00.000" style="s2">can do it from the middle</p>
+<p begin="00:05:58.479" end="00:06:02.720" style="s2">right there so go ready position we&#39;ll</p>
+<p begin="00:06:00.000" end="00:06:04.560" style="s2">try to do ten in a row</p>
+<p begin="00:06:02.720" end="00:06:06.720" style="s2">okay that&#39;s no good it&#39;s gotta come back</p>
+<p begin="00:06:04.560" end="00:06:11.520" style="s2">to me</p>
+<p begin="00:06:06.720" end="00:06:11.520" style="s2">go again one</p>
+<p begin="00:06:11.919" end="00:06:14.160" style="s2">two</p>
+<p begin="00:06:15.120" end="00:06:17.440" style="s2">three</p>
+<p begin="00:06:18.240" end="00:06:21.440" style="s2">okay that was a little bit too far to</p>
+<p begin="00:06:20.000" end="00:06:23.039" style="s2">the middle so we&#39;re learning now is</p>
+<p begin="00:06:21.440" end="00:06:24.160" style="s2">directional control so you can see when</p>
+<p begin="00:06:23.039" end="00:06:25.759" style="s2">you hit the ball a little bit late or</p>
+<p begin="00:06:24.160" end="00:06:26.479" style="s2">behind you it&#39;s very hard to get it that</p>
+<p begin="00:06:25.759" end="00:06:28.000" style="s2">way right</p>
+<p begin="00:06:26.479" end="00:06:29.759" style="s2">it kind of goes towards the middle so</p>
+<p begin="00:06:28.000" end="00:06:30.800" style="s2">it&#39;s important that you play the ball in</p>
+<p begin="00:06:29.759" end="00:06:35.600" style="s2">front a little more</p>
+<p begin="00:06:30.800" end="00:06:37.840" style="s2">okay one</p>
+<p begin="00:06:35.600" end="00:06:37.840" style="s2">two</p>
+<p begin="00:06:38.960" end="00:06:41.280" style="s2">three</p>
+<p begin="00:06:42.080" end="00:06:50.000" style="s2">four five</p>
+<p begin="00:06:46.160" end="00:06:50.000" style="s2">go go go six</p>
+<p begin="00:06:50.880" end="00:06:53.280" style="s2">seven</p>
+<p begin="00:06:53.919" end="00:06:59.199" style="s2">eight nine</p>
+<p begin="00:06:59.759" end="00:07:04.080" style="s2">ten yes we do the same thing now to this</p>
+<p begin="00:07:02.000" end="00:07:08.479" style="s2">side you hit everything back to me okay</p>
+<p begin="00:07:04.080" end="00:07:08.479" style="s2">here we go one</p>
+<p begin="00:07:09.120" end="00:07:11.360" style="s2">two</p>
+<p begin="00:07:12.160" end="00:07:14.479" style="s2">three</p>
+<p begin="00:07:15.199" end="00:07:20.960" style="s2">okay that&#39;s a one-handed backhand you</p>
+<p begin="00:07:17.440" end="00:07:23.199" style="s2">always try to play with two hands okay</p>
+<p begin="00:07:20.960" end="00:07:23.199" style="s2">one</p>
+<p begin="00:07:25.360" end="00:07:31.840" style="s2">okay i&#39;ll give it to you two</p>
+<p begin="00:07:31.919" end="00:07:35.759" style="s2">actually that&#39;s four i miscounted here&#39;s</p>
+<p begin="00:07:33.599" end="00:07:39.120" style="s2">five</p>
+<p begin="00:07:35.759" end="00:07:39.120" style="s2">okay six</p>
+<p begin="00:07:39.199" end="00:07:47.440" style="s2">good seven</p>
+<p begin="00:07:44.960" end="00:07:47.440" style="s2">eight</p>
+<p begin="00:07:48.080" end="00:07:50.560" style="s2">nine</p>
+<p begin="00:07:52.240" end="00:07:57.039" style="s2">not the match point let&#39;s start over</p>
+<p begin="00:07:57.280" end="00:08:02.319" style="s2">one two</p>
+<p begin="00:08:03.280" end="00:08:08.639" style="s2">three four</p>
+<p begin="00:08:10.840" end="00:08:14.879" style="s2">five six</p>
+<p begin="00:08:15.599" end="00:08:17.919" style="s2">seven</p>
+<p begin="00:08:18.639" end="00:08:20.960" style="s2">eight</p>
+<p begin="00:08:23.199" end="00:08:28.800" style="s2">okay i&#39;ll give it to you nine and match</p>
+<p begin="00:08:26.479" end="00:08:28.800" style="s2">points</p>
+<p begin="00:08:28.879" end="00:08:32.719" style="s2">all right very good wow fantastic job so</p>
+<p begin="00:08:31.120" end="00:08:33.919" style="s2">you got 10 in a row</p>
+<p begin="00:08:32.719" end="00:08:35.680" style="s2">in the three different ways down the</p>
+<p begin="00:08:33.919" end="00:08:37.039" style="s2">middle you got it to the side and the</p>
+<p begin="00:08:35.680" end="00:08:37.599" style="s2">other side you know the fascinating</p>
+<p begin="00:08:37.039" end="00:08:39.039" style="s2">thing</p>
+<p begin="00:08:37.599" end="00:08:40.640" style="s2">about it is that you already are</p>
+<p begin="00:08:39.039" end="00:08:41.599" style="s2">learning directional to control you&#39;re</p>
+<p begin="00:08:40.640" end="00:08:43.279" style="s2">learning how to</p>
+<p begin="00:08:41.599" end="00:08:44.800" style="s2">aim antennas so now let&#39;s make it a</p>
+<p begin="00:08:43.279" end="00:08:46.240" style="s2">little bit harder i&#39;m gonna do the</p>
+<p begin="00:08:44.800" end="00:08:46.720" style="s2">ultimate test with you let&#39;s try to</p>
+<p begin="00:08:46.240" end="00:08:48.240" style="s2">rally</p>
+<p begin="00:08:46.720" end="00:08:49.600" style="s2">from the baseline and obviously you&#39;re</p>
+<p begin="00:08:48.240" end="00:08:51.760" style="s2">gonna have to hit it a little bit harder</p>
+<p begin="00:08:49.600" end="00:08:51.760" style="s2">here</p>
+<p begin="00:08:52.839" end="00:08:55.839" style="s2">one</p>
+<p begin="00:08:57.519" end="00:09:04.959" style="s2">one two</p>
+<p begin="00:09:01.760" end="00:09:04.959" style="s2">back up a little bit back it up</p>
+<p begin="00:09:06.839" end="00:09:10.399" style="s2">one two</p>
+<p begin="00:09:10.480" end="00:09:15.519" style="s2">three four</p>
+<p begin="00:09:15.680" end="00:09:20.399" style="s2">five six</p>
+<p begin="00:09:20.839" end="00:09:27.519" style="s2">seven eight</p>
+<p begin="00:09:25.120" end="00:09:28.959" style="s2">no you hit it way too hard try again we</p>
+<p begin="00:09:27.519" end="00:09:31.600" style="s2">need ten okay</p>
+<p begin="00:09:28.959" end="00:09:31.600" style="s2">ten balls</p>
+<p begin="00:09:32.240" end="00:09:42.959" style="s2">one two</p>
+<p begin="00:09:37.200" end="00:09:42.959" style="s2">three take your time come on four</p>
+<p begin="00:09:43.120" end="00:09:48.160" style="s2">five six</p>
+<p begin="00:09:48.839" end="00:09:56.640" style="s2">seven</p>
+<p begin="00:09:51.519" end="00:09:56.640" style="s2">eight nine</p>
+<p begin="00:09:58.000" end="00:10:01.600" style="s2">you know what was funny on that second</p>
+<p begin="00:09:59.519" end="00:10:05.920" style="s2">last attempt you got so confident you</p>
+<p begin="00:10:01.600" end="00:10:07.600" style="s2">started hitting hard eight</p>
+<p begin="00:10:05.920" end="00:10:09.200" style="s2">no but then you paid the price because</p>
+<p begin="00:10:07.600" end="00:10:09.920" style="s2">you missed one what&#39;s gonna happen is</p>
+<p begin="00:10:09.200" end="00:10:11.440" style="s2">you&#39;re gonna</p>
+<p begin="00:10:09.920" end="00:10:13.040" style="s2">start hitting hard and overheating and</p>
+<p begin="00:10:11.440" end="00:10:14.560" style="s2">making mistakes so you have to always</p>
+<p begin="00:10:13.040" end="00:10:15.519" style="s2">remind yourself that the most important</p>
+<p begin="00:10:14.560" end="00:10:17.200" style="s2">thing right now</p>
+<p begin="00:10:15.519" end="00:10:18.399" style="s2">in your tennis is control this is how</p>
+<p begin="00:10:17.200" end="00:10:18.959" style="s2">you&#39;re going to build the correct muscle</p>
+<p begin="00:10:18.399" end="00:10:20.640" style="s2">memory</p>
+<p begin="00:10:18.959" end="00:10:23.360" style="s2">and you&#39;re going to build the confidence</p>
+<p begin="00:10:20.640" end="00:10:25.519" style="s2">to hit harder very gradually over time</p>
+<p begin="00:10:23.360" end="00:10:27.040" style="s2">all right so the final test for today is</p>
+<p begin="00:10:25.519" end="00:10:27.839" style="s2">i&#39;m actually going to go on the baseline</p>
+<p begin="00:10:27.040" end="00:10:29.760" style="s2">we&#39;re going to rally</p>
+<p begin="00:10:27.839" end="00:10:31.040" style="s2">baseline to baseline because when i&#39;m</p>
+<p begin="00:10:29.760" end="00:10:32.560" style="s2">rallying with you from the net i&#39;m</p>
+<p begin="00:10:31.040" end="00:10:34.480" style="s2">giving you a really clean</p>
+<p begin="00:10:32.560" end="00:10:35.680" style="s2">valley and the ball is coming kind of</p>
+<p begin="00:10:34.480" end="00:10:36.959" style="s2">low and flat</p>
+<p begin="00:10:35.680" end="00:10:37.760" style="s2">but now i&#39;m going to go on a baseline</p>
+<p begin="00:10:36.959" end="00:10:39.120" style="s2">it&#39;s going to be a little bit more</p>
+<p begin="00:10:37.760" end="00:10:42.560" style="s2">difficult okay let&#39;s</p>
+<p begin="00:10:39.120" end="00:10:42.560" style="s2">let&#39;s go for 10 okay come on</p>
+<p begin="00:10:44.839" end="00:10:48.560" style="s2">one</p>
+<p begin="00:10:46.240" end="00:10:48.560" style="s2">two</p>
+<p begin="00:10:49.680" end="00:10:52.079" style="s2">three</p>
+<p begin="00:10:52.880" end="00:10:55.279" style="s2">four</p>
+<p begin="00:10:58.839" end="00:11:02.399" style="s2">five</p>
+<p begin="00:11:00.079" end="00:11:02.399" style="s2">six</p>
+<p begin="00:11:03.440" end="00:11:10.640" style="s2">seven one</p>
+<p begin="00:11:06.640" end="00:11:10.640" style="s2">eight no again</p>
+<p begin="00:11:12.839" end="00:11:16.560" style="s2">one</p>
+<p begin="00:11:14.320" end="00:11:16.560" style="s2">two</p>
+<p begin="00:11:17.839" end="00:11:20.160" style="s2">three</p>
+<p begin="00:11:21.279" end="00:11:23.680" style="s2">four</p>
+<p begin="00:11:26.839" end="00:11:30.720" style="s2">five</p>
+<p begin="00:11:28.399" end="00:11:30.720" style="s2">six</p>
+<p begin="00:11:32.480" end="00:11:34.880" style="s2">seven</p>
+<p begin="00:11:35.920" end="00:11:38.320" style="s2">eight</p>
+<p begin="00:11:39.920" end="00:11:43.839" style="s2">nine match point</p>
+<p begin="00:11:45.120" end="00:11:49.680" style="s2">really really good job again this is not</p>
+<p begin="00:11:47.279" end="00:11:51.120" style="s2">normal that someone progresses this fast</p>
+<p begin="00:11:49.680" end="00:11:52.880" style="s2">to be able to keep the ball in play</p>
+<p begin="00:11:51.120" end="00:11:54.480" style="s2">so you have a lot of natural ability for</p>
+<p begin="00:11:52.880" end="00:11:56.079" style="s2">tennis and i really encourage you to</p>
+<p begin="00:11:54.480" end="00:11:57.440" style="s2">keep playing all right good job let&#39;s do</p>
+<p begin="00:11:56.079" end="00:12:00.000" style="s2">a you don&#39;t have a racket here let&#39;s do</p>
+<p begin="00:11:57.440" end="00:12:01.920" style="s2">a tap with a bottle a bottle tap</p>
+<p begin="00:12:00.000" end="00:12:03.760" style="s2">all right very nice good job very nice</p>
+<p begin="00:12:01.920" end="00:12:05.440" style="s2">that was good it was fun right</p>
+<p begin="00:12:03.760" end="00:12:07.040" style="s2">okay let&#39;s go back by the way you&#39;re</p>
+<p begin="00:12:05.440" end="00:12:08.880" style="s2">playing so well people think it&#39;s fake</p>
+<p begin="00:12:07.040" end="00:12:10.399" style="s2">i have a couple of comments saying that</p>
+<p begin="00:12:08.880" end="00:12:12.000" style="s2">it&#39;s fake that you&#39;re not a beginner</p>
+<p begin="00:12:10.399" end="00:12:14.480" style="s2">yeah i have a</p>
+<p begin="00:12:12.000" end="00:12:16.720" style="s2">what is it beginner&#39;s luck you&#39;re very</p>
+<p begin="00:12:14.480" end="00:12:16.720" style="s2">talented</p>
+</div>
+</body>
+</tt>

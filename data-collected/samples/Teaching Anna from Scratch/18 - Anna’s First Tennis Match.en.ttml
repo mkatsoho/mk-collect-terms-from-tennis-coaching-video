@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.319" style="s2">ana so it&#39;s your first match are you</p>
+<p begin="00:00:01.839" end="00:00:06.720" style="s2">ready i am ready</p>
+<p begin="00:00:04.319" end="00:00:08.559" style="s2">don&#39;t be nervous okay it&#39;s gonna be okay</p>
+<p begin="00:00:06.720" end="00:00:10.400" style="s2">who did you uh who&#39;s coming</p>
+<p begin="00:00:08.559" end="00:00:11.679" style="s2">christine there&#39;s somebody from your</p>
+<p begin="00:00:10.400" end="00:00:14.799" style="s2">clinic right</p>
+<p begin="00:00:11.679" end="00:00:16.480" style="s2">okay good do you know what her rating is</p>
+<p begin="00:00:14.799" end="00:00:17.840" style="s2">i have no idea like has she been playing</p>
+<p begin="00:00:16.480" end="00:00:20.240" style="s2">tennis for a while</p>
+<p begin="00:00:17.840" end="00:00:21.760" style="s2">i mean we rallied well no but has she</p>
+<p begin="00:00:20.240" end="00:00:24.240" style="s2">been playing for a while</p>
+<p begin="00:00:21.760" end="00:00:25.119" style="s2">that i don&#39;t know i think she&#39;s she&#39;s an</p>
+<p begin="00:00:24.240" end="00:00:27.279" style="s2">experienced player</p>
+<p begin="00:00:25.119" end="00:00:28.400" style="s2">she&#39;s a little more experienced than me</p>
+<p begin="00:00:27.279" end="00:00:30.240" style="s2">yeah but you guys</p>
+<p begin="00:00:28.400" end="00:00:31.920" style="s2">can match up well right i think she</p>
+<p begin="00:00:30.240" end="00:00:34.320" style="s2">started when she was a kid</p>
+<p begin="00:00:31.920" end="00:00:36.000" style="s2">oh she did i think so anna this is going</p>
+<p begin="00:00:34.320" end="00:00:38.320" style="s2">to be tough match</p>
+<p begin="00:00:36.000" end="00:00:39.680" style="s2">okay it doesn&#39;t matter it doesn&#39;t matter</p>
+<p begin="00:00:38.320" end="00:00:41.360" style="s2">guys before you play any match you have</p>
+<p begin="00:00:39.680" end="00:00:42.640" style="s2">to decide who&#39;s going to surf first and</p>
+<p begin="00:00:41.360" end="00:00:43.680" style="s2">you can here on the bottom of your</p>
+<p begin="00:00:42.640" end="00:00:47.039" style="s2">racket you have um</p>
+<p begin="00:00:43.680" end="00:00:47.600" style="s2">usually either a logo or like a letter</p>
+<p begin="00:00:47.039" end="00:00:49.760" style="s2">like will</p>
+<p begin="00:00:47.600" end="00:00:51.440" style="s2">your wilson for example has mr w so you</p>
+<p begin="00:00:49.760" end="00:00:52.719" style="s2">can spin it in the air you ask the other</p>
+<p begin="00:00:51.440" end="00:00:58.559" style="s2">person if they want a</p>
+<p begin="00:00:52.719" end="00:01:00.320" style="s2">m or a w</p>
+<p begin="00:00:58.559" end="00:01:02.800" style="s2">so then you spin it down the ground like</p>
+<p begin="00:01:00.320" end="00:01:04.479" style="s2">this and let&#39;s see where it ends up</p>
+<p begin="00:01:02.800" end="00:01:07.200" style="s2">let&#39;s let the racket go let it fall on</p>
+<p begin="00:01:04.479" end="00:01:10.320" style="s2">the ground like spin it</p>
+<p begin="00:01:07.200" end="00:01:13.840" style="s2">okay all right so what did you say again</p>
+<p begin="00:01:10.320" end="00:01:15.840" style="s2">you said w so it&#39;s uh m okay so you get</p>
+<p begin="00:01:13.840" end="00:01:18.720" style="s2">to choose and here are your choices</p>
+<p begin="00:01:15.840" end="00:01:20.240" style="s2">you can pick serve first or receive</p>
+<p begin="00:01:18.720" end="00:01:20.880" style="s2">first or you can pick which side you</p>
+<p begin="00:01:20.240" end="00:01:23.520" style="s2">want to be on</p>
+<p begin="00:01:20.880" end="00:01:24.479" style="s2">in today&#39;s sk in today&#39;s case we won&#39;t</p>
+<p begin="00:01:23.520" end="00:01:26.400" style="s2">switch sides</p>
+<p begin="00:01:24.479" end="00:01:27.680" style="s2">make a little bit easier on you guys um</p>
+<p begin="00:01:26.400" end="00:01:29.520" style="s2">but you want to serve first</p>
+<p begin="00:01:27.680" end="00:01:30.720" style="s2">yeah alright great all right guys good</p>
+<p begin="00:01:29.520" end="00:01:32.880" style="s2">luck thank you</p>
+<p begin="00:01:30.720" end="00:01:34.400" style="s2">all right now look um nothing special</p>
+<p begin="00:01:32.880" end="00:01:37.520" style="s2">you just</p>
+<p begin="00:01:34.400" end="00:01:39.280" style="s2">play without much thought you just</p>
+<p begin="00:01:37.520" end="00:01:40.560" style="s2">the simple tactics are you want to try</p>
+<p begin="00:01:39.280" end="00:01:42.640" style="s2">not to miss and</p>
+<p begin="00:01:40.560" end="00:01:43.920" style="s2">get a nice big general target you can go</p>
+<p begin="00:01:42.640" end="00:01:45.600" style="s2">down the middle of the court and keep</p>
+<p begin="00:01:43.920" end="00:01:46.880" style="s2">the ball going especially early on so</p>
+<p begin="00:01:45.600" end="00:01:48.880" style="s2">you can loosen up a little bit</p>
+<p begin="00:01:46.880" end="00:01:50.640" style="s2">are you feeling nervous at all no okay</p>
+<p begin="00:01:48.880" end="00:01:55.840" style="s2">good yeah all right</p>
+<p begin="00:01:50.640" end="00:01:55.840" style="s2">all right good it&#39;s just a game exactly</p>
+<p begin="00:01:58.060" end="00:02:01.239" style="s2">[Applause]</p>
+<p begin="00:02:04.560" end="00:02:08.160" style="s2">okay when you get pushed back like that</p>
+<p begin="00:02:06.719" end="00:02:09.360" style="s2">are you scared to hit the camera you&#39;re</p>
+<p begin="00:02:08.160" end="00:02:10.879" style="s2">actually really far away don&#39;t worry</p>
+<p begin="00:02:09.360" end="00:02:12.480" style="s2">about the camera in my mind</p>
+<p begin="00:02:10.879" end="00:02:13.920" style="s2">no no just gotta ignore that you&#39;re</p>
+<p begin="00:02:12.480" end="00:02:14.239" style="s2">really far away you got plenty of space</p>
+<p begin="00:02:13.920" end="00:02:15.360" style="s2">here</p>
+<p begin="00:02:14.239" end="00:02:16.480" style="s2">when you get pushed back a little bit</p>
+<p begin="00:02:15.360" end="00:02:18.080" style="s2">get some height on the ball put it a</p>
+<p begin="00:02:16.480" end="00:02:20.160" style="s2">little bit higher you need two balls</p>
+<p begin="00:02:18.080" end="00:02:21.599" style="s2">you need two balls you always need two</p>
+<p begin="00:02:20.160" end="00:02:22.400" style="s2">balls if in case you miss your first</p>
+<p begin="00:02:21.599" end="00:02:24.000" style="s2">serve</p>
+<p begin="00:02:22.400" end="00:02:26.640" style="s2">you have a second ball handy you don&#39;t</p>
+<p begin="00:02:24.000" end="00:02:26.640" style="s2">have to go pick it up</p>
+<p begin="00:02:28.160" end="00:02:31.120" style="s2">yeah move that ball real quick when the</p>
+<p begin="00:02:29.520" end="00:02:32.000" style="s2">ball gets into the net and it&#39;s in the</p>
+<p begin="00:02:31.120" end="00:02:33.440" style="s2">cord</p>
+<p begin="00:02:32.000" end="00:02:37.840" style="s2">get it out of the way move that other</p>
+<p begin="00:02:33.440" end="00:02:37.840" style="s2">one too just in case</p>
+<p begin="00:03:11.840" end="00:03:16.640" style="s2">anna what a rally this is crazy</p>
+<p begin="00:03:14.879" end="00:03:18.480" style="s2">really good just keep going like that</p>
+<p begin="00:03:16.640" end="00:03:19.920" style="s2">that was amazing</p>
+<p begin="00:03:18.480" end="00:03:21.280" style="s2">no no you&#39;re probably a little bit tight</p>
+<p begin="00:03:19.920" end="00:03:22.640" style="s2">but it&#39;s okay you&#39;re doing really well</p>
+<p begin="00:03:21.280" end="00:03:23.840" style="s2">one thing that will keep your feet</p>
+<p begin="00:03:22.640" end="00:03:25.360" style="s2">moving a little more</p>
+<p begin="00:03:23.840" end="00:03:26.799" style="s2">when you&#39;re not hitting and come back to</p>
+<p begin="00:03:25.360" end="00:03:28.799" style="s2">the middle here&#39;s another ball always</p>
+<p begin="00:03:26.799" end="00:03:33.840" style="s2">take two balls</p>
+<p begin="00:03:28.799" end="00:03:33.840" style="s2">fifteen all i&#39;m gonna help you to score</p>
+<p begin="00:03:44.720" end="00:03:48.640" style="s2">and make sure when the ball is out you</p>
+<p begin="00:03:46.080" end="00:03:52.879" style="s2">call it okay so she knows that</p>
+<p begin="00:03:48.640" end="00:03:54.480" style="s2">it&#39;s out yeah but you say it right away</p>
+<p begin="00:03:52.879" end="00:03:55.920" style="s2">that was kind of obvious but if it&#39;s</p>
+<p begin="00:03:54.480" end="00:03:59.200" style="s2">closer you need to let her know</p>
+<p begin="00:03:55.920" end="00:04:01.200" style="s2">you know yeah yeah you have to stay out</p>
+<p begin="00:03:59.200" end="00:04:02.400" style="s2">you can scream you can say it quietly</p>
+<p begin="00:04:01.200" end="00:04:06.000" style="s2">whatever as soon as</p>
+<p begin="00:04:02.400" end="00:04:06.000" style="s2">as long as she hurts hears it you know</p>
+<p begin="00:04:06.720" end="00:04:15.840" style="s2">rihanna always take two balls though</p>
+<p begin="00:04:19.040" end="00:04:24.639" style="s2">that was out yeah good call so now we</p>
+<p begin="00:04:20.959" end="00:04:24.639" style="s2">got 40 15 you have game points</p>
+<p begin="00:04:25.280" end="00:04:29.840" style="s2">don&#39;t flick the hand keep the hand open</p>
+<p begin="00:04:27.120" end="00:04:29.840" style="s2">as you toss like this</p>
+<p begin="00:04:31.280" end="00:04:34.000" style="s2">all right double fault it&#39;s okay shake</p>
+<p begin="00:04:32.720" end="00:04:34.800" style="s2">it off one thing i want to tell you</p>
+<p begin="00:04:34.000" end="00:04:37.199" style="s2">about keep</p>
+<p begin="00:04:34.800" end="00:04:38.160" style="s2">continuing to toss the ball up like many</p>
+<p begin="00:04:37.199" end="00:04:40.320" style="s2">times in a row</p>
+<p begin="00:04:38.160" end="00:04:42.240" style="s2">it gets really frustrating not only for</p>
+<p begin="00:04:40.320" end="00:04:44.080" style="s2">yourself but also for the opponent yeah</p>
+<p begin="00:04:42.240" end="00:04:45.840" style="s2">you know so i would say if you do it</p>
+<p begin="00:04:44.080" end="00:04:47.199" style="s2">once it&#39;s okay but on the second time</p>
+<p begin="00:04:45.840" end="00:04:47.919" style="s2">just hit it even though it might be a</p>
+<p begin="00:04:47.199" end="00:04:49.040" style="s2">bad toss</p>
+<p begin="00:04:47.919" end="00:04:50.960" style="s2">because you can get in your head the</p>
+<p begin="00:04:49.040" end="00:04:52.080" style="s2">more you keep the more you keep</p>
+<p begin="00:04:50.960" end="00:04:52.800" style="s2">repeating and trying to fix your</p>
+<p begin="00:04:52.080" end="00:04:55.199" style="s2">thoughts</p>
+<p begin="00:04:52.800" end="00:04:56.000" style="s2">the more wrong it goes so dawn continues</p>
+<p begin="00:04:55.199" end="00:04:58.080" style="s2">to keep throwing</p>
+<p begin="00:04:56.000" end="00:04:59.199" style="s2">it until you get it right there&#39;s a time</p>
+<p begin="00:04:58.080" end="00:05:00.639" style="s2">limit in tennis by the way</p>
+<p begin="00:04:59.199" end="00:05:02.560" style="s2">yeah yeah you don&#39;t have all you don&#39;t</p>
+<p begin="00:05:00.639" end="00:05:11.840" style="s2">you don&#39;t have all day between points</p>
+<p begin="00:05:02.560" end="00:05:11.840" style="s2">all right here we go come on 40 30.</p>
+<p begin="00:05:21.199" end="00:05:24.880" style="s2">okay you know what that wasn&#39;t really a</p>
+<p begin="00:05:23.440" end="00:05:26.639" style="s2">bad technical</p>
+<p begin="00:05:24.880" end="00:05:28.560" style="s2">shot there was a good backhand but the</p>
+<p begin="00:05:26.639" end="00:05:31.600" style="s2">location was bad did you aim there</p>
+<p begin="00:05:28.560" end="00:05:33.039" style="s2">to the line yeah it&#39;s too risky</p>
+<p begin="00:05:31.600" end="00:05:34.880" style="s2">so you want to aim in a more central</p>
+<p begin="00:05:33.039" end="00:05:36.160" style="s2">location that&#39;s what caused you to miss</p>
+<p begin="00:05:34.880" end="00:05:37.759" style="s2">but it&#39;s okay you&#39;re still in this game</p>
+<p begin="00:05:36.160" end="00:05:53.840" style="s2">as deuce now okay</p>
+<p begin="00:05:37.759" end="00:05:53.840" style="s2">deuce deuces 40 all right 40 off</p>
+<p begin="00:05:59.520" end="00:06:01.680" style="s2">good</p>
+<p begin="00:06:05.199" end="00:06:08.960" style="s2">and what i notice is when you get a</p>
+<p begin="00:06:06.720" end="00:06:09.680" style="s2">short ball you try always hit it back</p>
+<p begin="00:06:08.960" end="00:06:13.360" style="s2">short</p>
+<p begin="00:06:09.680" end="00:06:14.880" style="s2">yes you hit it don&#39;t do that because</p>
+<p begin="00:06:13.360" end="00:06:16.639" style="s2">you end up pushing the ball guiding it</p>
+<p begin="00:06:14.880" end="00:06:18.000" style="s2">steering it even when you&#39;re shorter</p>
+<p begin="00:06:16.639" end="00:06:19.360" style="s2">still finish your forehand</p>
+<p begin="00:06:18.000" end="00:06:21.919" style="s2">don&#39;t go too hard but still finish it</p>
+<p begin="00:06:19.360" end="00:06:23.840" style="s2">always finish it okay so it&#39;s add out</p>
+<p begin="00:06:21.919" end="00:06:25.520" style="s2">you keep going okay she has a break</p>
+<p begin="00:06:23.840" end="00:06:27.759" style="s2">point now so you got to get this one</p>
+<p begin="00:06:25.520" end="00:06:27.759" style="s2">okay</p>
+<p begin="00:06:32.960" end="00:06:36.800" style="s2">okay you we&#39;re up 40 15 you end up</p>
+<p begin="00:06:35.120" end="00:06:38.240" style="s2">losing the game no big deal</p>
+<p begin="00:06:36.800" end="00:06:39.440" style="s2">okay are you how are you feeling</p>
+<p begin="00:06:38.240" end="00:06:40.639" style="s2">mentally are you still a little bit i&#39;m</p>
+<p begin="00:06:39.440" end="00:06:43.199" style="s2">okay no it&#39;s just like</p>
+<p begin="00:06:40.639" end="00:06:44.800" style="s2">this surf actually i did much better</p>
+<p begin="00:06:43.199" end="00:06:46.319" style="s2">okay on other days i don&#39;t know</p>
+<p begin="00:06:44.800" end="00:06:47.360" style="s2">it&#39;s all right like shaking but that&#39;s</p>
+<p begin="00:06:46.319" end="00:06:48.000" style="s2">what i mean so you&#39;re probably a little</p>
+<p begin="00:06:47.360" end="00:06:49.360" style="s2">bit anxious</p>
+<p begin="00:06:48.000" end="00:06:51.280" style="s2">a little bit nervous it&#39;s going to go</p>
+<p begin="00:06:49.360" end="00:06:53.840" style="s2">away just keep going keep that ball in</p>
+<p begin="00:06:51.280" end="00:06:53.840" style="s2">play come on</p>
+<p begin="00:07:01.680" end="00:07:17.840" style="s2">the middle middle</p>
+<p begin="00:07:28.840" end="00:07:35.280" style="s2">see anna what a rally</p>
+<p begin="00:07:32.800" end="00:07:36.880" style="s2">you&#39;re a little tactician out there are</p>
+<p begin="00:07:35.280" end="00:07:39.440" style="s2">you doing this stuff on purpose or it&#39;s</p>
+<p begin="00:07:36.880" end="00:07:41.440" style="s2">all accidents</p>
+<p begin="00:07:39.440" end="00:07:43.039" style="s2">okay all right all right you doing good</p>
+<p begin="00:07:41.440" end="00:07:46.479" style="s2">luck you&#39;re doing good just keep going</p>
+<p begin="00:07:43.039" end="00:07:46.479" style="s2">love 30 now try to get this game</p>
+<p begin="00:07:56.240" end="00:08:01.759" style="s2">all right</p>
+<p begin="00:07:59.759" end="00:08:03.280" style="s2">well if you hit it that bad like that</p>
+<p begin="00:08:01.759" end="00:08:04.319" style="s2">was kind of like a shank you can say to</p>
+<p begin="00:08:03.280" end="00:08:06.000" style="s2">her sorry</p>
+<p begin="00:08:04.319" end="00:08:07.280" style="s2">that&#39;s like the tennis etiquette if you</p>
+<p begin="00:08:06.000" end="00:08:08.720" style="s2">hit a really lucky shot you can just</p>
+<p begin="00:08:07.280" end="00:08:13.599" style="s2">raise your hand and say sorry oh</p>
+<p begin="00:08:08.720" end="00:08:15.280" style="s2">it&#39;s not a lucky shot it&#39;s like</p>
+<p begin="00:08:13.599" end="00:08:17.759" style="s2">all right love 40. come on get this</p>
+<p begin="00:08:15.280" end="00:08:17.759" style="s2">break back</p>
+<p begin="00:08:19.840" end="00:08:22.560" style="s2">middle middle</p>
+<p begin="00:08:25.280" end="00:08:27.840" style="s2">middle anna</p>
+<p begin="00:08:46.880" end="00:08:50.080" style="s2">you&#39;re being moved like a yo-yo up and</p>
+<p begin="00:08:48.399" end="00:08:51.920" style="s2">down all right</p>
+<p begin="00:08:50.080" end="00:08:53.600" style="s2">listen you when you&#39;re up there close</p>
+<p begin="00:08:51.920" end="00:08:54.800" style="s2">you can also volley</p>
+<p begin="00:08:53.600" end="00:08:56.720" style="s2">you see you come to the net and you keep</p>
+<p begin="00:08:54.800" end="00:08:58.320" style="s2">backing up remember alex we did him</p>
+<p begin="00:08:56.720" end="00:09:00.399" style="s2">you take the ball in the air i&#39;m i&#39;m</p>
+<p begin="00:08:58.320" end="00:09:02.480" style="s2">never sure when to get</p>
+<p begin="00:09:00.399" end="00:09:03.680" style="s2">just stay there you can if you&#39;re very</p>
+<p begin="00:09:02.480" end="00:09:05.279" style="s2">close to the net you stay there</p>
+<p begin="00:09:03.680" end="00:09:09.839" style="s2">you don&#39;t have time to back up yeah 15</p>
+<p begin="00:09:05.279" end="00:09:09.839" style="s2">40. come on get this game right here</p>
+<p begin="00:09:31.020" end="00:09:34.200" style="s2">[Applause]</p>
+<p begin="00:09:34.839" end="00:09:37.839" style="s2">please</p>
+<p begin="00:09:48.240" end="00:09:52.560" style="s2">all right listen couple of things not a</p>
+<p begin="00:09:50.720" end="00:09:53.279" style="s2">bad rally what you should never do is</p>
+<p begin="00:09:52.560" end="00:09:55.040" style="s2">talk in the</p>
+<p begin="00:09:53.279" end="00:09:56.800" style="s2">inside the rally first of all it&#39;s not</p>
+<p begin="00:09:55.040" end="00:09:57.200" style="s2">allowed anyway tennis rules yeah you&#39;re</p>
+<p begin="00:09:56.800" end="00:09:59.360" style="s2">not</p>
+<p begin="00:09:57.200" end="00:10:00.800" style="s2">uh supposed to say anything during a</p>
+<p begin="00:09:59.360" end="00:10:02.399" style="s2">rally it&#39;s called hindrance</p>
+<p begin="00:10:00.800" end="00:10:04.000" style="s2">but also it takes your concentration</p>
+<p begin="00:10:02.399" end="00:10:07.600" style="s2">away you notice how you you started</p>
+<p begin="00:10:04.000" end="00:10:07.600" style="s2">talking and you missed the next backhand</p>
+<p begin="00:10:09.519" end="00:10:11.839" style="s2">middle</p>
+<p begin="00:10:15.360" end="00:10:19.440" style="s2">corner all right all right anna you&#39;re</p>
+<p begin="00:10:18.720" end="00:10:21.120" style="s2">on the board</p>
+<p begin="00:10:19.440" end="00:10:22.560" style="s2">excellent job it&#39;s one one that you&#39;re</p>
+<p begin="00:10:21.120" end="00:10:24.399" style="s2">serving okay</p>
+<p begin="00:10:22.560" end="00:10:26.079" style="s2">and try to get ahead in the in the game</p>
+<p begin="00:10:24.399" end="00:10:27.600" style="s2">now when it comes to the serve</p>
+<p begin="00:10:26.079" end="00:10:29.040" style="s2">you toss you were tossing it way too</p>
+<p begin="00:10:27.600" end="00:10:30.480" style="s2">much you were losing confidence from</p>
+<p begin="00:10:29.040" end="00:10:32.399" style="s2">there so i want you to</p>
+<p begin="00:10:30.480" end="00:10:34.079" style="s2">make less attempts on the toss and just</p>
+<p begin="00:10:32.399" end="00:10:36.720" style="s2">hit them even though it&#39;s a bad</p>
+<p begin="00:10:34.079" end="00:10:36.720" style="s2">comment right here</p>
+<p begin="00:10:44.480" end="00:10:48.240" style="s2">anna nice you see you put a little bit</p>
+<p begin="00:10:46.959" end="00:10:50.160" style="s2">of height on that forehand</p>
+<p begin="00:10:48.240" end="00:11:01.839" style="s2">and she had a hard time the toast was</p>
+<p begin="00:10:50.160" end="00:11:01.839" style="s2">successful so okay here we go</p>
+<p begin="00:11:09.040" end="00:11:13.440" style="s2">don&#39;t don&#39;t forget to call it though you</p>
+<p begin="00:11:11.360" end="00:11:15.600" style="s2">say out</p>
+<p begin="00:11:13.440" end="00:11:17.040" style="s2">she saw it i&#39;ve done i know it&#39;s obvious</p>
+<p begin="00:11:15.600" end="00:11:18.079" style="s2">there i just want to get used to calling</p>
+<p begin="00:11:17.040" end="00:11:19.519" style="s2">the balls</p>
+<p begin="00:11:18.079" end="00:11:20.399" style="s2">maybe the best four hands you hit all</p>
+<p begin="00:11:19.519" end="00:11:21.839" style="s2">day you see you&#39;re getting more</p>
+<p begin="00:11:20.399" end="00:11:24.160" style="s2">confidence now you notice it</p>
+<p begin="00:11:21.839" end="00:11:25.120" style="s2">getting confidence you got two balls all</p>
+<p begin="00:11:24.160" end="00:11:29.839" style="s2">right here we go</p>
+<p begin="00:11:25.120" end="00:11:29.839" style="s2">30 love</p>
+<p begin="00:11:47.839" end="00:11:50.160" style="s2">finish</p>
+<p begin="00:11:53.600" end="00:11:56.800" style="s2">okay interesting choice that you did</p>
+<p begin="00:11:55.360" end="00:11:58.160" style="s2">like an open stance backhand but you</p>
+<p begin="00:11:56.800" end="00:11:59.920" style="s2">notice you&#39;re not really finishing your</p>
+<p begin="00:11:58.160" end="00:12:01.279" style="s2">backhands you&#39;re stopping halfway</p>
+<p begin="00:11:59.920" end="00:12:03.040" style="s2">make sure you finish it all the way have</p>
+<p begin="00:12:01.279" end="00:12:05.200" style="s2">trust in your back and it&#39;s a good shot</p>
+<p begin="00:12:03.040" end="00:12:06.720" style="s2">yeah you&#39;re stopping it halfway i don&#39;t</p>
+<p begin="00:12:05.200" end="00:12:08.639" style="s2">know if you can feel that or not</p>
+<p begin="00:12:06.720" end="00:12:12.320" style="s2">no but just make sure you finish all the</p>
+<p begin="00:12:08.639" end="00:12:12.320" style="s2">way okay okay yeah here we go</p>
+<p begin="00:12:16.880" end="00:12:19.920" style="s2">okay it&#39;s double fault right all right</p>
+<p begin="00:12:19.360" end="00:12:22.160" style="s2">30 all</p>
+<p begin="00:12:19.920" end="00:12:23.760" style="s2">it&#39;s no big deal shake it off double</p>
+<p begin="00:12:22.160" end="00:12:24.880" style="s2">faults are part of the game</p>
+<p begin="00:12:23.760" end="00:12:26.320" style="s2">and you&#39;re going to get this one right</p>
+<p begin="00:12:24.880" end="00:12:27.600" style="s2">here 30 very important point because</p>
+<p begin="00:12:26.320" end="00:12:30.000" style="s2">either it&#39;s game point for you</p>
+<p begin="00:12:27.600" end="00:12:33.680" style="s2">or breakpoint for her oh you already got</p>
+<p begin="00:12:30.000" end="00:12:33.680" style="s2">one let&#39;s get that first serve in</p>
+<p begin="00:12:36.839" end="00:12:39.839" style="s2">good</p>
+<p begin="00:12:46.639" end="00:12:50.160" style="s2">well i didn&#39;t think you hit it like by</p>
+<p begin="00:12:48.639" end="00:12:51.360" style="s2">accident you hit a great shot you don&#39;t</p>
+<p begin="00:12:50.160" end="00:12:53.440" style="s2">have to say sorry</p>
+<p begin="00:12:51.360" end="00:12:55.279" style="s2">you said the office you say come on come</p>
+<p begin="00:12:53.440" end="00:12:56.959" style="s2">on yeah you can do that that was</p>
+<p begin="00:12:55.279" end="00:12:58.160" style="s2">your first winner of the match winner</p>
+<p begin="00:12:56.959" end="00:12:59.120" style="s2">means when you hit a ball and she can&#39;t</p>
+<p begin="00:12:58.160" end="00:13:00.959" style="s2">get it back</p>
+<p begin="00:12:59.120" end="00:13:02.240" style="s2">so that was you i love christine i just</p>
+<p begin="00:13:00.959" end="00:13:04.079" style="s2">like that well you don&#39;t have to feel</p>
+<p begin="00:13:02.240" end="00:13:05.279" style="s2">bad</p>
+<p begin="00:13:04.079" end="00:13:07.600" style="s2">it&#39;s a friendly match you&#39;ve been very</p>
+<p begin="00:13:05.279" end="00:13:09.200" style="s2">fair so far yeah but there was a</p>
+<p begin="00:13:07.600" end="00:13:21.839" style="s2">great back and keep going like that 40</p>
+<p begin="00:13:09.200" end="00:13:21.839" style="s2">30. come on</p>
+<p begin="00:13:29.120" end="00:13:32.320" style="s2">okay you were too open on that back and</p>
+<p begin="00:13:30.959" end="00:13:33.440" style="s2">you ran right into it remember you got</p>
+<p begin="00:13:32.320" end="00:13:34.560" style="s2">to turn a little more on the back and</p>
+<p begin="00:13:33.440" end="00:13:36.399" style="s2">when you&#39;re too open it&#39;s going to go</p>
+<p begin="00:13:34.560" end="00:13:39.200" style="s2">crooked it&#39;s going to go sideways a lot</p>
+<p begin="00:13:36.399" end="00:13:39.200" style="s2">all right no big deal</p>
+<p begin="00:13:46.800" end="00:13:50.880" style="s2">anna again your high forehand is giving</p>
+<p begin="00:13:48.800" end="00:13:51.839" style="s2">her a lot of trouble you notice that</p>
+<p begin="00:13:50.880" end="00:13:53.360" style="s2">when you put the ball a little bit</p>
+<p begin="00:13:51.839" end="00:14:02.800" style="s2">higher with more spin she has a lot</p>
+<p begin="00:13:53.360" end="00:14:04.800" style="s2">she&#39;s a hard time</p>
+<p begin="00:14:02.800" end="00:14:06.480" style="s2">call it out all right now you win that</p>
+<p begin="00:14:04.800" end="00:14:08.079" style="s2">game that was a huge game to win because</p>
+<p begin="00:14:06.480" end="00:14:09.920" style="s2">now you&#39;re up to one so let&#39;s</p>
+<p begin="00:14:08.079" end="00:14:11.279" style="s2">keep now just keep going like this now</p>
+<p begin="00:14:09.920" end="00:14:12.959" style="s2">you want to go up 3-1</p>
+<p begin="00:14:11.279" end="00:14:14.560" style="s2">okay so you win the next game how many</p>
+<p begin="00:14:12.959" end="00:14:17.120" style="s2">games did we play so far</p>
+<p begin="00:14:14.560" end="00:14:17.600" style="s2">um we played so far at three games and</p>
+<p begin="00:14:17.120" end="00:14:19.920" style="s2">you&#39;re up</p>
+<p begin="00:14:17.600" end="00:14:21.279" style="s2">you&#39;re up two one you go up to six all</p>
+<p begin="00:14:19.920" end="00:14:22.079" style="s2">right so obviously if you you just</p>
+<p begin="00:14:21.279" end="00:14:24.079" style="s2">continue</p>
+<p begin="00:14:22.079" end="00:14:25.680" style="s2">you know increasing your lead it&#39;s going</p>
+<p begin="00:14:24.079" end="00:14:26.560" style="s2">to be easier to win the set if it stays</p>
+<p begin="00:14:25.680" end="00:14:27.760" style="s2">close</p>
+<p begin="00:14:26.560" end="00:14:29.600" style="s2">mentally you&#39;re going to feel like more</p>
+<p begin="00:14:27.760" end="00:14:32.880" style="s2">anxious is going to be more tight</p>
+<p begin="00:14:29.600" end="00:14:34.880" style="s2">because the outcome is more uncertain so</p>
+<p begin="00:14:32.880" end="00:14:36.959" style="s2">generally what happens as you build the</p>
+<p begin="00:14:34.880" end="00:14:45.839" style="s2">lead her confidence goes down</p>
+<p begin="00:14:36.959" end="00:14:45.839" style="s2">yours goes up</p>
+<p begin="00:14:49.920" end="00:14:52.560" style="s2">see i heard you say something during</p>
+<p begin="00:14:51.360" end="00:14:53.440" style="s2">that backhand you see how you didn&#39;t</p>
+<p begin="00:14:52.560" end="00:14:55.519" style="s2">finish it</p>
+<p begin="00:14:53.440" end="00:14:56.480" style="s2">just kind of bunted it there it worked</p>
+<p begin="00:14:55.519" end="00:14:58.320" style="s2">you got a little lucky</p>
+<p begin="00:14:56.480" end="00:14:59.760" style="s2">but you didn&#39;t finish that backhand yeah</p>
+<p begin="00:14:58.320" end="00:15:00.720" style="s2">you bunted it make sure you finish all</p>
+<p begin="00:14:59.760" end="00:15:04.639" style="s2">the way okay</p>
+<p begin="00:15:00.720" end="00:15:04.639" style="s2">you trust it go right here low 15.</p>
+<p begin="00:15:06.959" end="00:15:09.279" style="s2">middle</p>
+<p begin="00:15:10.720" end="00:15:13.839" style="s2">on the middle</p>
+<p begin="00:15:21.600" end="00:15:26.639" style="s2">very nice shot very good</p>
+<p begin="00:15:24.880" end="00:15:28.240" style="s2">uh you&#39;re camping out over here too much</p>
+<p begin="00:15:26.639" end="00:15:29.920" style="s2">you know you&#39;re stuck in bad situations</p>
+<p begin="00:15:28.240" end="00:15:31.199" style="s2">you gave her a really weak paw that she</p>
+<p begin="00:15:29.920" end="00:15:32.639" style="s2">took advantage of</p>
+<p begin="00:15:31.199" end="00:15:33.920" style="s2">so keep keeping aggressive you&#39;re</p>
+<p begin="00:15:32.639" end="00:15:35.040" style="s2">playing well now you can go a little bit</p>
+<p begin="00:15:33.920" end="00:15:41.839" style="s2">stronger on your shots</p>
+<p begin="00:15:35.040" end="00:15:41.839" style="s2">okay all right over there fifteen all</p>
+<p begin="00:16:00.399" end="00:16:09.839" style="s2">out very good call anna and yes it was</p>
+<p begin="00:16:03.199" end="00:16:09.839" style="s2">out 15 30. great rally</p>
+<p begin="00:16:20.839" end="00:16:25.440" style="s2">middle</p>
+<p begin="00:16:23.519" end="00:16:26.959" style="s2">okay anna you see that one forehead it</p>
+<p begin="00:16:25.440" end="00:16:28.480" style="s2">looked like it was going to go out</p>
+<p begin="00:16:26.959" end="00:16:30.079" style="s2">and then it came in it was because you</p>
+<p begin="00:16:28.480" end="00:16:32.880" style="s2">put a little bit of spin on there</p>
+<p begin="00:16:30.079" end="00:16:33.600" style="s2">very nice 1540 now you got break point</p>
+<p begin="00:16:32.880" end="00:16:35.440" style="s2">okay</p>
+<p begin="00:16:33.600" end="00:16:37.839" style="s2">you try to get this game slide over to</p>
+<p begin="00:16:35.440" end="00:16:37.839" style="s2">that side</p>
+<p begin="00:16:44.800" end="00:16:48.320" style="s2">no problem it&#39;s a tough shot but also</p>
+<p begin="00:16:47.199" end="00:16:49.519" style="s2">you&#39;re hitting a backhand from the</p>
+<p begin="00:16:48.320" end="00:16:51.360" style="s2">forehand side</p>
+<p begin="00:16:49.519" end="00:16:52.880" style="s2">what do you prefer right now which shot</p>
+<p begin="00:16:51.360" end="00:16:54.480" style="s2">you could have just moved this way</p>
+<p begin="00:16:52.880" end="00:16:57.199" style="s2">so what do you what do you prefer to hit</p>
+<p begin="00:16:54.480" end="00:16:59.759" style="s2">right now 400 what do you trust more</p>
+<p begin="00:16:57.199" end="00:17:01.360" style="s2">it&#39;s 50 50. perhaps yeah okay well in</p>
+<p begin="00:16:59.759" end="00:17:03.120" style="s2">that case you didn&#39;t didn&#39;t do</p>
+<p begin="00:17:01.360" end="00:17:04.880" style="s2">too bad of a decision to try to hit a up</p>
+<p begin="00:17:03.120" end="00:17:06.480" style="s2">from there generally speaking everything</p>
+<p begin="00:17:04.880" end="00:17:07.919" style="s2">on this side would be a forehand but you</p>
+<p begin="00:17:06.480" end="00:17:09.679" style="s2">were coming from this corner so a lot of</p>
+<p begin="00:17:07.919" end="00:17:11.199" style="s2">times you don&#39;t get back to the middle</p>
+<p begin="00:17:09.679" end="00:17:13.120" style="s2">enough you&#39;re kind of camping out on the</p>
+<p begin="00:17:11.199" end="00:17:14.160" style="s2">sides too much all right so get back to</p>
+<p begin="00:17:13.120" end="00:17:15.760" style="s2">the middle every time okay</p>
+<p begin="00:17:14.160" end="00:17:19.839" style="s2">30 40. you got one breakpoint left get</p>
+<p begin="00:17:15.760" end="00:17:19.839" style="s2">it right here come on</p>
+<p begin="00:17:25.679" end="00:17:30.640" style="s2">all right too weak it&#39;s okay</p>
+<p begin="00:17:28.799" end="00:17:32.559" style="s2">it&#39;s too weak maybe a little bit of</p>
+<p begin="00:17:30.640" end="00:17:34.000" style="s2">tension in your arm the arm was heavy</p>
+<p begin="00:17:32.559" end="00:17:36.400" style="s2">you know you couldn&#39;t get any power</p>
+<p begin="00:17:34.000" end="00:17:38.080" style="s2">no biggie we keep going deuce no no no</p>
+<p begin="00:17:36.400" end="00:17:40.640" style="s2">it&#39;s deuce</p>
+<p begin="00:17:38.080" end="00:17:42.480" style="s2">so you just had break points which you</p>
+<p begin="00:17:40.640" end="00:17:45.039" style="s2">didn&#39;t convert</p>
+<p begin="00:17:42.480" end="00:17:46.799" style="s2">and now it&#39;s deuce now it&#39;s like 4 40</p>
+<p begin="00:17:45.039" end="00:17:48.080" style="s2">all and now it&#39;s deuce you need two in a</p>
+<p begin="00:17:46.799" end="00:17:51.120" style="s2">row to win</p>
+<p begin="00:17:48.080" end="00:17:53.280" style="s2">so you&#39;re very still very close to um</p>
+<p begin="00:17:51.120" end="00:17:54.640" style="s2">win this game what happens often is when</p>
+<p begin="00:17:53.280" end="00:17:56.080" style="s2">you have these opportunities to win the</p>
+<p begin="00:17:54.640" end="00:17:58.240" style="s2">game and you don&#39;t</p>
+<p begin="00:17:56.080" end="00:18:00.400" style="s2">a lot of players get very disappointed</p>
+<p begin="00:17:58.240" end="00:18:02.000" style="s2">and then they start doing very badly</p>
+<p begin="00:18:00.400" end="00:18:04.240" style="s2">oh yeah so you just forget about it just</p>
+<p begin="00:18:02.000" end="00:18:05.360" style="s2">do you know if you didn&#39;t</p>
+<p begin="00:18:04.240" end="00:18:07.679" style="s2">oh you don&#39;t even remember that you just</p>
+<p begin="00:18:05.360" end="00:18:09.520" style="s2">had two break points</p>
+<p begin="00:18:07.679" end="00:18:10.799" style="s2">i&#39;m just playing no you&#39;ve got to keep</p>
+<p begin="00:18:09.520" end="00:18:11.520" style="s2">your mind on the score though because</p>
+<p begin="00:18:10.799" end="00:18:13.280" style="s2">the score is</p>
+<p begin="00:18:11.520" end="00:18:14.799" style="s2">very very important how are you going to</p>
+<p begin="00:18:13.280" end="00:18:18.559" style="s2">play this game but</p>
+<p begin="00:18:14.799" end="00:18:19.919" style="s2">this way if you if you no mental spaces</p>
+<p begin="00:18:18.559" end="00:18:21.679" style="s2">i understand but that you can&#39;t play</p>
+<p begin="00:18:19.919" end="00:18:23.280" style="s2">tennis like that first of all if i&#39;m not</p>
+<p begin="00:18:21.679" end="00:18:25.200" style="s2">here you&#39;re gonna have to keep score</p>
+<p begin="00:18:23.280" end="00:18:27.200" style="s2">you have to think about the score every</p>
+<p begin="00:18:25.200" end="00:18:28.720" style="s2">single point</p>
+<p begin="00:18:27.200" end="00:18:30.240" style="s2">okay maybe that&#39;s a bad thing next time</p>
+<p begin="00:18:28.720" end="00:18:30.799" style="s2">i&#39;ll i&#39;ll just put the camera up and</p>
+<p begin="00:18:30.240" end="00:18:32.320" style="s2">i&#39;ll leave</p>
+<p begin="00:18:30.799" end="00:18:35.520" style="s2">okay and then i&#39;ll check the results</p>
+<p begin="00:18:32.320" end="00:18:35.520" style="s2">later over there deuce</p>
+<p begin="00:18:40.960" end="00:18:45.520" style="s2">anna that&#39;s when you say sorry to</p>
+<p begin="00:18:42.799" end="00:18:47.120" style="s2">christine you can say sorry</p>
+<p begin="00:18:45.520" end="00:18:48.720" style="s2">i understand it was a completely lucky</p>
+<p begin="00:18:47.120" end="00:18:50.400" style="s2">shot right so you&#39;re just tennis</p>
+<p begin="00:18:48.720" end="00:18:52.880" style="s2">etiquette says you just put your hand up</p>
+<p begin="00:18:50.400" end="00:18:55.039" style="s2">and say sorry</p>
+<p begin="00:18:52.880" end="00:18:56.480" style="s2">okay you go over there add out now you</p>
+<p begin="00:18:55.039" end="00:18:59.440" style="s2">got break point anna</p>
+<p begin="00:18:56.480" end="00:18:59.440" style="s2">slide over that way</p>
+<p begin="00:19:06.640" end="00:19:10.080" style="s2">again too weak remember when you get</p>
+<p begin="00:19:08.799" end="00:19:12.799" style="s2">pushed further back</p>
+<p begin="00:19:10.080" end="00:19:14.080" style="s2">which you are now you put more height or</p>
+<p begin="00:19:12.799" end="00:19:15.919" style="s2">the ball&#39;s gonna die especially if</p>
+<p begin="00:19:14.080" end="00:19:25.840" style="s2">you&#39;re tight and you have a heavy arm</p>
+<p begin="00:19:15.919" end="00:19:25.840" style="s2">all right deuce go back over here</p>
+<p begin="00:19:36.400" end="00:19:40.000" style="s2">okay you overcooked it a little bit you</p>
+<p begin="00:19:37.840" end="00:19:42.240" style="s2">put too much steam on that forehand</p>
+<p begin="00:19:40.000" end="00:19:43.760" style="s2">all right here christine now she has</p>
+<p begin="00:19:42.240" end="00:19:46.400" style="s2">game point let&#39;s add in</p>
+<p begin="00:19:43.760" end="00:19:46.880" style="s2">you come back over here on this side ana</p>
+<p begin="00:19:46.400" end="00:19:53.840" style="s2">over here</p>
+<p begin="00:19:46.880" end="00:19:53.840" style="s2">over here</p>
+<p begin="00:19:55.360" end="00:19:58.720" style="s2">okay see how you&#39;re not finishing the</p>
+<p begin="00:19:56.640" end="00:20:00.559" style="s2">back end though you&#39;re being too careful</p>
+<p begin="00:19:58.720" end="00:20:02.159" style="s2">you&#39;re being too careful all right no</p>
+<p begin="00:20:00.559" end="00:20:03.600" style="s2">biggies to all</p>
+<p begin="00:20:02.159" end="00:20:05.120" style="s2">nothing happened you had a couple of</p>
+<p begin="00:20:03.600" end="00:20:06.799" style="s2">opportunities that didn&#39;t convert you</p>
+<p begin="00:20:05.120" end="00:20:08.320" style="s2">just tension going</p>
+<p begin="00:20:06.799" end="00:20:10.240" style="s2">but you see what i mean there&#39;s tension</p>
+<p begin="00:20:08.320" end="00:20:11.360" style="s2">when it&#39;s close score yeah that&#39;s what i</p>
+<p begin="00:20:10.240" end="00:20:12.000" style="s2">was saying before you want to build the</p>
+<p begin="00:20:11.360" end="00:20:13.600" style="s2">lead</p>
+<p begin="00:20:12.000" end="00:20:15.360" style="s2">but no problem we keep going it&#39;s too</p>
+<p begin="00:20:13.600" end="00:20:15.840" style="s2">all you get this next game right here</p>
+<p begin="00:20:15.360" end="00:20:18.559" style="s2">come on</p>
+<p begin="00:20:15.840" end="00:20:20.000" style="s2">i think we&#39;ve got christine it&#39;s it&#39;s uh</p>
+<p begin="00:20:18.559" end="00:20:22.159" style="s2">8 13. let&#39;s just go up to</p>
+<p begin="00:20:20.000" end="00:20:24.080" style="s2">four because you got to leave at 8 30</p>
+<p begin="00:20:22.159" end="00:20:24.960" style="s2">right yeah so we do first one up to four</p>
+<p begin="00:20:24.080" end="00:20:29.280" style="s2">it&#39;s two all</p>
+<p begin="00:20:24.960" end="00:20:29.280" style="s2">okay if it&#39;s three all we play sudden</p>
+<p begin="00:20:32.840" end="00:20:35.840" style="s2">death</p>
+<p begin="00:20:48.320" end="00:20:53.440" style="s2">okay now look she&#39;s</p>
+<p begin="00:20:51.600" end="00:20:54.880" style="s2">kind of getting in the groove now you</p>
+<p begin="00:20:53.440" end="00:20:56.240" style="s2">got to start thinking about maybe</p>
+<p begin="00:20:54.880" end="00:20:57.600" style="s2">opening the cord up a little more</p>
+<p begin="00:20:56.240" end="00:20:58.799" style="s2">putting the ball in the corners a little</p>
+<p begin="00:20:57.600" end="00:21:00.400" style="s2">bit maybe</p>
+<p begin="00:20:58.799" end="00:21:01.520" style="s2">yeah start thinking about it because</p>
+<p begin="00:21:00.400" end="00:21:02.159" style="s2">going through the middle is not working</p>
+<p begin="00:21:01.520" end="00:21:03.919" style="s2">that great</p>
+<p begin="00:21:02.159" end="00:21:17.840" style="s2">because she&#39;s not missing anymore so try</p>
+<p begin="00:21:03.919" end="00:21:17.840" style="s2">to open up the cord a little bit</p>
+<p begin="00:21:28.320" end="00:21:31.360" style="s2">you were blocking my view but i&#39;m pretty</p>
+<p begin="00:21:30.000" end="00:21:32.960" style="s2">sure it was in was it</p>
+<p begin="00:21:31.360" end="00:21:34.640" style="s2">it was kind of like yeah it was good</p>
+<p begin="00:21:32.960" end="00:21:36.080" style="s2">right because i couldn&#39;t really see it</p>
+<p begin="00:21:34.640" end="00:21:38.400" style="s2">but i think i was in</p>
+<p begin="00:21:36.080" end="00:21:39.600" style="s2">um so what happens actually because you</p>
+<p begin="00:21:38.400" end="00:21:40.320" style="s2">called it out and was then you lose the</p>
+<p begin="00:21:39.600" end="00:21:42.559" style="s2">point</p>
+<p begin="00:21:40.320" end="00:21:43.679" style="s2">that&#39;s the rules huh yeah that&#39;s the</p>
+<p begin="00:21:42.559" end="00:21:45.039" style="s2">rule so you called it</p>
+<p begin="00:21:43.679" end="00:21:46.880" style="s2">out but it was actually in you</p>
+<p begin="00:21:45.039" end="00:21:49.039" style="s2">unfortunately lose that point yeah yeah</p>
+<p begin="00:21:46.880" end="00:21:51.120" style="s2">so it&#39;s a lot 30. i felt like it was</p>
+<p begin="00:21:49.039" end="00:21:52.320" style="s2">like yeah it&#39;s okay it can happen</p>
+<p begin="00:21:51.120" end="00:21:56.559" style="s2">sometime</p>
+<p begin="00:21:52.320" end="00:21:56.559" style="s2">at all yeah even if it touches</p>
+<p begin="00:21:56.960" end="00:22:00.720" style="s2">see even a millimeter on the line is</p>
+<p begin="00:21:58.960" end="00:22:01.039" style="s2">still in christina&#39;s right about that so</p>
+<p begin="00:22:00.720" end="00:22:02.720" style="s2">it&#39;s</p>
+<p begin="00:22:01.039" end="00:22:04.320" style="s2">just love 30 your point i don&#39;t think</p>
+<p begin="00:22:02.720" end="00:22:12.240" style="s2">we&#39;ve ever talked about it</p>
+<p begin="00:22:04.320" end="00:22:14.400" style="s2">not in that least detail</p>
+<p begin="00:22:12.240" end="00:22:14.400" style="s2">good</p>
+<p begin="00:22:24.159" end="00:22:27.360" style="s2">it&#39;s okay you caught the frame a little</p>
+<p begin="00:22:26.080" end="00:22:29.919" style="s2">bit it&#39;s all right</p>
+<p begin="00:22:27.360" end="00:22:31.280" style="s2">i love 40. all right now you now you&#39;re</p>
+<p begin="00:22:29.919" end="00:22:32.720" style="s2">in a big</p>
+<p begin="00:22:31.280" end="00:22:34.480" style="s2">you&#39;re in biggest trouble in your serve</p>
+<p begin="00:22:32.720" end="00:22:35.760" style="s2">but no biggie you want to claw back into</p>
+<p begin="00:22:34.480" end="00:22:41.840" style="s2">this game by getting this point right</p>
+<p begin="00:22:35.760" end="00:22:41.840" style="s2">here okay</p>
+<p begin="00:22:43.600" end="00:22:46.559" style="s2">all right anna again a little bit too</p>
+<p begin="00:22:45.120" end="00:22:47.919" style="s2">weak when you get pushed back you need a</p>
+<p begin="00:22:46.559" end="00:22:48.880" style="s2">little more strength because those balls</p>
+<p begin="00:22:47.919" end="00:22:50.480" style="s2">are dying on you</p>
+<p begin="00:22:48.880" end="00:22:52.080" style="s2">all right listen you got broken no big</p>
+<p begin="00:22:50.480" end="00:22:53.280" style="s2">deal there&#39;s two three</p>
+<p begin="00:22:52.080" end="00:22:54.720" style="s2">since we&#39;re only going up to force you</p>
+<p begin="00:22:53.280" end="00:22:56.159" style="s2">only need one more game to win the whole</p>
+<p begin="00:22:54.720" end="00:22:57.280" style="s2">thing so you got to get this one right</p>
+<p begin="00:22:56.159" end="00:22:59.679" style="s2">here okay</p>
+<p begin="00:22:57.280" end="00:23:01.120" style="s2">come on okay this is no biggie you just</p>
+<p begin="00:22:59.679" end="00:23:04.159" style="s2">got to get this game where it&#39;s over</p>
+<p begin="00:23:01.120" end="00:23:05.919" style="s2">all right here we go yeah to wipe them</p>
+<p begin="00:23:04.159" end="00:23:08.080" style="s2">off with a towel i recommend even get a</p>
+<p begin="00:23:05.919" end="00:23:09.120" style="s2">like a wristband you know oh yeah that&#39;s</p>
+<p begin="00:23:08.080" end="00:23:10.880" style="s2">what they&#39;re for</p>
+<p begin="00:23:09.120" end="00:23:13.760" style="s2">yeah wristband will stop sweat from</p>
+<p begin="00:23:10.880" end="00:23:13.760" style="s2">rolling onto your hands</p>
+<p begin="00:23:20.840" end="00:23:24.640" style="s2">good</p>
+<p begin="00:23:23.200" end="00:23:25.919" style="s2">okay well that was what was good about</p>
+<p begin="00:23:24.640" end="00:23:27.679" style="s2">that foreign you put it a little bit</p>
+<p begin="00:23:25.919" end="00:23:28.480" style="s2">away from her you put it to the side a</p>
+<p begin="00:23:27.679" end="00:23:30.000" style="s2">little bit</p>
+<p begin="00:23:28.480" end="00:23:31.440" style="s2">so you can try doing that now in this</p>
+<p begin="00:23:30.000" end="00:23:37.840" style="s2">game you put the ball a little bit away</p>
+<p begin="00:23:31.440" end="00:23:37.840" style="s2">from the middle</p>
+<p begin="00:23:38.000" end="00:23:43.360" style="s2">anna why was the sneaky shot there</p>
+<p begin="00:23:41.279" end="00:23:44.400" style="s2">was that actually it was normal was that</p>
+<p begin="00:23:43.360" end="00:23:47.520" style="s2">on purpose no</p>
+<p begin="00:23:44.400" end="00:23:49.039" style="s2">i mean not just how it was very calm but</p>
+<p begin="00:23:47.520" end="00:23:50.559" style="s2">you didn&#39;t finish finish that backhand</p>
+<p begin="00:23:49.039" end="00:23:51.679" style="s2">you got actually lucky there was a lucky</p>
+<p begin="00:23:50.559" end="00:23:54.480" style="s2">shot finish your back and</p>
+<p begin="00:23:51.679" end="00:23:56.080" style="s2">yeah finish it both finish them both</p>
+<p begin="00:23:54.480" end="00:23:57.360" style="s2">meaning they go all the way</p>
+<p begin="00:23:56.080" end="00:23:59.120" style="s2">all the way you&#39;re just kind of tapping</p>
+<p begin="00:23:57.360" end="00:24:00.400" style="s2">and bunting the ball which is normal</p>
+<p begin="00:23:59.120" end="00:24:02.000" style="s2">because you want to get the ball in very</p>
+<p begin="00:24:00.400" end="00:24:05.840" style="s2">badly it&#39;s very common</p>
+<p begin="00:24:02.000" end="00:24:05.840" style="s2">all right here we go love 30.</p>
+<p begin="00:24:11.039" end="00:24:13.279" style="s2">good</p>
+<p begin="00:24:16.840" end="00:24:19.840" style="s2">morning</p>
+<p begin="00:24:21.360" end="00:24:24.080" style="s2">okay anna</p>
+<p begin="00:24:25.840" end="00:24:28.320" style="s2">good call</p>
+<p begin="00:24:29.120" end="00:24:34.720" style="s2">oh yes it was it was out that&#39;s it</p>
+<p begin="00:24:32.400" end="00:24:35.520" style="s2">so it&#39;s now it&#39;s three all because you</p>
+<p begin="00:24:34.720" end="00:24:36.720" style="s2">have to go</p>
+<p begin="00:24:35.520" end="00:24:39.919" style="s2">we&#39;ll play we&#39;re going up to four let&#39;s</p>
+<p begin="00:24:36.720" end="00:24:42.480" style="s2">play deciding game winner takes all</p>
+<p begin="00:24:39.919" end="00:24:44.080" style="s2">right and anna&#39;s serving see when you&#39;re</p>
+<p begin="00:24:42.480" end="00:24:46.559" style="s2">not around i have christine</p>
+<p begin="00:24:44.080" end="00:24:47.520" style="s2">she knows she knows how to keep score</p>
+<p begin="00:24:46.559" end="00:24:48.880" style="s2">really well yeah</p>
+<p begin="00:24:47.520" end="00:24:51.120" style="s2">yeah you should definitely play with her</p>
+<p begin="00:24:48.880" end="00:24:51.840" style="s2">more this would be great great practice</p>
+<p begin="00:24:51.120" end="00:24:54.640" style="s2">for you</p>
+<p begin="00:24:51.840" end="00:24:56.720" style="s2">but uh nevertheless now it&#39;s it&#39;s time</p>
+<p begin="00:24:54.640" end="00:25:00.000" style="s2">to shine because this is sudden death</p>
+<p begin="00:24:56.720" end="00:25:01.520" style="s2">winner takes all anna oh stop all right</p>
+<p begin="00:25:00.000" end="00:25:03.679" style="s2">here we go i&#39;m just hyping you up a</p>
+<p begin="00:25:01.520" end="00:25:05.200" style="s2">little bit okay come on</p>
+<p begin="00:25:03.679" end="00:25:07.039" style="s2">well obviously it&#39;s important game three</p>
+<p begin="00:25:05.200" end="00:25:07.679" style="s2">all right the winner takes takes the</p>
+<p begin="00:25:07.039" end="00:25:10.000" style="s2">whole thing</p>
+<p begin="00:25:07.679" end="00:25:10.960" style="s2">so if you feel a little bit tense move</p>
+<p begin="00:25:10.000" end="00:25:12.480" style="s2">your feet more</p>
+<p begin="00:25:10.960" end="00:25:15.840" style="s2">okay also breathe don&#39;t forget to</p>
+<p begin="00:25:12.480" end="00:25:15.840" style="s2">breathe alright here we go you got this</p>
+<p begin="00:25:26.840" end="00:25:29.840" style="s2">anna</p>
+<p begin="00:25:55.120" end="00:26:00.880" style="s2">anna maybe the best rally of the match</p>
+<p begin="00:25:59.200" end="00:26:02.400" style="s2">great job guys that was a really nice</p>
+<p begin="00:26:00.880" end="00:26:05.200" style="s2">rally it was really good</p>
+<p begin="00:26:02.400" end="00:26:06.720" style="s2">really long yeah very good good little</p>
+<p begin="00:26:05.200" end="00:26:07.279" style="s2">backhand there see that was an exception</p>
+<p begin="00:26:06.720" end="00:26:09.039" style="s2">where you</p>
+<p begin="00:26:07.279" end="00:26:10.640" style="s2">don&#39;t really have to finish the ball was</p>
+<p begin="00:26:09.039" end="00:26:11.679" style="s2">very close to the net it was very low</p>
+<p begin="00:26:10.640" end="00:26:13.679" style="s2">you couldn&#39;t have finished there you</p>
+<p begin="00:26:11.679" end="00:26:25.840" style="s2">were fine doing the little buns all</p>
+<p begin="00:26:13.679" end="00:26:25.840" style="s2">right 15 left come on keep going</p>
+<p begin="00:26:37.520" end="00:26:41.039" style="s2">okay you know what a lot you scare the</p>
+<p begin="00:26:40.320" end="00:26:42.240" style="s2">camera but</p>
+<p begin="00:26:41.039" end="00:26:43.679" style="s2">you&#39;re so far away you don&#39;t have to</p>
+<p begin="00:26:42.240" end="00:26:44.320" style="s2">worry if you get close i&#39;m going to tell</p>
+<p begin="00:26:43.679" end="00:26:45.440" style="s2">you</p>
+<p begin="00:26:44.320" end="00:26:47.120" style="s2">so just get that out of your head</p>
+<p begin="00:26:45.440" end="00:26:48.400" style="s2">because you have plenty of space but i</p>
+<p begin="00:26:47.120" end="00:26:49.760" style="s2">love the way you played this rally that</p>
+<p begin="00:26:48.400" end="00:26:51.600" style="s2">was a really good point</p>
+<p begin="00:26:49.760" end="00:26:53.440" style="s2">so christine hit a very deep ball and</p>
+<p begin="00:26:51.600" end="00:26:54.720" style="s2">you you got a hard shot there but</p>
+<p begin="00:26:53.440" end="00:26:58.559" style="s2">there was some really good forehands</p>
+<p begin="00:26:54.720" end="00:26:58.559" style="s2">there keep going like that okay 15</p>
+<p begin="00:27:04.840" end="00:27:07.840" style="s2">all</p>
+<p begin="00:27:13.840" end="00:27:21.840" style="s2">it was a little bit long it&#39;s okay anna</p>
+<p begin="00:27:17.039" end="00:27:21.840" style="s2">no shake it off it&#39;s all right 15 30.</p>
+<p begin="00:27:32.640" end="00:27:36.480" style="s2">okay yeah again your head hit upside</p>
+<p begin="00:27:34.799" end="00:27:38.320" style="s2">down</p>
+<p begin="00:27:36.480" end="00:27:39.679" style="s2">you hit a fantastic forehand cross score</p>
+<p begin="00:27:38.320" end="00:27:41.200" style="s2">you had the whole court open you decided</p>
+<p begin="00:27:39.679" end="00:27:43.440" style="s2">to do something different</p>
+<p begin="00:27:41.200" end="00:27:44.640" style="s2">simply go back the other way but don&#39;t</p>
+<p begin="00:27:43.440" end="00:27:46.799" style="s2">worry about it it&#39;s okay</p>
+<p begin="00:27:44.640" end="00:27:47.679" style="s2">now if you realize 1540 is match point</p>
+<p begin="00:27:46.799" end="00:27:50.240" style="s2">her</p>
+<p begin="00:27:47.679" end="00:27:51.919" style="s2">all right so you got to get this point</p>
+<p begin="00:27:50.240" end="00:27:53.039" style="s2">otherwise it&#39;s going to be over come on</p>
+<p begin="00:27:51.919" end="00:27:54.480" style="s2">get this point right here it&#39;s a little</p>
+<p begin="00:27:53.039" end="00:27:56.559" style="s2">bit of pressure but you can do it come</p>
+<p begin="00:27:54.480" end="00:27:56.559" style="s2">on</p>
+<p begin="00:28:00.320" end="00:28:05.200" style="s2">all right one match point saved very</p>
+<p begin="00:28:02.399" end="00:28:05.200" style="s2">good job anna</p>
+<p begin="00:28:07.600" end="00:28:12.240" style="s2">anna two match points saved but now keep</p>
+<p begin="00:28:10.799" end="00:28:14.640" style="s2">going get this point right here</p>
+<p begin="00:28:12.240" end="00:28:16.720" style="s2">and you got yourself a match point okay</p>
+<p begin="00:28:14.640" end="00:28:17.840" style="s2">come on no pressure</p>
+<p begin="00:28:16.720" end="00:28:31.840" style="s2">all right tell us all about pressure</p>
+<p begin="00:28:17.840" end="00:28:31.840" style="s2">here we go</p>
+<p begin="00:28:42.559" end="00:28:47.440" style="s2">anna you overcooked it but good try it&#39;s</p>
+<p begin="00:28:44.799" end="00:28:48.799" style="s2">okay you overcooked it just a little bit</p>
+<p begin="00:28:47.440" end="00:28:50.640" style="s2">all right no problem match point number</p>
+<p begin="00:28:48.799" end="00:28:53.279" style="s2">three let&#39;s get it back okay</p>
+<p begin="00:28:50.640" end="00:28:53.279" style="s2">keep fighting</p>
+<p begin="00:28:56.640" end="00:29:01.440" style="s2">all right no problem again very common</p>
+<p begin="00:28:59.760" end="00:29:03.120" style="s2">here do a racket tap with me you did</p>
+<p begin="00:29:01.440" end="00:29:05.039" style="s2">fantastic job on it you did</p>
+<p begin="00:29:03.120" end="00:29:07.120" style="s2">really really well the stuff that was</p>
+<p begin="00:29:05.039" end="00:29:08.640" style="s2">happening uh we&#39;ll talk about it later</p>
+<p begin="00:29:07.120" end="00:29:11.679" style="s2">but first you got to go shake hands with</p>
+<p begin="00:29:08.640" end="00:29:13.760" style="s2">christine or do a racket tap</p>
+<p begin="00:29:11.679" end="00:29:14.799" style="s2">great match christine good playing nice</p>
+<p begin="00:29:13.760" end="00:29:18.480" style="s2">work anna</p>
+<p begin="00:29:14.799" end="00:29:20.320" style="s2">don&#39;t be sad okay it&#39;s okay</p>
+<p begin="00:29:18.480" end="00:29:21.679" style="s2">it&#39;s okay there&#39;s tennis you win or lose</p>
+<p begin="00:29:20.320" end="00:29:23.760" style="s2">you were so close</p>
+<p begin="00:29:21.679" end="00:29:25.039" style="s2">i&#39;m not a teenager i can hold my ground</p>
+<p begin="00:29:23.760" end="00:29:27.279" style="s2">but you see now what i was telling you</p>
+<p begin="00:29:25.039" end="00:29:28.880" style="s2">when we were preparing for the match how</p>
+<p begin="00:29:27.279" end="00:29:30.880" style="s2">you cannot recreate the emotions that</p>
+<p begin="00:29:28.880" end="00:29:33.039" style="s2">you&#39;re feeling during a real match</p>
+<p begin="00:29:30.880" end="00:29:34.480" style="s2">in practice why because it depends on</p>
+<p begin="00:29:33.039" end="00:29:36.080" style="s2">the score line first of all you&#39;re</p>
+<p begin="00:29:34.480" end="00:29:38.000" style="s2">nervous in general to compete a little</p>
+<p begin="00:29:36.080" end="00:29:39.039" style="s2">bit but then when the match starts</p>
+<p begin="00:29:38.000" end="00:29:40.399" style="s2">there&#39;s going to be certain things</p>
+<p begin="00:29:39.039" end="00:29:42.000" style="s2">happening in the match certain score</p>
+<p begin="00:29:40.399" end="00:29:44.080" style="s2">lines that are gonna make you feel</p>
+<p begin="00:29:42.000" end="00:29:45.200" style="s2">nervous and anxious so that&#39;s what makes</p>
+<p begin="00:29:44.080" end="00:29:47.039" style="s2">tennis so challenging</p>
+<p begin="00:29:45.200" end="00:29:48.399" style="s2">but also what makes it so fun because</p>
+<p begin="00:29:47.039" end="00:29:50.080" style="s2">now don&#39;t you want to play again</p>
+<p begin="00:29:48.399" end="00:29:51.520" style="s2">oh i can&#39;t wait and give yourself</p>
+<p begin="00:29:50.080" end="00:29:53.039" style="s2">another chance yeah</p>
+<p begin="00:29:51.520" end="00:29:54.159" style="s2">with christine but a couple of things i</p>
+<p begin="00:29:53.039" end="00:29:55.279" style="s2">want to tell you as far as your</p>
+<p begin="00:29:54.159" end="00:29:57.120" style="s2">technique</p>
+<p begin="00:29:55.279" end="00:29:59.200" style="s2">and number one the serve needs a lot of</p>
+<p begin="00:29:57.120" end="00:30:00.000" style="s2">work it&#39;s okay i didn&#39;t really say</p>
+<p begin="00:29:59.200" end="00:30:01.600" style="s2">anything because</p>
+<p begin="00:30:00.000" end="00:30:03.600" style="s2">when you play a match you can&#39;t really</p>
+<p begin="00:30:01.600" end="00:30:05.039" style="s2">do technique so i didn&#39;t say anything</p>
+<p begin="00:30:03.600" end="00:30:06.159" style="s2">technical other than like try to finish</p>
+<p begin="00:30:05.039" end="00:30:07.600" style="s2">your strokes okay</p>
+<p begin="00:30:06.159" end="00:30:09.200" style="s2">which is also a mental thing because</p>
+<p begin="00:30:07.600" end="00:30:10.320" style="s2">when you&#39;re tight you don&#39;t finish</p>
+<p begin="00:30:09.200" end="00:30:12.960" style="s2">you&#39;re kind of bunt</p>
+<p begin="00:30:10.320" end="00:30:13.440" style="s2">so finishing that&#39;s okay thing to try to</p>
+<p begin="00:30:12.960" end="00:30:14.559" style="s2">do</p>
+<p begin="00:30:13.440" end="00:30:16.480" style="s2">uh during the course of a match when it</p>
+<p begin="00:30:14.559" end="00:30:17.840" style="s2">comes to the serve it&#39;s so complex we&#39;re</p>
+<p begin="00:30:16.480" end="00:30:19.760" style="s2">going to have to work on it and</p>
+<p begin="00:30:17.840" end="00:30:21.120" style="s2">really spend a lot of time because your</p>
+<p begin="00:30:19.760" end="00:30:22.559" style="s2">your service still pretty much at a</p>
+<p begin="00:30:21.120" end="00:30:24.240" style="s2">beginner level</p>
+<p begin="00:30:22.559" end="00:30:25.600" style="s2">i&#39;m really happy about your forehand</p>
+<p begin="00:30:24.240" end="00:30:26.240" style="s2">though do you see how well your forehand</p>
+<p begin="00:30:25.600" end="00:30:28.080" style="s2">was working</p>
+<p begin="00:30:26.240" end="00:30:29.760" style="s2">let&#39;s get in there yeah still like the</p>
+<p begin="00:30:28.080" end="00:30:32.320" style="s2">consistency is iffy</p>
+<p begin="00:30:29.760" end="00:30:33.440" style="s2">yeah but i i love the way you&#39;re hitting</p>
+<p begin="00:30:32.320" end="00:30:34.799" style="s2">your forehand</p>
+<p begin="00:30:33.440" end="00:30:36.159" style="s2">backhand i was surprised that you</p>
+<p begin="00:30:34.799" end="00:30:38.799" style="s2">weren&#39;t finishing it often you would</p>
+<p begin="00:30:36.159" end="00:30:41.279" style="s2">just go halfway you were bunting it</p>
+<p begin="00:30:38.799" end="00:30:43.039" style="s2">placement of the ball we got to work on</p>
+<p begin="00:30:41.279" end="00:30:45.120" style="s2">two i think as the match progressed when</p>
+<p begin="00:30:43.039" end="00:30:46.880" style="s2">you got a little bit deeper into the set</p>
+<p begin="00:30:45.120" end="00:30:48.399" style="s2">you started opening the cord up a little</p>
+<p begin="00:30:46.880" end="00:30:49.120" style="s2">more in the beginning you were hitting</p>
+<p begin="00:30:48.399" end="00:30:50.960" style="s2">everything uh</p>
+<p begin="00:30:49.120" end="00:30:53.200" style="s2">through the middle which i like but</p>
+<p begin="00:30:50.960" end="00:30:55.279" style="s2">eventually christine got used to that</p>
+<p begin="00:30:53.200" end="00:30:57.120" style="s2">and then she stopped missing so much</p>
+<p begin="00:30:55.279" end="00:30:58.159" style="s2">then it&#39;s time to start opening the cord</p>
+<p begin="00:30:57.120" end="00:30:59.679" style="s2">and make life a little bit more</p>
+<p begin="00:30:58.159" end="00:31:00.799" style="s2">difficult for her so placement of the</p>
+<p begin="00:30:59.679" end="00:31:02.399" style="s2">ball is another thing</p>
+<p begin="00:31:00.799" end="00:31:04.799" style="s2">that you got to work on and court</p>
+<p begin="00:31:02.399" end="00:31:05.519" style="s2">positioning you&#39;re often in no man&#39;s</p>
+<p begin="00:31:04.799" end="00:31:06.799" style="s2">land</p>
+<p begin="00:31:05.519" end="00:31:08.880" style="s2">you know stuck in the middle of the</p>
+<p begin="00:31:06.799" end="00:31:10.399" style="s2">court so we got to work on it too but i</p>
+<p begin="00:31:08.880" end="00:31:12.000" style="s2">have to say for your first match ever</p>
+<p begin="00:31:10.399" end="00:31:12.799" style="s2">you did fantastically well you did a</p>
+<p begin="00:31:12.000" end="00:31:15.919" style="s2">really good job</p>
+<p begin="00:31:12.799" end="00:31:17.679" style="s2">i know it&#39;s really humid so this hands</p>
+<p begin="00:31:15.919" end="00:31:18.880" style="s2">were like super sweaty</p>
+<p begin="00:31:17.679" end="00:31:20.880" style="s2">oh your hands were sweating you said</p>
+<p begin="00:31:18.880" end="00:31:22.320" style="s2">about the wristband something during the</p>
+<p begin="00:31:20.880" end="00:31:23.760" style="s2">game i wasn&#39;t sure</p>
+<p begin="00:31:22.320" end="00:31:25.519" style="s2">well it&#39;s just one of those this uh</p>
+<p begin="00:31:23.760" end="00:31:25.840" style="s2">summertime in florida so so you just</p>
+<p begin="00:31:25.519" end="00:31:28.240" style="s2">like</p>
+<p begin="00:31:25.840" end="00:31:29.679" style="s2">rub your hand on the wristband i was</p>
+<p begin="00:31:28.240" end="00:31:30.720" style="s2">always curious wow</p>
+<p begin="00:31:29.679" end="00:31:32.080" style="s2">here&#39;s a couple of things you can do</p>
+<p begin="00:31:30.720" end="00:31:33.279" style="s2">with the wristband first of all it does</p>
+<p begin="00:31:32.080" end="00:31:34.880" style="s2">block some of the sweat from</p>
+<p begin="00:31:33.279" end="00:31:36.720" style="s2">pouring onto your hand which will make</p>
+<p begin="00:31:34.880" end="00:31:38.559" style="s2">it which will make the</p>
+<p begin="00:31:36.720" end="00:31:40.000" style="s2">which will make the grip wet and also</p>
+<p begin="00:31:38.559" end="00:31:41.200" style="s2">you can wipe yourself off a little bit</p>
+<p begin="00:31:40.000" end="00:31:42.640" style="s2">with the wristband as well</p>
+<p begin="00:31:41.200" end="00:31:44.240" style="s2">i thought it was styling thing i&#39;m like</p>
+<p begin="00:31:42.640" end="00:31:45.120" style="s2">i have to get them too it&#39;s a little bit</p>
+<p begin="00:31:44.240" end="00:31:47.600" style="s2">of style too</p>
+<p begin="00:31:45.120" end="00:31:48.240" style="s2">but they do have a you know practical</p>
+<p begin="00:31:47.600" end="00:31:50.080" style="s2">purpose</p>
+<p begin="00:31:48.240" end="00:31:51.840" style="s2">for sure and always like when it&#39;s hot</p>
+<p begin="00:31:50.080" end="00:31:53.440" style="s2">like this you want to take a towel with</p>
+<p begin="00:31:51.840" end="00:31:56.480" style="s2">you to the back fence like you did</p>
+<p begin="00:31:53.440" end="00:32:00.399" style="s2">and towel off dry your grip especially</p>
+<p begin="00:31:56.480" end="00:32:01.039" style="s2">you know but um yeah there was a really</p>
+<p begin="00:32:00.399" end="00:32:03.440" style="s2">good</p>
+<p begin="00:32:01.039" end="00:32:04.720" style="s2">first match i&#39;m very positively</p>
+<p begin="00:32:03.440" end="00:32:06.720" style="s2">surprised actually</p>
+<p begin="00:32:04.720" end="00:32:09.200" style="s2">because first time playing a match is</p>
+<p begin="00:32:06.720" end="00:32:11.200" style="s2">always very difficult it&#39;s nerve-racking</p>
+<p begin="00:32:09.200" end="00:32:12.399" style="s2">you didn&#39;t double fault that many times</p>
+<p begin="00:32:11.200" end="00:32:13.039" style="s2">and even though the server wasn&#39;t</p>
+<p begin="00:32:12.399" end="00:32:14.720" style="s2">technically</p>
+<p begin="00:32:13.039" end="00:32:16.720" style="s2">technically correct you still was able</p>
+<p begin="00:32:14.720" end="00:32:18.320" style="s2">to get it in most of the time</p>
+<p begin="00:32:16.720" end="00:32:21.039" style="s2">and you rallied you had a lot of long</p>
+<p begin="00:32:18.320" end="00:32:23.279" style="s2">rallies yes which is fabulous</p>
+<p begin="00:32:21.039" end="00:32:24.960" style="s2">so the more matches you play the more</p>
+<p begin="00:32:23.279" end="00:32:25.679" style="s2">you lose some of these nerves that you</p>
+<p begin="00:32:24.960" end="00:32:27.039" style="s2">have now</p>
+<p begin="00:32:25.679" end="00:32:28.799" style="s2">and you&#39;re going to start playing more</p>
+<p begin="00:32:27.039" end="00:32:30.080" style="s2">freely and you&#39;re going to start playing</p>
+<p begin="00:32:28.799" end="00:32:32.960" style="s2">your practice game</p>
+<p begin="00:32:30.080" end="00:32:33.440" style="s2">in a match situation all right anna good</p>
+<p begin="00:32:32.960" end="00:32:36.799" style="s2">work</p>
+<p begin="00:32:33.440" end="00:32:38.240" style="s2">all right very nice no thank you that</p>
+<p begin="00:32:36.799" end="00:32:39.519" style="s2">was good thank you i&#39;m sorry again for</p>
+<p begin="00:32:38.240" end="00:32:41.600" style="s2">yesterday</p>
+<p begin="00:32:39.519" end="00:32:43.120" style="s2">i apologize i hope you&#39;re not mad at me</p>
+<p begin="00:32:41.600" end="00:32:44.480" style="s2">is it on the camera too</p>
+<p begin="00:32:43.120" end="00:32:53.039" style="s2">no i&#39;m not going to say that i&#39;m not</p>
+<p begin="00:32:44.480" end="00:32:53.039" style="s2">going to put on a camera</p>
+</div>
+</body>
+</tt>

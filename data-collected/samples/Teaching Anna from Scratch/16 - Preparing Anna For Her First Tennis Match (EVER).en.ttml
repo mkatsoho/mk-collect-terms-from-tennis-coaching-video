@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.080" end="00:00:04.960" style="s2">so let&#39;s do the math how long have you</p>
+<p begin="00:00:02.320" end="00:00:07.040" style="s2">been now been playing</p>
+<p begin="00:00:04.960" end="00:00:08.639" style="s2">like eight months eight months have you</p>
+<p begin="00:00:07.040" end="00:00:09.599" style="s2">played any matches you know what i mean</p>
+<p begin="00:00:08.639" end="00:00:11.280" style="s2">by that</p>
+<p begin="00:00:09.599" end="00:00:12.960" style="s2">no points nothing do you know how to</p>
+<p begin="00:00:11.280" end="00:00:17.039" style="s2">keep score no</p>
+<p begin="00:00:12.960" end="00:00:20.480" style="s2">i mean i&#39;ve heard about like love</p>
+<p begin="00:00:17.039" end="00:00:23.680" style="s2">all right 15. 15.</p>
+<p begin="00:00:20.480" end="00:00:25.599" style="s2">40 and 45 45. oh i&#39;m gonna teach you</p>
+<p begin="00:00:23.680" end="00:00:27.279" style="s2">sure no i&#39;m going to teach you the whole</p>
+<p begin="00:00:25.599" end="00:00:29.119" style="s2">thing today i want to prepare you for</p>
+<p begin="00:00:27.279" end="00:00:31.199" style="s2">your first match here&#39;s my idea</p>
+<p begin="00:00:29.119" end="00:00:32.160" style="s2">i want to teach you how to play like how</p>
+<p begin="00:00:31.199" end="00:00:33.840" style="s2">to keep score</p>
+<p begin="00:00:32.160" end="00:00:35.040" style="s2">all the rules and everything then we&#39;re</p>
+<p begin="00:00:33.840" end="00:00:36.000" style="s2">going to talk about tactics like how</p>
+<p begin="00:00:35.040" end="00:00:37.440" style="s2">you&#39;re actually going to play</p>
+<p begin="00:00:36.000" end="00:00:39.600" style="s2">and i&#39;m going to put it to test and play</p>
+<p begin="00:00:37.440" end="00:00:40.640" style="s2">your first match ever um we&#39;ve got to</p>
+<p begin="00:00:39.600" end="00:00:41.920" style="s2">find someone</p>
+<p begin="00:00:40.640" end="00:00:43.680" style="s2">we got to find someone for you to play</p>
+<p begin="00:00:41.920" end="00:00:46.800" style="s2">against and then because</p>
+<p begin="00:00:43.680" end="00:00:48.320" style="s2">you have to play i mean you</p>
+<p begin="00:00:46.800" end="00:00:50.000" style="s2">you don&#39;t necessarily have to you could</p>
+<p begin="00:00:48.320" end="00:00:52.480" style="s2">all like just play tennis</p>
+<p begin="00:00:50.000" end="00:00:53.360" style="s2">um and just rally and all that and do</p>
+<p begin="00:00:52.480" end="00:00:55.280" style="s2">drills</p>
+<p begin="00:00:53.360" end="00:00:56.960" style="s2">but you need like you&#39;re missing out on</p>
+<p begin="00:00:55.280" end="00:00:58.239" style="s2">a big</p>
+<p begin="00:00:56.960" end="00:01:00.239" style="s2">aspect of tennis was the actual</p>
+<p begin="00:00:58.239" end="00:01:02.079" style="s2">competition it&#39;s the one-on-one you</p>
+<p begin="00:01:00.239" end="00:01:03.840" style="s2">compete against somebody else so anna</p>
+<p begin="00:01:02.079" end="00:01:05.519" style="s2">like when you end up winning</p>
+<p begin="00:01:03.840" end="00:01:07.600" style="s2">a match it&#39;s gonna feel so good you&#39;re</p>
+<p begin="00:01:05.519" end="00:01:09.280" style="s2">gonna be so happy it&#39;s gonna be like</p>
+<p begin="00:01:07.600" end="00:01:11.040" style="s2">walking on clouds however if you end up</p>
+<p begin="00:01:09.280" end="00:01:13.280" style="s2">losing it&#39;s gonna feel</p>
+<p begin="00:01:11.040" end="00:01:14.960" style="s2">terrible too so that&#39;s the fun of it</p>
+<p begin="00:01:13.280" end="00:01:15.520" style="s2">like the competitive aspect of tennis is</p>
+<p begin="00:01:14.960" end="00:01:17.840" style="s2">so fun</p>
+<p begin="00:01:15.520" end="00:01:19.600" style="s2">and i do want you to to experience that</p>
+<p begin="00:01:17.840" end="00:01:20.560" style="s2">so i would like you to start playing</p>
+<p begin="00:01:19.600" end="00:01:23.280" style="s2">some matches</p>
+<p begin="00:01:20.560" end="00:01:26.080" style="s2">and i&#39;m gonna prepare you for it okay i</p>
+<p begin="00:01:23.280" end="00:01:27.600" style="s2">don&#39;t think i&#39;m gonna feel bad if i lose</p>
+<p begin="00:01:26.080" end="00:01:29.680" style="s2">some people don&#39;t depends on the</p>
+<p begin="00:01:27.600" end="00:01:31.920" style="s2">personality like i personally</p>
+<p begin="00:01:29.680" end="00:01:33.439" style="s2">when i lose you get this stuff like</p>
+<p begin="00:01:31.920" end="00:01:35.840" style="s2">that&#39;s an understatement</p>
+<p begin="00:01:33.439" end="00:01:37.040" style="s2">i get extremely extremely yeah i&#39;m not</p>
+<p begin="00:01:35.840" end="00:01:40.720" style="s2">very good when i lose</p>
+<p begin="00:01:37.040" end="00:01:43.680" style="s2">not very good for about two days</p>
+<p begin="00:01:40.720" end="00:01:45.040" style="s2">i&#39;m i&#39;m in a really really bad mood but</p>
+<p begin="00:01:43.680" end="00:01:46.479" style="s2">then after that i kind of</p>
+<p begin="00:01:45.040" end="00:01:47.680" style="s2">the nice thing about tennis is always</p>
+<p begin="00:01:46.479" end="00:01:48.479" style="s2">the next match is always the next</p>
+<p begin="00:01:47.680" end="00:01:50.799" style="s2">tournament</p>
+<p begin="00:01:48.479" end="00:01:51.600" style="s2">and you kind of kind of forget about the</p>
+<p begin="00:01:50.799" end="00:01:53.280" style="s2">loss</p>
+<p begin="00:01:51.600" end="00:01:55.280" style="s2">but yeah i&#39;m not i&#39;m not very good at</p>
+<p begin="00:01:53.280" end="00:01:56.799" style="s2">losing but some people are some people</p>
+<p begin="00:01:55.280" end="00:01:58.320" style="s2">can just shake it off immediately and</p>
+<p begin="00:01:56.799" end="00:02:00.799" style="s2">they&#39;re happy and</p>
+<p begin="00:01:58.320" end="00:02:03.119" style="s2">i think you are one of those people</p>
+<p begin="00:02:00.799" end="00:02:06.960" style="s2">because i have competitions in dancing</p>
+<p begin="00:02:03.119" end="00:02:09.840" style="s2">yeah here&#39;s your grip most of the time</p>
+<p begin="00:02:06.960" end="00:02:11.360" style="s2">i like that it matches nice and we are</p>
+<p begin="00:02:09.840" end="00:02:12.160" style="s2">matching grips look we have both of the</p>
+<p begin="00:02:11.360" end="00:02:14.480" style="s2">same grips</p>
+<p begin="00:02:12.160" end="00:02:16.080" style="s2">nice all right so i&#39;m gonna explain to</p>
+<p begin="00:02:14.480" end="00:02:16.560" style="s2">you how the scoring system first works</p>
+<p begin="00:02:16.080" end="00:02:18.239" style="s2">okay</p>
+<p begin="00:02:16.560" end="00:02:19.680" style="s2">so go ahead and stay on the baseline</p>
+<p begin="00:02:18.239" end="00:02:21.440" style="s2">okay anna so the way</p>
+<p begin="00:02:19.680" end="00:02:23.520" style="s2">scoring works in tennis basically</p>
+<p begin="00:02:21.440" end="00:02:27.840" style="s2">consists of a point</p>
+<p begin="00:02:23.520" end="00:02:31.120" style="s2">a game a set and a match</p>
+<p begin="00:02:27.840" end="00:02:33.360" style="s2">point game set match</p>
+<p begin="00:02:31.120" end="00:02:35.040" style="s2">you know when they say game set match</p>
+<p begin="00:02:33.360" end="00:02:36.400" style="s2">okay they said at the end of a match</p>
+<p begin="00:02:35.040" end="00:02:38.400" style="s2">that means it&#39;s over somebody won a</p>
+<p begin="00:02:36.400" end="00:02:42.000" style="s2">match is so it&#39;s a whole thing okay</p>
+<p begin="00:02:38.400" end="00:02:43.760" style="s2">so a point basically you see this middle</p>
+<p begin="00:02:42.000" end="00:02:47.440" style="s2">a line right here it&#39;s called a baseline</p>
+<p begin="00:02:43.760" end="00:02:49.040" style="s2">hash i think i&#39;m not sure about that but</p>
+<p begin="00:02:47.440" end="00:02:51.360" style="s2">you&#39;re always going to start from the</p>
+<p begin="00:02:49.040" end="00:02:51.840" style="s2">right okay you&#39;re gonna start from the</p>
+<p begin="00:02:51.360" end="00:02:54.239" style="s2">right</p>
+<p begin="00:02:51.840" end="00:02:55.599" style="s2">and you&#39;re gonna serve into the left</p>
+<p begin="00:02:54.239" end="00:02:56.959" style="s2">there you gotta get into that box you</p>
+<p begin="00:02:55.599" end="00:03:00.959" style="s2">see the box right there</p>
+<p begin="00:02:56.959" end="00:03:03.440" style="s2">service line you know that okay so</p>
+<p begin="00:03:00.959" end="00:03:04.480" style="s2">okay then after every point you&#39;re gonna</p>
+<p begin="00:03:03.440" end="00:03:06.720" style="s2">switch</p>
+<p begin="00:03:04.480" end="00:03:08.879" style="s2">so it&#39;s very important you start on you</p>
+<p begin="00:03:06.720" end="00:03:11.360" style="s2">start always start on this side</p>
+<p begin="00:03:08.879" end="00:03:12.080" style="s2">serving from the right to the left now</p>
+<p begin="00:03:11.360" end="00:03:14.080" style="s2">the way</p>
+<p begin="00:03:12.080" end="00:03:16.000" style="s2">the points work is kind of weird in</p>
+<p begin="00:03:14.080" end="00:03:17.599" style="s2">tennis because you need four points to</p>
+<p begin="00:03:16.000" end="00:03:19.280" style="s2">win a game</p>
+<p begin="00:03:17.599" end="00:03:22.239" style="s2">and this comes from the french they used</p>
+<p begin="00:03:19.280" end="00:03:25.519" style="s2">to keep score by using a clock</p>
+<p begin="00:03:22.239" end="00:03:26.959" style="s2">so the clock they would go 15 love which</p>
+<p begin="00:03:25.519" end="00:03:30.640" style="s2">is one point</p>
+<p begin="00:03:26.959" end="00:03:33.760" style="s2">30 love which is two points</p>
+<p begin="00:03:30.640" end="00:03:37.120" style="s2">then you would think it would go 45 love</p>
+<p begin="00:03:33.760" end="00:03:40.159" style="s2">and then game but the problem is</p>
+<p begin="00:03:37.120" end="00:03:42.080" style="s2">what if you tie at 45 all</p>
+<p begin="00:03:40.159" end="00:03:43.440" style="s2">you need two points to win the game and</p>
+<p begin="00:03:42.080" end="00:03:46.400" style="s2">that&#39;s why they say 40</p>
+<p begin="00:03:43.440" end="00:03:47.280" style="s2">because 40 would go up to 51 points and</p>
+<p begin="00:03:46.400" end="00:03:48.799" style="s2">then another</p>
+<p begin="00:03:47.280" end="00:03:50.560" style="s2">another point would be 60. does that</p>
+<p begin="00:03:48.799" end="00:03:54.319" style="s2">make sense so it doesn&#39;t go</p>
+<p begin="00:03:50.560" end="00:03:58.239" style="s2">15 30 45 it goes 15 30</p>
+<p begin="00:03:54.319" end="00:04:00.560" style="s2">40 because at 40 it&#39;s called deuce</p>
+<p begin="00:03:58.239" end="00:04:01.280" style="s2">and you need two points to win that</p>
+<p begin="00:04:00.560" end="00:04:04.000" style="s2">makes sense</p>
+<p begin="00:04:01.280" end="00:04:05.040" style="s2">yes and then when it&#39;s zero you say love</p>
+<p begin="00:04:04.000" end="00:04:08.000" style="s2">which means love</p>
+<p begin="00:04:05.040" end="00:04:09.519" style="s2">in in uh french which means uh egg so</p>
+<p begin="00:04:08.000" end="00:04:11.840" style="s2">it&#39;s kind of like a zero i guess</p>
+<p begin="00:04:09.519" end="00:04:13.439" style="s2">oh yeah so you say love all right so we</p>
+<p begin="00:04:11.840" end="00:04:16.239" style="s2">got 15 love 30 love</p>
+<p begin="00:04:13.439" end="00:04:17.840" style="s2">40 love not 45 and then and then we have</p>
+<p begin="00:04:16.239" end="00:04:19.519" style="s2">game so four points</p>
+<p begin="00:04:17.840" end="00:04:21.040" style="s2">if you tie the three points that&#39;s</p>
+<p begin="00:04:19.519" end="00:04:23.120" style="s2">called deuce</p>
+<p begin="00:04:21.040" end="00:04:24.320" style="s2">and then you have to win two points</p>
+<p begin="00:04:23.120" end="00:04:27.199" style="s2">you&#39;re gonna have</p>
+<p begin="00:04:24.320" end="00:04:27.520" style="s2">either add in or add out so let&#39;s say</p>
+<p begin="00:04:27.199" end="00:04:30.320" style="s2">it&#39;s</p>
+<p begin="00:04:27.520" end="00:04:32.240" style="s2">add in and you lose the point it goes</p>
+<p begin="00:04:30.320" end="00:04:34.160" style="s2">back to deuce so it keeps going until</p>
+<p begin="00:04:32.240" end="00:04:35.680" style="s2">somebody wins two points in a row all</p>
+<p begin="00:04:34.160" end="00:04:38.240" style="s2">right so once that&#39;s over</p>
+<p begin="00:04:35.680" end="00:04:38.880" style="s2">i guess i have to experience it it&#39;s not</p>
+<p begin="00:04:38.240" end="00:04:41.440" style="s2">that</p>
+<p begin="00:04:38.880" end="00:04:42.800" style="s2">hard like once you learn it it&#39;s super</p>
+<p begin="00:04:41.440" end="00:04:45.840" style="s2">easy trust me all right</p>
+<p begin="00:04:42.800" end="00:04:47.360" style="s2">so now you have one game okay if you win</p>
+<p begin="00:04:45.840" end="00:04:48.639" style="s2">that game you have one game now it goes</p>
+<p begin="00:04:47.360" end="00:04:50.880" style="s2">up to six</p>
+<p begin="00:04:48.639" end="00:04:52.720" style="s2">games to win a set so you can win six</p>
+<p begin="00:04:50.880" end="00:04:54.720" style="s2">zero six one six two six three</p>
+<p begin="00:04:52.720" end="00:04:56.000" style="s2">or six four so if there are two people</p>
+<p begin="00:04:54.720" end="00:04:59.040" style="s2">playing the game what is the</p>
+<p begin="00:04:56.000" end="00:05:00.000" style="s2">longest game can go to like for example</p>
+<p begin="00:04:59.040" end="00:05:01.680" style="s2">if</p>
+<p begin="00:05:00.000" end="00:05:03.680" style="s2">the longest tennis match longest thing</p>
+<p begin="00:05:01.680" end="00:05:07.759" style="s2">is longest tennis match</p>
+<p begin="00:05:03.680" end="00:05:10.240" style="s2">was uh 11 hours yeah over 11 hours john</p>
+<p begin="00:05:07.759" end="00:05:11.759" style="s2">isner against nicolas mahuda wimbledon</p>
+<p begin="00:05:10.240" end="00:05:13.919" style="s2">yeah it was over 11 hours played over</p>
+<p begin="00:05:11.759" end="00:05:15.600" style="s2">three days so it can go on forever</p>
+<p begin="00:05:13.919" end="00:05:16.960" style="s2">yeah i can go on forever but i had to do</p>
+<p begin="00:05:15.600" end="00:05:18.160" style="s2">that they weren&#39;t playing tie breaks</p>
+<p begin="00:05:16.960" end="00:05:20.880" style="s2">i&#39;ll get to that later</p>
+<p begin="00:05:18.160" end="00:05:22.560" style="s2">so you have a set that goes to to six</p>
+<p begin="00:05:20.880" end="00:05:25.440" style="s2">okay set goes to six</p>
+<p begin="00:05:22.560" end="00:05:26.880" style="s2">if it&#39;s five all you go to seven if it&#39;s</p>
+<p begin="00:05:25.440" end="00:05:29.520" style="s2">six all</p>
+<p begin="00:05:26.880" end="00:05:31.199" style="s2">you play something called a tie break</p>
+<p begin="00:05:29.520" end="00:05:31.759" style="s2">all right and the tie break you have to</p>
+<p begin="00:05:31.199" end="00:05:32.960" style="s2">count</p>
+<p begin="00:05:31.759" end="00:05:35.280" style="s2">to seven but you don&#39;t count fifteen</p>
+<p begin="00:05:32.960" end="00:05:37.680" style="s2">left third left you just count regular</p>
+<p begin="00:05:35.280" end="00:05:39.120" style="s2">one uh and first one to get to seven</p>
+<p begin="00:05:37.680" end="00:05:40.800" style="s2">points win by two</p>
+<p begin="00:05:39.120" end="00:05:42.320" style="s2">all right so that&#39;s a set and we&#39;ll</p>
+<p begin="00:05:40.800" end="00:05:43.360" style="s2">practice tie breaks cyborgs are a little</p>
+<p begin="00:05:42.320" end="00:05:46.240" style="s2">bit complicated</p>
+<p begin="00:05:43.360" end="00:05:47.600" style="s2">i will practice those um just pray that</p>
+<p begin="00:05:46.240" end="00:05:48.800" style="s2">you don&#39;t get into a tie break your very</p>
+<p begin="00:05:47.600" end="00:05:51.280" style="s2">first set you play okay</p>
+<p begin="00:05:48.800" end="00:05:53.120" style="s2">that would be bad luck so then once you</p>
+<p begin="00:05:51.280" end="00:05:54.320" style="s2">win a set you need two sets to win the</p>
+<p begin="00:05:53.120" end="00:05:56.639" style="s2">match</p>
+<p begin="00:05:54.320" end="00:05:58.720" style="s2">so if you win two sets you win the match</p>
+<p begin="00:05:56.639" end="00:06:00.880" style="s2">okay you understand what it is</p>
+<p begin="00:05:58.720" end="00:06:02.080" style="s2">yes you sure because now i&#39;m gonna put</p>
+<p begin="00:06:00.880" end="00:06:03.759" style="s2">you to the test okay</p>
+<p begin="00:06:02.080" end="00:06:05.600" style="s2">we&#39;re gonna do a test here&#39;s what you&#39;re</p>
+<p begin="00:06:03.759" end="00:06:07.680" style="s2">gonna do you&#39;re gonna serve</p>
+<p begin="00:06:05.600" end="00:06:09.120" style="s2">i&#39;m gonna keep score for you if you make</p>
+<p begin="00:06:07.680" end="00:06:10.960" style="s2">your serve</p>
+<p begin="00:06:09.120" end="00:06:13.120" style="s2">right there you win the point if you</p>
+<p begin="00:06:10.960" end="00:06:16.080" style="s2">double fault you lose the point when is</p>
+<p begin="00:06:13.120" end="00:06:16.080" style="s2">the last time you served</p>
+<p begin="00:06:16.319" end="00:06:20.319" style="s2">okay here we go again you&#39;re not</p>
+<p begin="00:06:18.639" end="00:06:21.919" style="s2">following my recommendations you</p>
+<p begin="00:06:20.319" end="00:06:22.400" style="s2">probably won&#39;t i did i did the i</p>
+<p begin="00:06:21.919" end="00:06:24.240" style="s2">practice</p>
+<p begin="00:06:22.400" end="00:06:25.840" style="s2">you serve a couple times all right we&#39;ll</p>
+<p begin="00:06:24.240" end="00:06:26.240" style="s2">see we&#39;ll see in a minute if you have or</p>
+<p begin="00:06:25.840" end="00:06:28.080" style="s2">not</p>
+<p begin="00:06:26.240" end="00:06:30.080" style="s2">but anyway basically you&#39;re going to</p>
+<p begin="00:06:28.080" end="00:06:30.960" style="s2">keep score you play against no one but</p>
+<p begin="00:06:30.080" end="00:06:32.080" style="s2">you&#39;re still going to keep score and</p>
+<p begin="00:06:30.960" end="00:06:34.400" style="s2">practice that way okay</p>
+<p begin="00:06:32.080" end="00:06:35.600" style="s2">so we&#39;re going to get started it&#39;s love</p>
+<p begin="00:06:34.400" end="00:06:41.039" style="s2">love</p>
+<p begin="00:06:35.600" end="00:06:41.039" style="s2">first point let&#39;s see what happens</p>
+<p begin="00:06:42.000" end="00:06:45.440" style="s2">okay you&#39;re gonna keep score what is it</p>
+<p begin="00:06:46.840" end="00:06:51.520" style="s2">um i i don&#39;t know nobody was there</p>
+<p begin="00:06:50.319" end="00:06:52.560" style="s2">do you want the point just pretend</p>
+<p begin="00:06:51.520" end="00:06:53.520" style="s2">there&#39;s an opponent there you won the</p>
+<p begin="00:06:52.560" end="00:06:57.039" style="s2">point so it&#39;s 15</p>
+<p begin="00:06:53.520" end="00:06:59.520" style="s2">you missed the shot 15 0 15. no</p>
+<p begin="00:06:57.039" end="00:07:02.160" style="s2">15 love 15 love always the points are</p>
+<p begin="00:06:59.520" end="00:07:03.360" style="s2">scored from the server&#39;s perspective so</p>
+<p begin="00:07:02.160" end="00:07:06.960" style="s2">you&#39;re the server</p>
+<p begin="00:07:03.360" end="00:07:10.240" style="s2">you count your points first okay</p>
+<p begin="00:07:06.960" end="00:07:11.199" style="s2">all right 15. so if yeah if you would</p>
+<p begin="00:07:10.240" end="00:07:12.319" style="s2">have lost that point would have been</p>
+<p begin="00:07:11.199" end="00:07:14.080" style="s2">love 15.</p>
+<p begin="00:07:12.319" end="00:07:16.639" style="s2">all right next point now we got to</p>
+<p begin="00:07:14.080" end="00:07:20.000" style="s2">switch sides you got to go over there</p>
+<p begin="00:07:16.639" end="00:07:21.520" style="s2">15 love okay</p>
+<p begin="00:07:20.000" end="00:07:24.960" style="s2">second serve throw that ball a little</p>
+<p begin="00:07:21.520" end="00:07:24.960" style="s2">higher yeah</p>
+<p begin="00:07:27.440" end="00:07:32.880" style="s2">you lost that point it&#39;s all right now</p>
+<p begin="00:07:30.720" end="00:07:35.199" style="s2">switch sides again what&#39;s this oh you</p>
+<p begin="00:07:32.880" end="00:07:39.919" style="s2">can say 15 all</p>
+<p begin="00:07:35.199" end="00:07:39.919" style="s2">15 all a-l-l 15-all</p>
+<p begin="00:07:40.880" end="00:07:44.639" style="s2">toss is going behind you second serve</p>
+<p begin="00:07:43.440" end="00:07:46.240" style="s2">now you know you have two serves in</p>
+<p begin="00:07:44.639" end="00:07:47.360" style="s2">tennis i forgot to mention that yes so</p>
+<p begin="00:07:46.240" end="00:07:49.759" style="s2">if you missed the first one you got</p>
+<p begin="00:07:47.360" end="00:07:49.759" style="s2">another one</p>
+<p begin="00:07:50.960" end="00:07:55.759" style="s2">can i do that absolutely that&#39;s a lot</p>
+<p begin="00:07:53.440" end="00:07:57.919" style="s2">you can toss it and catch it</p>
+<p begin="00:07:55.759" end="00:08:00.720" style="s2">it&#39;s windy too it&#39;s very windy i know</p>
+<p begin="00:07:57.919" end="00:08:03.599" style="s2">lately it&#39;s been super windy</p>
+<p begin="00:08:00.720" end="00:08:06.879" style="s2">uh oh another double fault all right</p>
+<p begin="00:08:03.599" end="00:08:10.879" style="s2">let&#39;s go on to the next side score</p>
+<p begin="00:08:06.879" end="00:08:13.840" style="s2">what&#39;s the score 15 30.</p>
+<p begin="00:08:10.879" end="00:08:13.840" style="s2">that&#39;s right</p>
+<p begin="00:08:14.240" end="00:08:20.240" style="s2">it&#39;s all right it&#39;s all right come again</p>
+<p begin="00:08:16.879" end="00:08:20.240" style="s2">make sure you get a continental grip</p>
+<p begin="00:08:22.720" end="00:08:29.120" style="s2">that&#39;s out all right score</p>
+<p begin="00:08:25.759" end="00:08:32.240" style="s2">what&#39;s the score there&#39;s a big test 40</p>
+<p begin="00:08:29.120" end="00:08:33.680" style="s2">15 40. 15 40.</p>
+<p begin="00:08:32.240" end="00:08:36.080" style="s2">wow you&#39;re learning fast that&#39;s</p>
+<p begin="00:08:33.680" end="00:08:37.200" style="s2">unbelievable 15 40 go the other side now</p>
+<p begin="00:08:36.080" end="00:08:38.399" style="s2">you see what happens when you don&#39;t</p>
+<p begin="00:08:37.200" end="00:08:39.120" style="s2">practice serves you&#39;re going to lose</p>
+<p begin="00:08:38.399" end="00:08:41.039" style="s2">this game</p>
+<p begin="00:08:39.120" end="00:08:44.320" style="s2">all by double faults so you believe me</p>
+<p begin="00:08:41.039" end="00:08:44.320" style="s2">now how important the server is</p>
+<p begin="00:08:44.720" end="00:08:48.959" style="s2">very clutch nice yeah score</p>
+<p begin="00:08:51.200" end="00:08:57.760" style="s2">330 no no it was 15</p>
+<p begin="00:08:54.560" end="00:09:01.519" style="s2">30. it was 1540. oh was it 40 no</p>
+<p begin="00:08:57.760" end="00:09:04.320" style="s2">yes it was it was 1540. then 40 30.</p>
+<p begin="00:09:01.519" end="00:09:05.279" style="s2">no service perspective you&#39;re down 15</p>
+<p begin="00:09:04.320" end="00:09:08.000" style="s2">40.</p>
+<p begin="00:09:05.279" end="00:09:09.519" style="s2">30 40. okay all right go the other way</p>
+<p begin="00:09:08.000" end="00:09:12.480" style="s2">are you sure it wasn&#39;t 30.</p>
+<p begin="00:09:09.519" end="00:09:14.000" style="s2">i&#39;m 1000 sure the imaginary opponent</p>
+<p begin="00:09:12.480" end="00:09:15.600" style="s2">still has what&#39;s called a break point</p>
+<p begin="00:09:14.000" end="00:09:18.640" style="s2">okay</p>
+<p begin="00:09:15.600" end="00:09:20.000" style="s2">he&#39;s got a break point break point</p>
+<p begin="00:09:18.640" end="00:09:22.480" style="s2">if you lose this game you&#39;ve gotten</p>
+<p begin="00:09:20.000" end="00:09:24.720" style="s2">broken you&#39;re served broken</p>
+<p begin="00:09:22.480" end="00:09:25.839" style="s2">if you win this game you would hold your</p>
+<p begin="00:09:24.720" end="00:09:28.160" style="s2">serve</p>
+<p begin="00:09:25.839" end="00:09:30.000" style="s2">so it&#39;s called a break point your</p>
+<p begin="00:09:28.160" end="00:09:33.600" style="s2">opponent is about to break your serve</p>
+<p begin="00:09:30.000" end="00:09:36.240" style="s2">your service game gibberish</p>
+<p begin="00:09:33.600" end="00:09:37.440" style="s2">no come on this is tennis terminology</p>
+<p begin="00:09:36.240" end="00:09:39.040" style="s2">we&#39;re gonna learn it this is tennis</p>
+<p begin="00:09:37.440" end="00:09:41.360" style="s2">terminology you need to know this</p>
+<p begin="00:09:39.040" end="00:09:41.360" style="s2">come on</p>
+<p begin="00:09:42.160" end="00:09:45.600" style="s2">out second serve</p>
+<p begin="00:09:47.440" end="00:09:51.040" style="s2">and you got broken you lost the game</p>
+<p begin="00:09:49.120" end="00:09:53.839" style="s2">anna</p>
+<p begin="00:09:51.040" end="00:09:54.959" style="s2">four double faults we gotta practice the</p>
+<p begin="00:09:53.839" end="00:09:57.760" style="s2">serve more yeah</p>
+<p begin="00:09:54.959" end="00:09:59.680" style="s2">you gotta do give me do me a favor for</p>
+<p begin="00:09:57.760" end="00:10:00.880" style="s2">this match i need you to really ramp up</p>
+<p begin="00:09:59.680" end="00:10:02.560" style="s2">your surf practice</p>
+<p begin="00:10:00.880" end="00:10:03.680" style="s2">because you can&#39;t be double faulting</p>
+<p begin="00:10:02.560" end="00:10:04.000" style="s2">because you&#39;re gonna lose you&#39;re going</p>
+<p begin="00:10:03.680" end="00:10:05.839" style="s2">to lose</p>
+<p begin="00:10:04.000" end="00:10:09.040" style="s2">all your service points yeah this grip</p>
+<p begin="00:10:05.839" end="00:10:10.800" style="s2">is like not making me happy i like uh</p>
+<p begin="00:10:09.040" end="00:10:12.640" style="s2">you like forehand grip forehand grip</p>
+<p begin="00:10:10.800" end="00:10:16.240" style="s2">when i serve not allowed</p>
+<p begin="00:10:12.640" end="00:10:17.600" style="s2">you sure 100 1000</p>
+<p begin="00:10:16.240" end="00:10:19.519" style="s2">you need a continental grip you got to</p>
+<p begin="00:10:17.600" end="00:10:22.079" style="s2">go 10 practice all right now</p>
+<p begin="00:10:19.519" end="00:10:23.519" style="s2">you lost the game okay one zero that</p>
+<p begin="00:10:22.079" end="00:10:24.880" style="s2">means you have to switch sides with your</p>
+<p begin="00:10:23.519" end="00:10:27.360" style="s2">opponent</p>
+<p begin="00:10:24.880" end="00:10:28.399" style="s2">okay yeah every odd game you switch</p>
+<p begin="00:10:27.360" end="00:10:31.040" style="s2">sides</p>
+<p begin="00:10:28.399" end="00:10:32.959" style="s2">so what that means one zero you switch</p>
+<p begin="00:10:31.040" end="00:10:35.200" style="s2">then let&#39;s say you win that game or you</p>
+<p begin="00:10:32.959" end="00:10:36.000" style="s2">you win the game it&#39;s one one it&#39;s an</p>
+<p begin="00:10:35.200" end="00:10:37.680" style="s2">even number</p>
+<p begin="00:10:36.000" end="00:10:39.120" style="s2">one plus one two is even you don&#39;t</p>
+<p begin="00:10:37.680" end="00:10:40.640" style="s2">switch</p>
+<p begin="00:10:39.120" end="00:10:42.640" style="s2">let&#39;s say you win that game is two one</p>
+<p begin="00:10:40.640" end="00:10:43.440" style="s2">you switch sides again how many give the</p>
+<p begin="00:10:42.640" end="00:10:46.800" style="s2">total</p>
+<p begin="00:10:43.440" end="00:10:49.040" style="s2">three how long does a set go up till</p>
+<p begin="00:10:46.800" end="00:10:51.519" style="s2">it&#39;s a test i told you before a set goes</p>
+<p begin="00:10:49.040" end="00:10:51.519" style="s2">to what</p>
+<p begin="00:10:51.920" end="00:10:56.160" style="s2">until six okay six games all right this</p>
+<p begin="00:10:54.880" end="00:10:57.680" style="s2">is going to be a this is going to be a</p>
+<p begin="00:10:56.160" end="00:10:59.839" style="s2">great video</p>
+<p begin="00:10:57.680" end="00:11:01.279" style="s2">this is your preparation for the match a</p>
+<p begin="00:10:59.839" end="00:11:03.360" style="s2">lot of pressure</p>
+<p begin="00:11:01.279" end="00:11:05.519" style="s2">all right so now um we&#39;re gonna play</p>
+<p begin="00:11:03.360" end="00:11:06.720" style="s2">another game i&#39;m gonna serve</p>
+<p begin="00:11:05.519" end="00:11:08.880" style="s2">and we&#39;ll see what happens now you&#39;re</p>
+<p begin="00:11:06.720" end="00:11:10.320" style="s2">returning okay so let me show you where</p>
+<p begin="00:11:08.880" end="00:11:12.000" style="s2">to stand on return okay</p>
+<p begin="00:11:10.320" end="00:11:13.519" style="s2">slide over there so important the other</p>
+<p begin="00:11:12.000" end="00:11:14.880" style="s2">person&#39;s gonna be serving okay</p>
+<p begin="00:11:13.519" end="00:11:16.560" style="s2">you&#39;re going to stand close to the</p>
+<p begin="00:11:14.880" end="00:11:18.160" style="s2">doubles alley</p>
+<p begin="00:11:16.560" end="00:11:19.040" style="s2">but like right here it&#39;s going to be</p>
+<p begin="00:11:18.160" end="00:11:20.000" style="s2">where you see your right foot is going</p>
+<p begin="00:11:19.040" end="00:11:21.519" style="s2">to be right here</p>
+<p begin="00:11:20.000" end="00:11:23.600" style="s2">now if that person has a really weak</p>
+<p begin="00:11:21.519" end="00:11:25.519" style="s2">serve you can stand inside</p>
+<p begin="00:11:23.600" end="00:11:27.120" style="s2">inside the baseline right here like this</p>
+<p begin="00:11:25.519" end="00:11:27.600" style="s2">and wait for the return so stand right</p>
+<p begin="00:11:27.120" end="00:11:29.760" style="s2">here</p>
+<p begin="00:11:27.600" end="00:11:30.880" style="s2">yeah a little bit more is the person who</p>
+<p begin="00:11:29.760" end="00:11:32.079" style="s2">is having a week</p>
+<p begin="00:11:30.880" end="00:11:33.440" style="s2">quick serve if the strap is a little bit</p>
+<p begin="00:11:32.079" end="00:11:34.800" style="s2">stronger you can back up okay but you</p>
+<p begin="00:11:33.440" end="00:11:36.800" style="s2">may be close to the</p>
+<p begin="00:11:34.800" end="00:11:38.800" style="s2">it won&#39;t be close to the single slide</p>
+<p begin="00:11:36.800" end="00:11:40.720" style="s2">this is the single slide no until i see</p>
+<p begin="00:11:38.800" end="00:11:42.720" style="s2">right what they&#39;re doing</p>
+<p begin="00:11:40.720" end="00:11:43.920" style="s2">how we how strong their service yeah you</p>
+<p begin="00:11:42.720" end="00:11:45.519" style="s2">would have to see it</p>
+<p begin="00:11:43.920" end="00:11:46.959" style="s2">once you see them served and then adjust</p>
+<p begin="00:11:45.519" end="00:11:47.839" style="s2">your positioning but always stand here</p>
+<p begin="00:11:46.959" end="00:11:49.920" style="s2">because</p>
+<p begin="00:11:47.839" end="00:11:51.519" style="s2">when somebody&#39;s serving from over there</p>
+<p begin="00:11:49.920" end="00:11:54.000" style="s2">uh they&#39;re gonna have a</p>
+<p begin="00:11:51.519" end="00:11:55.760" style="s2">from from your perspective a rightward</p>
+<p begin="00:11:54.000" end="00:11:56.560" style="s2">trajectory so you have to cover this</p>
+<p begin="00:11:55.760" end="00:11:58.399" style="s2">this</p>
+<p begin="00:11:56.560" end="00:11:59.600" style="s2">area right here so the ball is gonna</p>
+<p begin="00:11:58.399" end="00:12:00.560" style="s2">have a rightward trajectory that&#39;s why</p>
+<p begin="00:11:59.600" end="00:12:02.079" style="s2">you stand</p>
+<p begin="00:12:00.560" end="00:12:04.160" style="s2">close to the singles line you can&#39;t</p>
+<p begin="00:12:02.079" end="00:12:06.320" style="s2">stand too far in the middle</p>
+<p begin="00:12:04.160" end="00:12:07.440" style="s2">okay and it&#39;s gonna be a return of serve</p>
+<p begin="00:12:06.320" end="00:12:09.440" style="s2">so we&#39;re gonna count</p>
+<p begin="00:12:07.440" end="00:12:11.839" style="s2">up the same way you just play out the</p>
+<p begin="00:12:09.440" end="00:12:11.839" style="s2">points</p>
+<p begin="00:12:14.399" end="00:12:20.880" style="s2">out you know that was out right</p>
+<p begin="00:12:18.000" end="00:12:22.320" style="s2">so what&#39;s the score now that&#39;s right</p>
+<p begin="00:12:20.880" end="00:12:23.760" style="s2">always from the server&#39;s perspective</p>
+<p begin="00:12:22.320" end="00:12:26.079" style="s2">yeah all right here we go now you switch</p>
+<p begin="00:12:23.760" end="00:12:26.079" style="s2">sides</p>
+<p begin="00:12:33.200" end="00:12:38.480" style="s2">score okay</p>
+<p begin="00:12:36.639" end="00:12:40.079" style="s2">when you return and you hit that</p>
+<p begin="00:12:38.480" end="00:12:42.240" style="s2">forehand you go back to the middle</p>
+<p begin="00:12:40.079" end="00:12:44.639" style="s2">you can&#39;t stand in the corner there the</p>
+<p begin="00:12:42.240" end="00:12:46.800" style="s2">entire half is open there</p>
+<p begin="00:12:44.639" end="00:12:47.920" style="s2">okay so hit the return quickly go to the</p>
+<p begin="00:12:46.800" end="00:12:50.839" style="s2">middle of the court</p>
+<p begin="00:12:47.920" end="00:12:53.839" style="s2">all right come on this is real tennis</p>
+<p begin="00:12:50.839" end="00:12:53.839" style="s2">now</p>
+<p begin="00:12:54.800" end="00:12:57.360" style="s2">oh no</p>
+<p begin="00:12:58.880" end="00:13:02.000" style="s2">very strong return on him very strong</p>
+<p begin="00:13:01.200" end="00:13:05.519" style="s2">big power</p>
+<p begin="00:13:02.000" end="00:13:06.000" style="s2">score we didn&#39;t stage it actually i</p>
+<p begin="00:13:05.519" end="00:13:08.160" style="s2">couldn&#39;t</p>
+<p begin="00:13:06.000" end="00:13:10.639" style="s2">i would i wanted i wanted to make you</p>
+<p begin="00:13:08.160" end="00:13:13.839" style="s2">play i couldn&#39;t control my forehand</p>
+<p begin="00:13:10.639" end="00:13:21.600" style="s2">what&#39;s the score score okay</p>
+<p begin="00:13:13.839" end="00:13:24.800" style="s2">uh wow you&#39;re so smart</p>
+<p begin="00:13:21.600" end="00:13:26.000" style="s2">in that was a great shot by the way 30</p>
+<p begin="00:13:24.800" end="00:13:28.800" style="s2">all</p>
+<p begin="00:13:26.000" end="00:13:29.519" style="s2">right yeah right all right 30 off all</p>
+<p begin="00:13:28.800" end="00:13:35.200" style="s2">right here we go</p>
+<p begin="00:13:29.519" end="00:13:38.399" style="s2">very nice</p>
+<p begin="00:13:35.200" end="00:13:39.920" style="s2">no i missed it again too strong</p>
+<p begin="00:13:38.399" end="00:13:41.199" style="s2">by the way i saw you hanging out over</p>
+<p begin="00:13:39.920" end="00:13:42.079" style="s2">there again you got to go to the middle</p>
+<p begin="00:13:41.199" end="00:13:43.519" style="s2">anna</p>
+<p begin="00:13:42.079" end="00:13:45.040" style="s2">all right but you gotta practice you</p>
+<p begin="00:13:43.519" end="00:13:46.720" style="s2">know but that was a very strong see if</p>
+<p begin="00:13:45.040" end="00:13:50.560" style="s2">the forehand is you&#39;re gonna be your</p>
+<p begin="00:13:46.720" end="00:13:53.680" style="s2">your weapon so what&#39;s the score now</p>
+<p begin="00:13:50.560" end="00:13:57.199" style="s2">um 30 40. yes</p>
+<p begin="00:13:53.680" end="00:13:57.199" style="s2">30 40 and that&#39;s called what</p>
+<p begin="00:13:58.000" end="00:14:01.360" style="s2">break points so you got a break point</p>
+<p begin="00:14:00.399" end="00:14:02.480" style="s2">now this is huge</p>
+<p begin="00:14:01.360" end="00:14:04.959" style="s2">because you lost your serve you can</p>
+<p begin="00:14:02.480" end="00:14:07.760" style="s2">break right back and even the score</p>
+<p begin="00:14:04.959" end="00:14:07.760" style="s2">okay come on</p>
+<p begin="00:14:08.720" end="00:14:16.480" style="s2">you gotta stay out okay</p>
+<p begin="00:14:12.000" end="00:14:19.120" style="s2">second serve ah no</p>
+<p begin="00:14:16.480" end="00:14:19.680" style="s2">i got so tight that&#39;s what happened to</p>
+<p begin="00:14:19.120" end="00:14:21.920" style="s2">players</p>
+<p begin="00:14:19.680" end="00:14:23.440" style="s2">30 40 break point i got nervous and i</p>
+<p begin="00:14:21.920" end="00:14:25.680" style="s2">make a double fault</p>
+<p begin="00:14:23.440" end="00:14:26.880" style="s2">very common are you sleep deprived</p>
+<p begin="00:14:25.680" end="00:14:30.160" style="s2">what&#39;s the score now</p>
+<p begin="00:14:26.880" end="00:14:31.120" style="s2">big test let me check your score what is</p>
+<p begin="00:14:30.160" end="00:14:35.279" style="s2">it now</p>
+<p begin="00:14:31.120" end="00:14:38.000" style="s2">45 no oh no 30 45</p>
+<p begin="00:14:35.279" end="00:14:39.279" style="s2">no remember how like after 40 what goes</p>
+<p begin="00:14:38.000" end="00:14:41.680" style="s2">the game</p>
+<p begin="00:14:39.279" end="00:14:42.959" style="s2">four points so it&#39;s 30 40. you won three</p>
+<p begin="00:14:41.680" end="00:14:46.160" style="s2">points you want another point</p>
+<p begin="00:14:42.959" end="00:14:49.360" style="s2">that&#39;s game no 45</p>
+<p begin="00:14:46.160" end="00:14:51.120" style="s2">what&#39;s the score in games the first game</p>
+<p begin="00:14:49.360" end="00:14:53.440" style="s2">on your serve you lost it right yes</p>
+<p begin="00:14:51.120" end="00:14:54.320" style="s2">so zero one and now you won the second</p>
+<p begin="00:14:53.440" end="00:14:57.279" style="s2">game</p>
+<p begin="00:14:54.320" end="00:14:58.079" style="s2">okay what&#39;s the score so it&#39;s a tie it&#39;s</p>
+<p begin="00:14:57.279" end="00:14:59.920" style="s2">one one</p>
+<p begin="00:14:58.079" end="00:15:01.519" style="s2">one all right now you just keep going</p>
+<p begin="00:14:59.920" end="00:15:04.320" style="s2">like this you keep going okay</p>
+<p begin="00:15:01.519" end="00:15:06.160" style="s2">until somebody gets six unless it&#39;s five</p>
+<p begin="00:15:04.320" end="00:15:08.079" style="s2">all then you win by two it&#39;s up to seven</p>
+<p begin="00:15:06.160" end="00:15:09.839" style="s2">okay and if it&#39;s six all you play one</p>
+<p begin="00:15:08.079" end="00:15:12.160" style="s2">one it&#39;s just</p>
+<p begin="00:15:09.839" end="00:15:13.680" style="s2">you don&#39;t say it&#39;s a tie you don&#39;t say</p>
+<p begin="00:15:12.160" end="00:15:17.680" style="s2">tie you just say one all</p>
+<p begin="00:15:13.680" end="00:15:19.279" style="s2">you say one one off that&#39;s a set score</p>
+<p begin="00:15:17.680" end="00:15:20.560" style="s2">and then you just keep going until six</p>
+<p begin="00:15:19.279" end="00:15:22.639" style="s2">most likely when you play your first</p>
+<p begin="00:15:20.560" end="00:15:24.639" style="s2">match we&#39;re only gonna play one set</p>
+<p begin="00:15:22.639" end="00:15:26.240" style="s2">and a match consists of two sets you</p>
+<p begin="00:15:24.639" end="00:15:29.279" style="s2">have to win two sets</p>
+<p begin="00:15:26.240" end="00:15:31.040" style="s2">so it&#39;s 12 until 12. no</p>
+<p begin="00:15:29.279" end="00:15:32.399" style="s2">separate set so when you win the first</p>
+<p begin="00:15:31.040" end="00:15:34.880" style="s2">set let&#39;s say you win this</p>
+<p begin="00:15:32.399" end="00:15:36.240" style="s2">at 6-1 you play a second set starts back</p>
+<p begin="00:15:34.880" end="00:15:38.320" style="s2">at 0-0</p>
+<p begin="00:15:36.240" end="00:15:40.079" style="s2">okay if your opponent wins the second</p>
+<p begin="00:15:38.320" end="00:15:43.199" style="s2">set then you play a deciding third</p>
+<p begin="00:15:40.079" end="00:15:44.720" style="s2">set winner takes all all right now now</p>
+<p begin="00:15:43.199" end="00:15:46.880" style="s2">we talk tactics</p>
+<p begin="00:15:44.720" end="00:15:48.480" style="s2">come on give me a racket tap this is</p>
+<p begin="00:15:46.880" end="00:15:50.240" style="s2">going to be the most important talk</p>
+<p begin="00:15:48.480" end="00:15:51.920" style="s2">i know it&#39;s weird because you never this</p>
+<p begin="00:15:50.240" end="00:15:52.959" style="s2">scoring system is a little bit odd in</p>
+<p begin="00:15:51.920" end="00:15:54.639" style="s2">tennis</p>
+<p begin="00:15:52.959" end="00:15:56.240" style="s2">but like i said once you learn it&#39;s</p>
+<p begin="00:15:54.639" end="00:15:58.560" style="s2">going to be super easy yeah you have any</p>
+<p begin="00:15:56.240" end="00:15:58.560" style="s2">questions</p>
+<p begin="00:15:59.199" end="00:16:01.920" style="s2">it&#39;s all right if you get it wrong in</p>
+<p begin="00:16:00.399" end="00:16:02.959" style="s2">the beginning you know people will help</p>
+<p begin="00:16:01.920" end="00:16:04.079" style="s2">you we know what helps they&#39;re watching</p>
+<p begin="00:16:02.959" end="00:16:06.160" style="s2">tennis on tv</p>
+<p begin="00:16:04.079" end="00:16:08.399" style="s2">okay all right if you watch it on tv oh</p>
+<p begin="00:16:06.160" end="00:16:10.399" style="s2">you don&#39;t have tv</p>
+<p begin="00:16:08.399" end="00:16:12.240" style="s2">watch it on youtube okay i got a couple</p>
+<p begin="00:16:10.399" end="00:16:14.240" style="s2">of matches of mine you want to watch me</p>
+<p begin="00:16:12.240" end="00:16:15.440" style="s2">yes all right i&#39;ll send you my matches</p>
+<p begin="00:16:14.240" end="00:16:16.560" style="s2">and the score is right there on the</p>
+<p begin="00:16:15.440" end="00:16:18.000" style="s2">bottom</p>
+<p begin="00:16:16.560" end="00:16:19.839" style="s2">all right anna that&#39;s actually a good</p>
+<p begin="00:16:18.000" end="00:16:21.600" style="s2">thing to do before the match you warm up</p>
+<p begin="00:16:19.839" end="00:16:23.040" style="s2">you warm up and you you if you want to</p>
+<p begin="00:16:21.600" end="00:16:25.199" style="s2">stretch you can</p>
+<p begin="00:16:23.040" end="00:16:26.560" style="s2">but as far as tactics when it comes to</p>
+<p begin="00:16:25.199" end="00:16:28.720" style="s2">playing matches</p>
+<p begin="00:16:26.560" end="00:16:29.920" style="s2">it&#39;s going to be super simple all i want</p>
+<p begin="00:16:28.720" end="00:16:32.560" style="s2">you to do is just get the ball</p>
+<p begin="00:16:29.920" end="00:16:33.759" style="s2">into the cord like even down the middle</p>
+<p begin="00:16:32.560" end="00:16:35.279" style="s2">of the court it doesn&#39;t really matter</p>
+<p begin="00:16:33.759" end="00:16:37.519" style="s2">where you place it</p>
+<p begin="00:16:35.279" end="00:16:39.519" style="s2">like just pick the biggest target you</p>
+<p begin="00:16:37.519" end="00:16:42.560" style="s2">can get and just keep it in play</p>
+<p begin="00:16:39.519" end="00:16:44.399" style="s2">as much as you can don&#39;t try to hit hard</p>
+<p begin="00:16:42.560" end="00:16:45.759" style="s2">don&#39;t try to overpower the other person</p>
+<p begin="00:16:44.399" end="00:16:47.680" style="s2">just keep the ball in</p>
+<p begin="00:16:45.759" end="00:16:48.959" style="s2">what that will do is going to give you</p>
+<p begin="00:16:47.680" end="00:16:50.800" style="s2">confidence</p>
+<p begin="00:16:48.959" end="00:16:52.160" style="s2">in your strokes that eventually once you</p>
+<p begin="00:16:50.800" end="00:16:53.279" style="s2">start playing more matches you&#39;re going</p>
+<p begin="00:16:52.160" end="00:16:54.160" style="s2">to trust your shots more that you&#39;re</p>
+<p begin="00:16:53.279" end="00:16:56.160" style="s2">going to go</p>
+<p begin="00:16:54.160" end="00:16:58.160" style="s2">harder because what will happen i can</p>
+<p begin="00:16:56.160" end="00:17:00.000" style="s2">guarantee you that if you go out</p>
+<p begin="00:16:58.160" end="00:17:01.199" style="s2">and start kind of blasting the ball</p>
+<p begin="00:17:00.000" end="00:17:02.399" style="s2">start hitting hard</p>
+<p begin="00:17:01.199" end="00:17:04.559" style="s2">you&#39;re going to make tons of mistakes</p>
+<p begin="00:17:02.399" end="00:17:06.319" style="s2">you&#39;re going to lose okay right</p>
+<p begin="00:17:04.559" end="00:17:07.760" style="s2">so just got to keep it simple get it in</p>
+<p begin="00:17:06.319" end="00:17:09.839" style="s2">the serve</p>
+<p begin="00:17:07.760" end="00:17:11.760" style="s2">the ground strokes your 400 back end</p>
+<p begin="00:17:09.839" end="00:17:14.480" style="s2">just get it in nothing fancy</p>
+<p begin="00:17:11.760" end="00:17:16.559" style="s2">it can be slow now here&#39;s the good news</p>
+<p begin="00:17:14.480" end="00:17:18.160" style="s2">all the stuff that we do with technique</p>
+<p begin="00:17:16.559" end="00:17:19.679" style="s2">forget about it when you play a match</p>
+<p begin="00:17:18.160" end="00:17:21.120" style="s2">don&#39;t even spend one second thinking</p>
+<p begin="00:17:19.679" end="00:17:22.880" style="s2">about technique</p>
+<p begin="00:17:21.120" end="00:17:25.199" style="s2">because you can&#39;t get into my head and</p>
+<p begin="00:17:22.880" end="00:17:27.760" style="s2">miss everything because you can&#39;t anyway</p>
+<p begin="00:17:25.199" end="00:17:29.039" style="s2">you can&#39;t anyway think about um</p>
+<p begin="00:17:27.760" end="00:17:30.400" style="s2">technique when you play matches just</p>
+<p begin="00:17:29.039" end="00:17:31.600" style="s2">think of the actual match there&#39;s going</p>
+<p begin="00:17:30.400" end="00:17:33.200" style="s2">to be a lot of thoughts going through</p>
+<p begin="00:17:31.600" end="00:17:34.400" style="s2">your mind</p>
+<p begin="00:17:33.200" end="00:17:36.640" style="s2">you know you&#39;re going to want to win</p>
+<p begin="00:17:34.400" end="00:17:38.000" style="s2">right everybody wants to win and</p>
+<p begin="00:17:36.640" end="00:17:38.960" style="s2">your mind is going to be preoccupied</p>
+<p begin="00:17:38.000" end="00:17:40.720" style="s2">with that you&#39;re going to be feeling</p>
+<p begin="00:17:38.960" end="00:17:43.039" style="s2">different emotions such as</p>
+<p begin="00:17:40.720" end="00:17:44.320" style="s2">a little bit of anxiety at certain times</p>
+<p begin="00:17:43.039" end="00:17:46.240" style="s2">i don&#39;t know if you even felt it when we</p>
+<p begin="00:17:44.320" end="00:17:47.600" style="s2">did that exercise serving but you&#39;re</p>
+<p begin="00:17:46.240" end="00:17:48.160" style="s2">going to feel what they say intent is</p>
+<p begin="00:17:47.600" end="00:17:49.039" style="s2">tight</p>
+<p begin="00:17:48.160" end="00:17:51.039" style="s2">you&#39;re going to feel a little bit</p>
+<p begin="00:17:49.039" end="00:17:52.240" style="s2">anxious and nervous so all this stuff is</p>
+<p begin="00:17:51.039" end="00:17:54.160" style="s2">going to go through your mind</p>
+<p begin="00:17:52.240" end="00:17:55.600" style="s2">so there&#39;s no time to think about</p>
+<p begin="00:17:54.160" end="00:17:59.280" style="s2">technique all the stuff</p>
+<p begin="00:17:55.600" end="00:18:00.640" style="s2">that we do when we practice that stuff</p>
+<p begin="00:17:59.280" end="00:18:01.840" style="s2">is going to be there for you eventually</p>
+<p begin="00:18:00.640" end="00:18:03.440" style="s2">it&#39;s going to be in your muscle memory</p>
+<p begin="00:18:01.840" end="00:18:06.000" style="s2">it&#39;s going to be automated</p>
+<p begin="00:18:03.440" end="00:18:06.480" style="s2">and we worry about that on the practice</p>
+<p begin="00:18:06.000" end="00:18:07.840" style="s2">chord</p>
+<p begin="00:18:06.480" end="00:18:10.000" style="s2">when it comes to the match court you</p>
+<p begin="00:18:07.840" end="00:18:13.200" style="s2">completely free your mind from that</p>
+<p begin="00:18:10.000" end="00:18:15.120" style="s2">and just play the actual game</p>
+<p begin="00:18:13.200" end="00:18:17.039" style="s2">it&#39;s that whatever is there whatever is</p>
+<p begin="00:18:15.120" end="00:18:19.760" style="s2">that whatever is there is there</p>
+<p begin="00:18:17.039" end="00:18:21.200" style="s2">and don&#39;t even worry about it now we</p>
+<p begin="00:18:19.760" end="00:18:23.679" style="s2">haven&#39;t played for a month</p>
+<p begin="00:18:21.200" end="00:18:24.799" style="s2">your forehand uh went back a little bit</p>
+<p begin="00:18:23.679" end="00:18:26.000" style="s2">to the old way</p>
+<p begin="00:18:24.799" end="00:18:28.080" style="s2">that&#39;s something we&#39;re gonna work on</p>
+<p begin="00:18:26.000" end="00:18:29.679" style="s2">we&#39;re gonna play more now you and i i&#39;m</p>
+<p begin="00:18:28.080" end="00:18:30.320" style="s2">gonna do a couple more sessions before</p>
+<p begin="00:18:29.679" end="00:18:33.440" style="s2">you first set</p>
+<p begin="00:18:30.320" end="00:18:35.039" style="s2">private sessions not on camera and</p>
+<p begin="00:18:33.440" end="00:18:35.840" style="s2">trying to get your forehand up to speed</p>
+<p begin="00:18:35.039" end="00:18:37.679" style="s2">so that</p>
+<p begin="00:18:35.840" end="00:18:39.760" style="s2">it&#39;s a little bit better for the match</p>
+<p begin="00:18:37.679" end="00:18:42.559" style="s2">and of course like i said before</p>
+<p begin="00:18:39.760" end="00:18:43.840" style="s2">don&#39;t ignore the serve the serve see how</p>
+<p begin="00:18:42.559" end="00:18:45.280" style="s2">it&#39;s often ignored</p>
+<p begin="00:18:43.840" end="00:18:47.200" style="s2">but you see how important it is in a</p>
+<p begin="00:18:45.280" end="00:18:48.320" style="s2">match yeah because you&#39;re either serving</p>
+<p begin="00:18:47.200" end="00:18:50.880" style="s2">or you&#39;re receiving it</p>
+<p begin="00:18:48.320" end="00:18:52.080" style="s2">huh it&#39;s a point and every every point</p>
+<p begin="00:18:50.880" end="00:18:54.720" style="s2">starts with a serve whether you&#39;re</p>
+<p begin="00:18:52.080" end="00:18:58.000" style="s2">serving or the other person&#39;s serving</p>
+<p begin="00:18:54.720" end="00:19:00.000" style="s2">do you have any questions about playing</p>
+<p begin="00:18:58.000" end="00:19:02.480" style="s2">matches i know you&#39;re kind of like</p>
+<p begin="00:19:00.000" end="00:19:03.840" style="s2">i don&#39;t see too much excitement even</p>
+<p begin="00:19:02.480" end="00:19:06.000" style="s2">though there was</p>
+<p begin="00:19:03.840" end="00:19:07.039" style="s2">you know like the thing is like for me</p>
+<p begin="00:19:06.000" end="00:19:09.679" style="s2">process of</p>
+<p begin="00:19:07.039" end="00:19:10.160" style="s2">uh the process and keeping the ball in</p>
+<p begin="00:19:09.679" end="00:19:12.000" style="s2">play</p>
+<p begin="00:19:10.160" end="00:19:13.679" style="s2">and moving my body and with somebody</p>
+<p begin="00:19:12.000" end="00:19:15.200" style="s2">else but you&#39;ll get that too in a match</p>
+<p begin="00:19:13.679" end="00:19:16.559" style="s2">situation there are going to be rallies</p>
+<p begin="00:19:15.200" end="00:19:18.559" style="s2">but the fun part is that you&#39;re actually</p>
+<p begin="00:19:16.559" end="00:19:20.720" style="s2">going to win the rally</p>
+<p begin="00:19:18.559" end="00:19:21.919" style="s2">you know somebody wins the rally and the</p>
+<p begin="00:19:20.720" end="00:19:24.400" style="s2">intention</p>
+<p begin="00:19:21.919" end="00:19:26.400" style="s2">and a point is to win the point where</p>
+<p begin="00:19:24.400" end="00:19:28.000" style="s2">the intention in a rally is to</p>
+<p begin="00:19:26.400" end="00:19:29.679" style="s2">keep the rally going to hit the other</p>
+<p begin="00:19:28.000" end="00:19:31.919" style="s2">person&#39;s a completely different</p>
+<p begin="00:19:29.679" end="00:19:33.360" style="s2">mindset when you play you&#39;re playing to</p>
+<p begin="00:19:31.919" end="00:19:34.640" style="s2">beat the other person</p>
+<p begin="00:19:33.360" end="00:19:36.880" style="s2">when you&#39;re just practicing you&#39;re</p>
+<p begin="00:19:34.640" end="00:19:39.039" style="s2">playing to have the other person</p>
+<p begin="00:19:36.880" end="00:19:40.080" style="s2">hit it back to you so that&#39;s going to be</p>
+<p begin="00:19:39.039" end="00:19:43.039" style="s2">the difference so</p>
+<p begin="00:19:40.080" end="00:19:44.000" style="s2">i want to awaken the killer instinct in</p>
+<p begin="00:19:43.039" end="00:19:46.080" style="s2">you</p>
+<p begin="00:19:44.000" end="00:19:47.440" style="s2">how much killer instinct you have now we</p>
+<p begin="00:19:46.080" end="00:19:48.640" style="s2">got to find somebody for you to play</p>
+<p begin="00:19:47.440" end="00:19:51.520" style="s2">with</p>
+<p begin="00:19:48.640" end="00:19:52.880" style="s2">all right anna let&#39;s do a racket tap</p>
+<p begin="00:19:51.520" end="00:20:00.320" style="s2">this is gonna be fun</p>
+<p begin="00:19:52.880" end="00:20:00.320" style="s2">your first match</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.080" end="00:00:04.520" style="s2">and I remember the swing path you put</p>
+<p begin="00:00:02.720" end="00:00:06.480" style="s2">your racket here and then you put it</p>
+<p begin="00:00:04.520" end="00:00:09.800" style="s2">here like do that even in the mini</p>
+<p begin="00:00:06.480" end="00:00:11.880" style="s2">tennis yeah so you but don&#39;t finish no</p>
+<p begin="00:00:09.800" end="00:00:13.799" style="s2">finish but just don&#39;t hit it too hard</p>
+<p begin="00:00:11.880" end="00:00:15.480" style="s2">and don&#39;t take the racket as far back as</p>
+<p begin="00:00:13.799" end="00:00:18.600" style="s2">you normally do it many tennis you start</p>
+<p begin="00:00:15.480" end="00:00:20.279" style="s2">here and you drop it right here but you</p>
+<p begin="00:00:18.600" end="00:00:22.400" style="s2">still want to try to finish okay even</p>
+<p begin="00:00:20.279" end="00:00:25.080" style="s2">when mini tennis you go from here to</p>
+<p begin="00:00:22.400" end="00:00:28.080" style="s2">here</p>
+<p begin="00:00:25.080" end="00:00:28.080" style="s2">yes</p>
+<p begin="00:00:28.240" end="00:00:31.960" style="s2">good yes Anna</p>
+<p begin="00:00:34.120" end="00:00:40.320" style="s2">yes</p>
+<p begin="00:00:36.960" end="00:00:40.320" style="s2">good I like</p>
+<p begin="00:00:41.640" end="00:00:47.960" style="s2">it I don&#39;t like the rigidness back</p>
+<p begin="00:00:45.280" end="00:00:50.879" style="s2">here I like the wrist to be a little bit</p>
+<p begin="00:00:47.960" end="00:00:53.440" style="s2">more loose okay so when you go here you</p>
+<p begin="00:00:50.879" end="00:00:55.640" style="s2">drop like this remember that&#39;s the</p>
+<p begin="00:00:53.440" end="00:00:58.399" style="s2">perfect takeback for you from here to</p>
+<p begin="00:00:55.640" end="00:01:00.199" style="s2">here when you too much I feel like</p>
+<p begin="00:00:58.399" end="00:01:03.280" style="s2">you never release and the wrist is</p>
+<p begin="00:01:00.199" end="00:01:05.640" style="s2">locked too long and it has bad effects</p>
+<p begin="00:01:03.280" end="00:01:09.159" style="s2">later on in the swing so we need to make</p>
+<p begin="00:01:05.640" end="00:01:11.439" style="s2">it just slightly looser so you go here</p>
+<p begin="00:01:09.159" end="00:01:12.520" style="s2">here and then just let it go from here</p>
+<p begin="00:01:11.439" end="00:01:15.920" style="s2">and then you&#39;re going to get into that</p>
+<p begin="00:01:12.520" end="00:01:18.119" style="s2">lag naturally okay does that make sense</p>
+<p begin="00:01:15.920" end="00:01:22.320" style="s2">I was just like specifically keeping it</p>
+<p begin="00:01:18.119" end="00:01:24.799" style="s2">like tight because it has a way of</p>
+<p begin="00:01:22.320" end="00:01:27.320" style="s2">Wiggle and like loosen up too much you</p>
+<p begin="00:01:24.799" end="00:01:29.159" style="s2">know I don&#39;t like that I understand 100%</p>
+<p begin="00:01:27.320" end="00:01:31.400" style="s2">And that&#39;s a whole another problem where</p>
+<p begin="00:01:29.159" end="00:01:34.159" style="s2">this too loose and you start snapping at</p>
+<p begin="00:01:31.400" end="00:01:35.439" style="s2">the ball so these are both extremes that</p>
+<p begin="00:01:34.159" end="00:01:36.880" style="s2">are not good and we have to find a</p>
+<p begin="00:01:35.439" end="00:01:38.520" style="s2">middle ground we don&#39;t want to be too</p>
+<p begin="00:01:36.880" end="00:01:40.799" style="s2">loose we also don&#39;t want to be too rigid</p>
+<p begin="00:01:38.520" end="00:01:42.799" style="s2">and too tight for sure so remember this</p>
+<p begin="00:01:40.799" end="00:01:45.079" style="s2">is going back like two years before your</p>
+<p begin="00:01:42.799" end="00:01:48.479" style="s2">surgery we found the perfect takeback we</p>
+<p begin="00:01:45.079" end="00:01:50.759" style="s2">go here and then we just drop like this</p>
+<p begin="00:01:48.479" end="00:01:53.520" style="s2">here we just drop the strings to the</p>
+<p begin="00:01:50.759" end="00:01:55.040" style="s2">cord this and this remember that and</p>
+<p begin="00:01:53.520" end="00:01:56.640" style="s2">then from here we go forward and then</p>
+<p begin="00:01:55.040" end="00:01:59.039" style="s2">then naturally the wrist is going to go</p>
+<p begin="00:01:56.640" end="00:02:01.039" style="s2">further back but to lock it and and and</p>
+<p begin="00:01:59.039" end="00:02:03.119" style="s2">have it cocked like this when I see this</p>
+<p begin="00:02:01.039" end="00:02:04.799" style="s2">when I see the strings to the to the sky</p>
+<p begin="00:02:03.119" end="00:02:07.280" style="s2">in the back I get scared because I know</p>
+<p begin="00:02:04.799" end="00:02:10.440" style="s2">that you&#39;re hyperextending the the wrist</p>
+<p begin="00:02:07.280" end="00:02:13.680" style="s2">and possibly going this way as</p>
+<p begin="00:02:10.440" end="00:02:16.519" style="s2">well I like it Anna much</p>
+<p begin="00:02:13.680" end="00:02:18.800" style="s2">cleaner go</p>
+<p begin="00:02:16.519" end="00:02:23.000" style="s2">again</p>
+<p begin="00:02:18.800" end="00:02:23.000" style="s2">good good Anna beautiful</p>
+<p begin="00:02:23.080" end="00:02:26.319" style="s2">job good</p>
+<p begin="00:02:26.599" end="00:02:32.840" style="s2">Anna it was weird right no it was too</p>
+<p begin="00:02:30.519" end="00:02:35.800" style="s2">all right do a</p>
+<p begin="00:02:32.840" end="00:02:40.800" style="s2">backand</p>
+<p begin="00:02:35.800" end="00:02:40.800" style="s2">good I like that a lot so simple so</p>
+<p begin="00:02:41.000" end="00:02:46.599" style="s2">clean</p>
+<p begin="00:02:43.480" end="00:02:50.319" style="s2">good good pick it</p>
+<p begin="00:02:46.599" end="00:02:50.319" style="s2">up and attack it</p>
+<p begin="00:02:50.360" end="00:02:55.920" style="s2">come all right Anna I like this takeback</p>
+<p begin="00:02:53.360" end="00:02:59.319" style="s2">style a lot better for you it&#39;s more</p>
+<p begin="00:02:55.920" end="00:03:01.760" style="s2">simple it&#39;s also more fluid what is the</p>
+<p begin="00:02:59.319" end="00:03:04.000" style="s2">difference between the um original one</p>
+<p begin="00:03:01.760" end="00:03:07.040" style="s2">with way of we doing there&#39;s more range</p>
+<p begin="00:03:04.000" end="00:03:09.680" style="s2">of motion now so the one disadvantage of</p>
+<p begin="00:03:07.040" end="00:03:12.040" style="s2">a rigid locked wrist through the</p>
+<p begin="00:03:09.680" end="00:03:15.239" style="s2">entirety of the Swing is that it&#39;s going</p>
+<p begin="00:03:12.040" end="00:03:17.720" style="s2">to be difficult to get into the desired</p>
+<p begin="00:03:15.239" end="00:03:20.200" style="s2">wrist position so if you lock your wrist</p>
+<p begin="00:03:17.720" end="00:03:23.920" style="s2">here like this and then you start</p>
+<p begin="00:03:20.200" end="00:03:25.519" style="s2">dropping so you&#39;re getting a lag but</p>
+<p begin="00:03:23.920" end="00:03:28.360" style="s2">what actually happens on the forehand is</p>
+<p begin="00:03:25.519" end="00:03:30.439" style="s2">that the Racket and the forward</p>
+<p begin="00:03:28.360" end="00:03:33.120" style="s2">acceleration lags behind</p>
+<p begin="00:03:30.439" end="00:03:35.560" style="s2">further right and if you too tight here</p>
+<p begin="00:03:33.120" end="00:03:39.159" style="s2">and too locked you don&#39;t get that extra</p>
+<p begin="00:03:35.560" end="00:03:41.879" style="s2">lag so your lag is limited when you have</p>
+<p begin="00:03:39.159" end="00:03:43.680" style="s2">a locked position L is Loop no lag is</p>
+<p begin="00:03:41.879" end="00:03:45.640" style="s2">like when you go for when you go forward</p>
+<p begin="00:03:43.680" end="00:03:48.000" style="s2">you see this when you go forward like</p>
+<p begin="00:03:45.640" end="00:03:50.599" style="s2">this when you pull forward the racket</p>
+<p begin="00:03:48.000" end="00:03:53.879" style="s2">lags behind the the hand which is going</p>
+<p begin="00:03:50.599" end="00:03:56.760" style="s2">forward that&#39;s the lag so when you are</p>
+<p begin="00:03:53.879" end="00:03:59.319" style="s2">in a locked position like this so when</p>
+<p begin="00:03:56.760" end="00:04:02.280" style="s2">the racket drops and you go forward if</p>
+<p begin="00:03:59.319" end="00:04:03.840" style="s2">you look at this on camera it looks</p>
+<p begin="00:04:02.280" end="00:04:07.040" style="s2">biomechanically correct because you are</p>
+<p begin="00:04:03.840" end="00:04:10.840" style="s2">achieving a sufficient lag however when</p>
+<p begin="00:04:07.040" end="00:04:13.000" style="s2">you examine high level 4in closely they</p>
+<p begin="00:04:10.840" end="00:04:16.519" style="s2">actually lag and the racket goes further</p>
+<p begin="00:04:13.000" end="00:04:18.199" style="s2">back like this so the optimal lag is</p>
+<p begin="00:04:16.519" end="00:04:19.479" style="s2">from a forward acceleration that&#39;s so</p>
+<p begin="00:04:18.199" end="00:04:21.799" style="s2">violent that the tip of the racket</p>
+<p begin="00:04:19.479" end="00:04:24.280" style="s2">actually goes backwards and when the</p>
+<p begin="00:04:21.799" end="00:04:25.680" style="s2">wrist is too rigid too locked you have</p>
+<p begin="00:04:24.280" end="00:04:28.000" style="s2">absolutely no chance of getting that</p>
+<p begin="00:04:25.680" end="00:04:29.759" style="s2">extra lag mm you understand which is</p>
+<p begin="00:04:28.000" end="00:04:31.600" style="s2">extra power automatically it&#39;s more</p>
+<p begin="00:04:29.759" end="00:04:34.320" style="s2">range of motion extra power yes cuz the</p>
+<p begin="00:04:31.600" end="00:04:36.280" style="s2">racket goes from here into the contact</p>
+<p begin="00:04:34.320" end="00:04:38.600" style="s2">here it&#39;s more range of motion bigger</p>
+<p begin="00:04:36.280" end="00:04:41.160" style="s2">space for the acceleration to take place</p>
+<p begin="00:04:38.600" end="00:04:42.479" style="s2">is better yeah so when you&#39;re locked and</p>
+<p begin="00:04:41.160" end="00:04:44.440" style="s2">you&#39;re going from here to here you get a</p>
+<p begin="00:04:42.479" end="00:04:46.320" style="s2">little bit less so it&#39;s not the end of</p>
+<p begin="00:04:44.440" end="00:04:47.520" style="s2">the world to play with the rigid wrist</p>
+<p begin="00:04:46.320" end="00:04:49.759" style="s2">you still might be able to hit some</p>
+<p begin="00:04:47.520" end="00:04:51.520" style="s2">decent forehands but it&#39;s not optimal</p>
+<p begin="00:04:49.759" end="00:04:55.120" style="s2">and also when we&#39;re talking about the</p>
+<p begin="00:04:51.520" end="00:04:57.440" style="s2">actual swing path at contact and shortly</p>
+<p begin="00:04:55.120" end="00:04:58.560" style="s2">thereafter if you&#39;re too locked you know</p>
+<p begin="00:04:57.440" end="00:05:01.199" style="s2">you&#39;re going to have less range of</p>
+<p begin="00:04:58.560" end="00:05:03.400" style="s2">motion less fluid it to here and you</p>
+<p begin="00:05:01.199" end="00:05:05.520" style="s2">might end up hitting the ball with less</p>
+<p begin="00:05:03.400" end="00:05:08.240" style="s2">range of motion with more of a tighter</p>
+<p begin="00:05:05.520" end="00:05:09.840" style="s2">shorter type swing path when it&#39;s locked</p>
+<p begin="00:05:08.240" end="00:05:11.440" style="s2">it will be less because what what</p>
+<p begin="00:05:09.840" end="00:05:14.960" style="s2">happens sometimes is that the tightness</p>
+<p begin="00:05:11.440" end="00:05:16.840" style="s2">of the wrist transfers into into the the</p>
+<p begin="00:05:14.960" end="00:05:20.080" style="s2">rest of the body so now it&#39;s your</p>
+<p begin="00:05:16.840" end="00:05:21.600" style="s2">forearm that&#39;s also tight it&#39;s your you</p>
+<p begin="00:05:20.080" end="00:05:23.360" style="s2">know upper arm that&#39;s tight maybe your</p>
+<p begin="00:05:21.600" end="00:05:24.960" style="s2">chest is tight and your trunk and and</p>
+<p begin="00:05:23.360" end="00:05:27.280" style="s2">you&#39;re tight here you end up going like</p>
+<p begin="00:05:24.960" end="00:05:29.440" style="s2">this and the entire thing looks tight</p>
+<p begin="00:05:27.280" end="00:05:30.680" style="s2">yeah so you don&#39;t want to be too loose</p>
+<p begin="00:05:29.440" end="00:05:31.840" style="s2">with talked about this because then</p>
+<p begin="00:05:30.680" end="00:05:33.479" style="s2">you&#39;re slapping the ball you&#39;re</p>
+<p begin="00:05:31.840" end="00:05:35.880" style="s2">spaghetti arming it and your balls are</p>
+<p begin="00:05:33.479" end="00:05:37.039" style="s2">flying into The Back Fence no good but</p>
+<p begin="00:05:35.880" end="00:05:38.720" style="s2">you also don&#39;t want to be too stiff you</p>
+<p begin="00:05:37.039" end="00:05:41.560" style="s2">got to find the middle ground so that</p>
+<p begin="00:05:38.720" end="00:05:43.960" style="s2">you have the proper range of motion in</p>
+<p begin="00:05:41.560" end="00:05:46.120" style="s2">the wrist with a full lag and then the</p>
+<p begin="00:05:43.960" end="00:05:48.000" style="s2">wrist going once the racket goes in a</p>
+<p begin="00:05:46.120" end="00:05:49.919" style="s2">vertical position the wrist should go</p>
+<p begin="00:05:48.000" end="00:05:52.199" style="s2">along for the ride and start breaking</p>
+<p begin="00:05:49.919" end="00:05:54.120" style="s2">this way so that the back of your hand</p>
+<p begin="00:05:52.199" end="00:05:55.520" style="s2">goes towards your left cheek if you</p>
+<p begin="00:05:54.120" end="00:05:57.199" style="s2">happen to be right handed over the</p>
+<p begin="00:05:55.520" end="00:05:58.919" style="s2">shoulder sometimes could be anywhere as</p>
+<p begin="00:05:57.199" end="00:06:01.360" style="s2">long as you turn it over if you turn it</p>
+<p begin="00:05:58.919" end="00:06:02.880" style="s2">over at the end that is the the desired</p>
+<p begin="00:06:01.360" end="00:06:06.400" style="s2">finish on the forehand too and that</p>
+<p begin="00:06:02.880" end="00:06:07.960" style="s2">involves some wrist fluidity and again</p>
+<p begin="00:06:06.400" end="00:06:09.360" style="s2">if the wrist is too rigid you you&#39;re</p>
+<p begin="00:06:07.960" end="00:06:12.639" style="s2">going to have a harder time achieving</p>
+<p begin="00:06:09.360" end="00:06:15.880" style="s2">those effects yeah</p>
+<p begin="00:06:12.639" end="00:06:18.560" style="s2">yeah I love</p>
+<p begin="00:06:15.880" end="00:06:19.319" style="s2">it I love it Anna look at that take back</p>
+<p begin="00:06:18.560" end="00:06:22.599" style="s2">so</p>
+<p begin="00:06:19.319" end="00:06:26.639" style="s2">clean and for It On the Run come Anna go</p>
+<p begin="00:06:22.599" end="00:06:26.639" style="s2">go and attack this one</p>
+<p begin="00:06:27.120" end="00:06:31.240" style="s2">cap very clean all right you&#39;re doing</p>
+<p begin="00:06:29.360" end="00:06:34.680" style="s2">good I actually felt</p>
+<p begin="00:06:31.240" end="00:06:37.280" style="s2">that thing which thing the log you were</p>
+<p begin="00:06:34.680" end="00:06:40.560" style="s2">telling me about you felt it oh yeah</p>
+<p begin="00:06:37.280" end="00:06:41.880" style="s2">like two or three times it feels so good</p>
+<p begin="00:06:40.560" end="00:06:44.880" style="s2">Anna do you remember our last lesson</p>
+<p begin="00:06:41.880" end="00:06:47.360" style="s2">with the backand where we did side back</p>
+<p begin="00:06:44.880" end="00:06:48.639" style="s2">back finish finish let&#39;s do the same</p>
+<p begin="00:06:47.360" end="00:06:50.240" style="s2">thing on the forehand because I feel</p>
+<p begin="00:06:48.639" end="00:06:53.000" style="s2">like the initial sequencing on the</p>
+<p begin="00:06:50.240" end="00:06:54.639" style="s2">forehand is still not optimal sometimes</p>
+<p begin="00:06:53.000" end="00:06:56.319" style="s2">you could do a little better job you</p>
+<p begin="00:06:54.639" end="00:06:57.720" style="s2">hate the cone I don&#39;t like them all</p>
+<p begin="00:06:56.319" end="00:06:59.280" style="s2">right no worries but you come you</p>
+<p begin="00:06:57.720" end="00:07:00.039" style="s2">promise you go back to the middle okay</p>
+<p begin="00:06:59.280" end="00:07:01.479" style="s2">thank</p>
+<p begin="00:07:00.039" end="00:07:03.919" style="s2">all right list I don&#39;t like running</p>
+<p begin="00:07:01.479" end="00:07:06.479" style="s2">around them it drives you crazy doesn&#39;t</p>
+<p begin="00:07:03.919" end="00:07:10.440" style="s2">it okay look we&#39;re going to improve the</p>
+<p begin="00:07:06.479" end="00:07:13.319" style="s2">sequencing on the forehand when I say</p>
+<p begin="00:07:10.440" end="00:07:15.000" style="s2">side you&#39;re going to immediately go</p>
+<p begin="00:07:13.319" end="00:07:18.160" style="s2">parallel to the yeah you can separate go</p>
+<p begin="00:07:15.000" end="00:07:21.120" style="s2">ahead go here side this is side all</p>
+<p begin="00:07:18.160" end="00:07:23.400" style="s2">right now side</p>
+<p begin="00:07:21.120" end="00:07:24.960" style="s2">encompasses the setup process and the</p>
+<p begin="00:07:23.400" end="00:07:26.960" style="s2">observation of the ball super important</p>
+<p begin="00:07:24.960" end="00:07:28.680" style="s2">step so when I say side you&#39;re looking</p>
+<p begin="00:07:26.960" end="00:07:31.039" style="s2">at the ball and you&#39;re setting up okay</p>
+<p begin="00:07:28.680" end="00:07:32.080" style="s2">you&#39;re setting up when I say back that&#39;s</p>
+<p begin="00:07:31.039" end="00:07:33.840" style="s2">when you start going back with the</p>
+<p begin="00:07:32.080" end="00:07:35.360" style="s2">racket that&#39;s close to the bounce okay</p>
+<p begin="00:07:33.840" end="00:07:36.639" style="s2">and then finish is self-explanatory</p>
+<p begin="00:07:35.360" end="00:07:40.720" style="s2">you&#39;re G you that&#39;s what happens when</p>
+<p begin="00:07:36.639" end="00:07:42.199" style="s2">you hit the ball so side is maybe the</p>
+<p begin="00:07:40.720" end="00:07:43.639" style="s2">most important element because if you</p>
+<p begin="00:07:42.199" end="00:07:45.479" style="s2">get that one wrong everything ends up</p>
+<p begin="00:07:43.639" end="00:07:47.520" style="s2">hectic very difficult to feel the stroke</p>
+<p begin="00:07:45.479" end="00:07:49.520" style="s2">because everything&#39;s over so quickly so</p>
+<p begin="00:07:47.520" end="00:07:52.680" style="s2">say again what you just said I was like</p>
+<p begin="00:07:49.520" end="00:07:55.960" style="s2">in my body if you don&#39;t do the first</p>
+<p begin="00:07:52.680" end="00:07:57.599" style="s2">step which is side M quickly enough</p>
+<p begin="00:07:55.960" end="00:07:59.879" style="s2">let&#39;s say you wait too long like this</p>
+<p begin="00:07:57.599" end="00:08:01.919" style="s2">and you&#39;re look at the ball and now it&#39;s</p>
+<p begin="00:07:59.879" end="00:08:04.440" style="s2">close to the balance and you turn like</p>
+<p begin="00:08:01.919" end="00:08:06.479" style="s2">this and you do everything at once turn</p>
+<p begin="00:08:04.440" end="00:08:09.159" style="s2">and the take back and everything it</p>
+<p begin="00:08:06.479" end="00:08:10.720" style="s2">feels rushed it feels hectic and it&#39;s</p>
+<p begin="00:08:09.159" end="00:08:11.759" style="s2">hard to know what actually just happened</p>
+<p begin="00:08:10.720" end="00:08:13.560" style="s2">you just hit the ball and you don&#39;t know</p>
+<p begin="00:08:11.759" end="00:08:15.280" style="s2">what you did cuz everything happen so</p>
+<p begin="00:08:13.560" end="00:08:18.159" style="s2">fast so when you segment the stroke like</p>
+<p begin="00:08:15.280" end="00:08:19.599" style="s2">this compartmentalize it if you will and</p>
+<p begin="00:08:18.159" end="00:08:21.960" style="s2">as quickly as possible as soon as you</p>
+<p begin="00:08:19.599" end="00:08:23.960" style="s2">know as a forehand you go side and you</p>
+<p begin="00:08:21.960" end="00:08:25.520" style="s2">set up and now you find yourself in the</p>
+<p begin="00:08:23.960" end="00:08:28.199" style="s2">perfect position close to the balance</p>
+<p begin="00:08:25.520" end="00:08:29.879" style="s2">you go back racket starts going back and</p>
+<p begin="00:08:28.199" end="00:08:31.759" style="s2">then obviously when you when I say</p>
+<p begin="00:08:29.879" end="00:08:34.320" style="s2">finish you&#39;re going to try to finish as</p>
+<p begin="00:08:31.759" end="00:08:36.120" style="s2">much as you can that&#39;s a segmentation of</p>
+<p begin="00:08:34.320" end="00:08:38.800" style="s2">the stroke that&#39;s going to make it more</p>
+<p begin="00:08:36.120" end="00:08:40.120" style="s2">fluid more continuous and mentally it&#39;s</p>
+<p begin="00:08:38.800" end="00:08:42.760" style="s2">going to feel like you have a lot more</p>
+<p begin="00:08:40.120" end="00:08:44.640" style="s2">time than you actually do yeah all right</p>
+<p begin="00:08:42.760" end="00:08:46.519" style="s2">even if it&#39;s a slow Bowl just be ready</p>
+<p begin="00:08:44.640" end="00:08:47.800" style="s2">right away always any ball in tennis</p>
+<p begin="00:08:46.519" end="00:08:49.920" style="s2">even when it&#39;s slow don&#39;t get tricked by</p>
+<p begin="00:08:47.800" end="00:08:53.880" style="s2">the slow ball you always want to be</p>
+<p begin="00:08:49.920" end="00:08:55.800" style="s2">quick on that first part the side okay</p>
+<p begin="00:08:53.880" end="00:08:59.680" style="s2">all right here we go</p>
+<p begin="00:08:55.800" end="00:09:02.399" style="s2">side back finish all right so so the</p>
+<p begin="00:08:59.680" end="00:09:05.120" style="s2">side is super slow now super slow you&#39;re</p>
+<p begin="00:09:02.399" end="00:09:07.519" style="s2">not hear me say side I do all right when</p>
+<p begin="00:09:05.120" end="00:09:10.079" style="s2">you hear I don&#39;t do things no you I say</p>
+<p begin="00:09:07.519" end="00:09:14.279" style="s2">side and you&#39;re still here oh Anna when</p>
+<p begin="00:09:10.079" end="00:09:20.399" style="s2">I say side here yeah yeah yeah okay side</p>
+<p begin="00:09:14.279" end="00:09:21.959" style="s2">back finish very clean side back finish</p>
+<p begin="00:09:20.399" end="00:09:23.079" style="s2">and these are looking crisp now we&#39;re</p>
+<p begin="00:09:21.959" end="00:09:27.880" style="s2">going to do it without me saying</p>
+<p begin="00:09:23.079" end="00:09:27.880" style="s2">anything okay and let&#39;s see what happens</p>
+<p begin="00:09:29.519" end="00:09:34.720" style="s2">one more time I didn&#39;t like that one let</p>
+<p begin="00:09:32.959" end="00:09:38.880" style="s2">me help you again okay I&#39;m going to call</p>
+<p begin="00:09:34.720" end="00:09:43.600" style="s2">out side back finish again when you hear</p>
+<p begin="00:09:38.880" end="00:09:47.320" style="s2">side you side side like this side back</p>
+<p begin="00:09:43.600" end="00:09:49.000" style="s2">finish very clean forehand one more side</p>
+<p begin="00:09:47.320" end="00:09:52.320" style="s2">back</p>
+<p begin="00:09:49.000" end="00:09:54.560" style="s2">finish so good I want to point out one</p>
+<p begin="00:09:52.320" end="00:09:56.079" style="s2">thing that is not a mistake on you just</p>
+<p begin="00:09:54.560" end="00:09:57.640" style="s2">because you have a lot of good muscle</p>
+<p begin="00:09:56.079" end="00:09:59.600" style="s2">memory cuz we&#39;ve been doing some really</p>
+<p begin="00:09:57.640" end="00:10:01.600" style="s2">good work on the forehand but doing this</p>
+<p begin="00:09:59.600" end="00:10:04.200" style="s2">drill with some other players they</p>
+<p begin="00:10:01.600" end="00:10:06.240" style="s2">translate the back into something that</p>
+<p begin="00:10:04.200" end="00:10:07.880" style="s2">they do rapidly or fast so I want to</p>
+<p begin="00:10:06.240" end="00:10:10.120" style="s2">just point this out to the people that</p>
+<p begin="00:10:07.880" end="00:10:13.240" style="s2">are watching that the side can happen</p>
+<p begin="00:10:10.120" end="00:10:15.519" style="s2">super fast like this but when when I say</p>
+<p begin="00:10:13.240" end="00:10:18.120" style="s2">back you don&#39;t want to go like this uh</p>
+<p begin="00:10:15.519" end="00:10:20.240" style="s2">because the segment of the stroke is</p>
+<p begin="00:10:18.120" end="00:10:22.240" style="s2">slow to fast the stroke doesn&#39;t</p>
+<p begin="00:10:20.240" end="00:10:24.240" style="s2">accelerate from zero to 100 and it goes</p>
+<p begin="00:10:22.240" end="00:10:26.079" style="s2">like this it goes slow here and then it</p>
+<p begin="00:10:24.240" end="00:10:29.000" style="s2">gradually starts speeding up it&#39;s like</p>
+<p begin="00:10:26.079" end="00:10:31.959" style="s2">gravity is taking yeah so it&#39;s like a</p>
+<p begin="00:10:29.000" end="00:10:35.240" style="s2">Flor blowing gradually accelerating</p>
+<p begin="00:10:31.959" end="00:10:36.959" style="s2">continuous stroke so the back you did</p>
+<p begin="00:10:35.240" end="00:10:39.079" style="s2">correctly just because of your good</p>
+<p begin="00:10:36.959" end="00:10:40.519" style="s2">muscle memory which means that we did a</p>
+<p begin="00:10:39.079" end="00:10:42.680" style="s2">lot of good work in the past because you</p>
+<p begin="00:10:40.519" end="00:10:43.760" style="s2">weren&#39;t taking the racket back fast and</p>
+<p begin="00:10:42.680" end="00:10:46.839" style="s2">getting stuck back there you were</p>
+<p begin="00:10:43.760" end="00:10:49.000" style="s2">flowing here yeah which is great okay</p>
+<p begin="00:10:46.839" end="00:10:49.959" style="s2">all right you need a drink yeah go ahead</p>
+<p begin="00:10:49.000" end="00:10:55.600" style="s2">go get a</p>
+<p begin="00:10:49.959" end="00:10:59.600" style="s2">drink side back hit not bad at all side</p>
+<p begin="00:10:55.600" end="00:11:03.880" style="s2">back hit last one Anna</p>
+<p begin="00:10:59.600" end="00:11:05.399" style="s2">side back hit so clean all right I&#39;m</p>
+<p begin="00:11:03.880" end="00:11:11.440" style="s2">going to go to the other side we&#39;ll do</p>
+<p begin="00:11:05.399" end="00:11:16.639" style="s2">the same thing side back hit side back</p>
+<p begin="00:11:11.440" end="00:11:23.200" style="s2">hit beautiful side back hit very clean</p>
+<p begin="00:11:16.639" end="00:11:24.839" style="s2">side back hit good side back hit good</p>
+<p begin="00:11:23.200" end="00:11:26.720" style="s2">we&#39;ll keep the ball in play I&#39;m going to</p>
+<p begin="00:11:24.839" end="00:11:28.440" style="s2">tell you again and then I&#39;m going to not</p>
+<p begin="00:11:26.720" end="00:11:35.760" style="s2">say anything and we&#39;ll see what happens</p>
+<p begin="00:11:28.440" end="00:11:42.959" style="s2">okay s side back hit good side back hit</p>
+<p begin="00:11:35.760" end="00:11:46.560" style="s2">good side back hit side back</p>
+<p begin="00:11:42.959" end="00:11:53.720" style="s2">hit side back</p>
+<p begin="00:11:46.560" end="00:11:56.279" style="s2">hit side back hit side back hit all</p>
+<p begin="00:11:53.720" end="00:11:57.720" style="s2">right Anna now I&#39;m not going to say</p>
+<p begin="00:11:56.279" end="00:12:01.240" style="s2">anything but you&#39;re going to think about</p>
+<p begin="00:11:57.720" end="00:12:01.240" style="s2">it in your head</p>
+<p begin="00:12:12.800" end="00:12:16.839" style="s2">quietly it&#39;s too high</p>
+<p begin="00:12:17.760" end="00:12:20.760" style="s2">here</p>
+<p begin="00:12:21.199" end="00:12:24.199" style="s2">good</p>
+<p begin="00:12:25.600" end="00:12:33.240" style="s2">good go ahead a lot of times when I play</p>
+<p begin="00:12:29.480" end="00:12:35.240" style="s2">with you particularly yeah uh when the</p>
+<p begin="00:12:33.240" end="00:12:39.160" style="s2">ball kicks here even like in the middle</p>
+<p begin="00:12:35.240" end="00:12:42.720" style="s2">of the C yeah it&#39;s still here as I&#39;m</p>
+<p begin="00:12:39.160" end="00:12:45.240" style="s2">already here so and then when I hit it</p>
+<p begin="00:12:42.720" end="00:12:47.000" style="s2">it goes straight into the net you&#39;re</p>
+<p begin="00:12:45.240" end="00:12:49.880" style="s2">talking about the ball yeah go ahead I&#39;m</p>
+<p begin="00:12:47.000" end="00:12:52.040" style="s2">sorry like when it&#39;s because you have to</p>
+<p begin="00:12:49.880" end="00:12:55.279" style="s2">kick it here right so when it&#39;s like</p>
+<p begin="00:12:52.040" end="00:13:00.399" style="s2">keep level or something yeah yours</p>
+<p begin="00:12:55.279" end="00:13:03.199" style="s2">are here and like really high and like</p>
+<p begin="00:13:00.399" end="00:13:05.800" style="s2">how do you maneuver it so it doesn&#39;t go</p>
+<p begin="00:13:03.199" end="00:13:08.320" style="s2">into the net because I hit it here and</p>
+<p begin="00:13:05.800" end="00:13:10.920" style="s2">definitely you know put it into the net</p>
+<p begin="00:13:08.320" end="00:13:12.839" style="s2">which I don&#39;t like so that&#39;s a High Top</p>
+<p begin="00:13:10.920" end="00:13:14.360" style="s2">Spin ball I&#39;m not hitting it on purpose</p>
+<p begin="00:13:12.839" end="00:13:16.560" style="s2">maybe I&#39;m shanking it or Mish hitting it</p>
+<p begin="00:13:14.360" end="00:13:18.440" style="s2">slightly and the ball suggested to me</p>
+<p begin="00:13:16.560" end="00:13:20.240" style="s2">I&#39;m trying to but sometimes I kind of</p>
+<p begin="00:13:18.440" end="00:13:21.560" style="s2">mish hit or I&#39;m putting accidentally too</p>
+<p begin="00:13:20.240" end="00:13:23.720" style="s2">much spin on it and it goes over your</p>
+<p begin="00:13:21.560" end="00:13:25.839" style="s2">head and those are tough to play and</p>
+<p begin="00:13:23.720" end="00:13:27.560" style="s2">that&#39;s a lesson for another day how to</p>
+<p begin="00:13:25.839" end="00:13:29.959" style="s2">play the live ball so you don&#39;t want to</p>
+<p begin="00:13:27.560" end="00:13:31.199" style="s2">end up in the back fence so you might</p>
+<p begin="00:13:29.959" end="00:13:33.519" style="s2">have to learn to take those a little bit</p>
+<p begin="00:13:31.199" end="00:13:34.959" style="s2">earlier on the rise so to speak but</p>
+<p begin="00:13:33.519" end="00:13:38.399" style="s2">we&#39;ll have to do that some other time so</p>
+<p begin="00:13:34.959" end="00:13:39.959" style="s2">go closer to where it lands originally I</p>
+<p begin="00:13:38.399" end="00:13:41.199" style="s2">guess see the problem is that on that</p>
+<p begin="00:13:39.959" end="00:13:44.199" style="s2">particular ball you&#39;re talking about</p>
+<p begin="00:13:41.199" end="00:13:45.800" style="s2">it&#39;s kind of Speedy a little bit so you</p>
+<p begin="00:13:44.199" end="00:13:47.519" style="s2">can&#39;t wait for it to drop because you&#39;re</p>
+<p begin="00:13:45.800" end="00:13:50.600" style="s2">going to be in The Back Fence so when</p>
+<p begin="00:13:47.519" end="00:13:53.000" style="s2">you play against the level of</p>
+<p begin="00:13:50.600" end="00:13:54.440" style="s2">player that you&#39;re going to be facing on</p>
+<p begin="00:13:53.000" end="00:13:56.600" style="s2">the court you don&#39;t have to worry about</p>
+<p begin="00:13:54.440" end="00:13:57.759" style="s2">that so much generally speaking they</p>
+<p begin="00:13:56.600" end="00:13:59.279" style="s2">high balls they&#39;re not going to</p>
+<p begin="00:13:57.759" end="00:14:00.639" style="s2">penetrate as much and you can wait for</p>
+<p begin="00:13:59.279" end="00:14:01.800" style="s2">the ball to drop and maybe you&#39;re going</p>
+<p begin="00:14:00.639" end="00:14:03.600" style="s2">to be further back but you&#39;re not going</p>
+<p begin="00:14:01.800" end="00:14:06.040" style="s2">to be pushed that far back so you can</p>
+<p begin="00:14:03.600" end="00:14:08.440" style="s2">take those on the way down where once</p>
+<p begin="00:14:06.040" end="00:14:10.880" style="s2">you experience a high ball with more</p>
+<p begin="00:14:08.440" end="00:14:13.160" style="s2">penetration you have to learn to take</p>
+<p begin="00:14:10.880" end="00:14:15.880" style="s2">those earlier that&#39;s really the only way</p>
+<p begin="00:14:13.160" end="00:14:17.480" style="s2">okay so again let&#39;s cover that down the</p>
+<p begin="00:14:15.880" end="00:14:19.120" style="s2">down the road maybe next time we&#39;ll work</p>
+<p begin="00:14:17.480" end="00:14:21.000" style="s2">on the high forehand but now let&#39;s</p>
+<p begin="00:14:19.120" end="00:14:23.480" style="s2">continue with the segmenting let&#39;s</p>
+<p begin="00:14:21.000" end="00:14:26.040" style="s2">continue have very clean take back back</p>
+<p begin="00:14:23.480" end="00:14:27.720" style="s2">here nice and nice and clean and we&#39;ll</p>
+<p begin="00:14:26.040" end="00:14:30.920" style="s2">get a couple more good forehand okay</p>
+<p begin="00:14:27.720" end="00:14:33.160" style="s2">excent come on thanks</p>
+<p begin="00:14:30.920" end="00:14:33.160" style="s2">yes</p>
+<p begin="00:14:33.519" end="00:14:40.600" style="s2">Anna it&#39;s okay come come</p>
+<p begin="00:14:37.040" end="00:14:40.600" style="s2">on beautiful</p>
+<p begin="00:14:41.040" end="00:14:44.040" style="s2">job</p>
+<p begin="00:14:45.560" end="00:14:48.839" style="s2">good last</p>
+<p begin="00:14:48.880" end="00:14:55.680" style="s2">one one more come on</p>
+<p begin="00:14:52.480" end="00:14:58.959" style="s2">Anna all right last one side back finish</p>
+<p begin="00:14:55.680" end="00:14:58.959" style="s2">here we go</p>
+<p begin="00:14:59.800" end="00:15:04.519" style="s2">all right very clean Anna good job you</p>
+<p begin="00:15:02.360" end="00:15:06.680" style="s2">did so good today how you feeling on the</p>
+<p begin="00:15:04.519" end="00:15:08.759" style="s2">forehand Now versus much better I feel</p>
+<p begin="00:15:06.680" end="00:15:11.639" style="s2">the beginning suggested I&#39;m glad you</p>
+<p begin="00:15:08.759" end="00:15:14.399" style="s2">explained this one because it wasn&#39;t my</p>
+<p begin="00:15:11.639" end="00:15:16.800" style="s2">obsession from the word</p>
+<p begin="00:15:14.399" end="00:15:19.320" style="s2">upset when they&#39;re here and I&#39;m already</p>
+<p begin="00:15:16.800" end="00:15:20.560" style="s2">at the very back of it so never like</p>
+<p begin="00:15:19.320" end="00:15:23.880" style="s2">that don&#39;t worry that&#39;s one of the</p>
+<p begin="00:15:20.560" end="00:15:26.040" style="s2">toughest shots mhm at any level really</p>
+<p begin="00:15:23.880" end="00:15:27.720" style="s2">is playing the high ball it&#39;s a very</p>
+<p begin="00:15:26.040" end="00:15:29.680" style="s2">very tricky shot to play but I think</p>
+<p begin="00:15:27.720" end="00:15:31.880" style="s2">when you go out and play on your own I</p>
+<p begin="00:15:29.680" end="00:15:33.720" style="s2">want you to keep in mind not to be here</p>
+<p begin="00:15:31.880" end="00:15:35.319" style="s2">too long cuz that was a mistake you&#39;re</p>
+<p begin="00:15:33.720" end="00:15:37.040" style="s2">waiting here too long and and just get</p>
+<p begin="00:15:35.319" end="00:15:39.680" style="s2">that first step out of the way that&#39;s</p>
+<p begin="00:15:37.040" end="00:15:41.480" style="s2">going to give you more time and you&#39;re</p>
+<p begin="00:15:39.680" end="00:15:43.560" style="s2">doing a lot of other things good you&#39;ve</p>
+<p begin="00:15:41.480" end="00:15:47.000" style="s2">improved a lot it&#39;s just a matter of</p>
+<p begin="00:15:43.560" end="00:15:48.240" style="s2">keep uh going and stay with it thank you</p>
+<p begin="00:15:47.000" end="00:15:50.759" style="s2">nice job</p>
+<p begin="00:15:48.240" end="00:15:53.040" style="s2">Anna very good when you get back from</p>
+<p begin="00:15:50.759" end="00:15:54.680" style="s2">Europe I will be much better you&#39;ll see</p>
+<p begin="00:15:53.040" end="00:15:56.440" style="s2">how many times per week do you play now</p>
+<p begin="00:15:54.680" end="00:15:59.800" style="s2">three times that&#39;s great you know what I</p>
+<p begin="00:15:56.440" end="00:16:02.759" style="s2">recently noticed that um some people I</p>
+<p begin="00:15:59.800" end="00:16:05.399" style="s2">play with they have this uh Frozen</p>
+<p begin="00:16:02.759" end="00:16:08.759" style="s2">necklaces I love those oh yeah I&#39;ve seen</p>
+<p begin="00:16:05.399" end="00:16:10.839" style="s2">that yeah it helps a tremendous uh the</p>
+<p begin="00:16:08.759" end="00:16:15.600" style="s2">ice thing and I&#39;m going to start picking</p>
+<p begin="00:16:10.839" end="00:16:18.639" style="s2">up nothing special but now I started</p>
+<p begin="00:16:15.600" end="00:16:21.279" style="s2">like waking up the the Beast starting</p>
+<p begin="00:16:18.639" end="00:16:25.120" style="s2">waking up yeah and they see my shots</p>
+<p begin="00:16:21.279" end="00:16:25.120" style="s2">holy it&#39;s beautiful no it&#39;s ni</p>
+</div>
+</body>
+</tt>

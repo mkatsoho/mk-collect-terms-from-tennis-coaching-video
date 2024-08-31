@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.639" style="s2">go good anna</p>
+<p begin="00:00:04.960" end="00:00:10.800" style="s2">good job nice backhand turn</p>
+<p begin="00:00:08.080" end="00:00:10.800" style="s2">very nice</p>
+<p begin="00:00:11.200" end="00:00:18.800" style="s2">excellent excellent</p>
+<p begin="00:00:16.240" end="00:00:18.800" style="s2">very nice</p>
+<p begin="00:00:20.880" end="00:00:25.119" style="s2">big turn on the back end shoulder turn</p>
+<p begin="00:00:22.560" end="00:00:30.160" style="s2">head and match point right here give me</p>
+<p begin="00:00:25.119" end="00:00:31.519" style="s2">a rip</p>
+<p begin="00:00:30.160" end="00:00:33.040" style="s2">you&#39;re doing so great you&#39;re getting a</p>
+<p begin="00:00:31.519" end="00:00:33.840" style="s2">lot better so what&#39;s your training</p>
+<p begin="00:00:33.040" end="00:00:36.960" style="s2">regimen now</p>
+<p begin="00:00:33.840" end="00:00:38.719" style="s2">like you play we play once a week no</p>
+<p begin="00:00:36.960" end="00:00:40.559" style="s2">oh we play once right and then what else</p>
+<p begin="00:00:38.719" end="00:00:41.680" style="s2">do you do besides that can i play with</p>
+<p begin="00:00:40.559" end="00:00:43.920" style="s2">some other people</p>
+<p begin="00:00:41.680" end="00:00:46.399" style="s2">okay great yeah that&#39;s great but you</p>
+<p begin="00:00:43.920" end="00:00:48.000" style="s2">know what everybody&#39;s so different</p>
+<p begin="00:00:46.399" end="00:00:49.920" style="s2">different opponents you get different</p>
+<p begin="00:00:48.000" end="00:00:51.440" style="s2">like type of shots coming at you</p>
+<p begin="00:00:49.920" end="00:00:53.280" style="s2">yeah that&#39;s great and you do singles</p>
+<p begin="00:00:51.440" end="00:00:54.640" style="s2">right yeah awesome and you still do the</p>
+<p begin="00:00:53.280" end="00:00:56.399" style="s2">clinic as well right</p>
+<p begin="00:00:54.640" end="00:00:59.199" style="s2">um no i haven&#39;t done clinics since they</p>
+<p begin="00:00:56.399" end="00:01:00.000" style="s2">had this uh competition in february i</p>
+<p begin="00:00:59.199" end="00:01:02.320" style="s2">don&#39;t know</p>
+<p begin="00:01:00.000" end="00:01:03.039" style="s2">what competition i think they had</p>
+<p begin="00:01:02.320" end="00:01:05.280" style="s2">something</p>
+<p begin="00:01:03.039" end="00:01:06.080" style="s2">oh like a tournament yes oh you didn&#39;t</p>
+<p begin="00:01:05.280" end="00:01:07.680" style="s2">join</p>
+<p begin="00:01:06.080" end="00:01:09.280" style="s2">okay you&#39;re not quite ready yeah i</p>
+<p begin="00:01:07.680" end="00:01:12.159" style="s2">didn&#39;t go i don&#39;t know why</p>
+<p begin="00:01:09.280" end="00:01:13.520" style="s2">you know all right let&#39;s start down down</p>
+<p begin="00:01:12.159" end="00:01:14.159" style="s2">the road you&#39;re going to start competing</p>
+<p begin="00:01:13.520" end="00:01:15.759" style="s2">too</p>
+<p begin="00:01:14.159" end="00:01:17.119" style="s2">start playing some matches yeah but you</p>
+<p begin="00:01:15.759" end="00:01:19.280" style="s2">don&#39;t know even know how to do you know</p>
+<p begin="00:01:17.119" end="00:01:22.159" style="s2">how to keep score</p>
+<p begin="00:01:19.280" end="00:01:22.880" style="s2">we never did even no i don&#39;t i got to</p>
+<p begin="00:01:22.159" end="00:01:24.000" style="s2">teach you that</p>
+<p begin="00:01:22.880" end="00:01:26.479" style="s2">okay i got to teach you how to keep</p>
+<p begin="00:01:24.000" end="00:01:29.280" style="s2">score like 15 love 30 love and all that</p>
+<p begin="00:01:26.479" end="00:01:29.920" style="s2">and are you practicing your serve you&#39;re</p>
+<p begin="00:01:29.280" end="00:01:31.680" style="s2">not</p>
+<p begin="00:01:29.920" end="00:01:33.119" style="s2">you have to honor because you can&#39;t play</p>
+<p begin="00:01:31.680" end="00:01:34.720" style="s2">matches without having to surf</p>
+<p begin="00:01:33.119" end="00:01:36.560" style="s2">the serve is super important you know</p>
+<p begin="00:01:34.720" end="00:01:37.680" style="s2">what&#39;s also great because we have so</p>
+<p begin="00:01:36.560" end="00:01:39.040" style="s2">many videos now</p>
+<p begin="00:01:37.680" end="00:01:40.400" style="s2">you can also review the videos do you</p>
+<p begin="00:01:39.040" end="00:01:41.600" style="s2">ever do that i&#39;m always reviewing the</p>
+<p begin="00:01:40.400" end="00:01:44.000" style="s2">videos</p>
+<p begin="00:01:41.600" end="00:01:45.680" style="s2">because like i during the lesson there</p>
+<p begin="00:01:44.000" end="00:01:48.079" style="s2">is a reactive mode and stuff</p>
+<p begin="00:01:45.680" end="00:01:48.960" style="s2">yeah but then you sit down and you&#39;re</p>
+<p begin="00:01:48.079" end="00:01:51.600" style="s2">like</p>
+<p begin="00:01:48.960" end="00:01:52.159" style="s2">yeah watching you can review and you go</p>
+<p begin="00:01:51.600" end="00:01:54.159" style="s2">into i</p>
+<p begin="00:01:52.159" end="00:01:55.520" style="s2">and i have a lot of moments because i&#39;m</p>
+<p begin="00:01:54.159" end="00:01:56.960" style="s2">just watching the video right</p>
+<p begin="00:01:55.520" end="00:01:58.719" style="s2">you probably like what it is the thing</p>
+<p begin="00:01:56.960" end="00:02:00.159" style="s2">in a lesson sometimes i tell you so many</p>
+<p begin="00:01:58.719" end="00:02:02.000" style="s2">things you forget</p>
+<p begin="00:02:00.159" end="00:02:03.360" style="s2">but you have it on on video you can</p>
+<p begin="00:02:02.000" end="00:02:05.520" style="s2">always review it</p>
+<p begin="00:02:03.360" end="00:02:07.200" style="s2">do you ever read the comments um</p>
+<p begin="00:02:05.520" end="00:02:08.959" style="s2">sometimes sometimes</p>
+<p begin="00:02:07.200" end="00:02:10.560" style="s2">the comments are i gotta tell you out of</p>
+<p begin="00:02:08.959" end="00:02:11.920" style="s2">all the comments i get the comments</p>
+<p begin="00:02:10.560" end="00:02:14.080" style="s2">under your videos are the best</p>
+<p begin="00:02:11.920" end="00:02:15.680" style="s2">oh yeah yeah i gotta read you something</p>
+<p begin="00:02:14.080" end="00:02:16.319" style="s2">okay so this guy says the majority of</p>
+<p begin="00:02:15.680" end="00:02:18.959" style="s2">experienced</p>
+<p begin="00:02:16.319" end="00:02:20.400" style="s2">players has worse strokes than she had</p>
+<p begin="00:02:18.959" end="00:02:22.480" style="s2">after this introduction</p>
+<p begin="00:02:20.400" end="00:02:23.599" style="s2">this was on our first video the beginner</p>
+<p begin="00:02:22.480" end="00:02:25.680" style="s2">video that we made</p>
+<p begin="00:02:23.599" end="00:02:27.520" style="s2">so this is really something amazing epic</p>
+<p begin="00:02:25.680" end="00:02:28.640" style="s2">video no that was an amazing video</p>
+<p begin="00:02:27.520" end="00:02:30.959" style="s2">because you did so well</p>
+<p begin="00:02:28.640" end="00:02:32.800" style="s2">right away you picked it up super fast</p>
+<p begin="00:02:30.959" end="00:02:34.800" style="s2">yeah i fell in love with the game right</p>
+<p begin="00:02:32.800" end="00:02:37.120" style="s2">away right away right</p>
+<p begin="00:02:34.800" end="00:02:38.000" style="s2">it&#39;s just yeah you like it after dancing</p>
+<p begin="00:02:37.120" end="00:02:39.599" style="s2">is my</p>
+<p begin="00:02:38.000" end="00:02:41.360" style="s2">next favorite this is the second passion</p>
+<p begin="00:02:39.599" end="00:02:44.319" style="s2">yeah very very nice</p>
+<p begin="00:02:41.360" end="00:02:45.920" style="s2">what&#39;s in the bushes here no you&#39;re here</p>
+<p begin="00:02:44.319" end="00:02:49.360" style="s2">she&#39;s going crazy</p>
+<p begin="00:02:45.920" end="00:02:49.360" style="s2">paparazzi what is it</p>
+<p begin="00:02:54.080" end="00:02:58.400" style="s2">she has a very very nice personality</p>
+<p begin="00:02:56.800" end="00:03:01.680" style="s2">this guy likes her personality i</p>
+<p begin="00:02:58.400" end="00:03:05.519" style="s2">i&#39;ve heard that a lot you know i learned</p>
+<p begin="00:03:01.680" end="00:03:07.599" style="s2">you know very nice okay let&#39;s see here</p>
+<p begin="00:03:05.519" end="00:03:08.879" style="s2">okay this guy says it would be really</p>
+<p begin="00:03:07.599" end="00:03:10.319" style="s2">interesting if you could show her</p>
+<p begin="00:03:08.879" end="00:03:13.360" style="s2">progress in three months</p>
+<p begin="00:03:10.319" end="00:03:15.360" style="s2">six months etc so this is</p>
+<p begin="00:03:13.360" end="00:03:17.200" style="s2">actually something that&#39;s amazing i</p>
+<p begin="00:03:15.360" end="00:03:18.720" style="s2">always wanted to have this opportunity</p>
+<p begin="00:03:17.200" end="00:03:20.319" style="s2">to have someone who i&#39;m teaching like</p>
+<p begin="00:03:18.720" end="00:03:22.159" style="s2">from scratch but have it</p>
+<p begin="00:03:20.319" end="00:03:23.840" style="s2">on video because i love teaching</p>
+<p begin="00:03:22.159" end="00:03:24.560" style="s2">beginners it&#39;s one of my favorite things</p>
+<p begin="00:03:23.840" end="00:03:26.959" style="s2">to do</p>
+<p begin="00:03:24.560" end="00:03:28.560" style="s2">because i can literally like teach them</p>
+<p begin="00:03:26.959" end="00:03:30.319" style="s2">from scratch from the beginning</p>
+<p begin="00:03:28.560" end="00:03:32.000" style="s2">and then you can see the progress of of</p>
+<p begin="00:03:30.319" end="00:03:33.680" style="s2">how are they improving</p>
+<p begin="00:03:32.000" end="00:03:35.840" style="s2">but i never had the opportunity to tape</p>
+<p begin="00:03:33.680" end="00:03:36.319" style="s2">it from day one and then down the road</p>
+<p begin="00:03:35.840" end="00:03:38.400" style="s2">have it</p>
+<p begin="00:03:36.319" end="00:03:39.920" style="s2">on video footage so it&#39;s definitely</p>
+<p begin="00:03:38.400" end="00:03:42.400" style="s2">something that uh</p>
+<p begin="00:03:39.920" end="00:03:43.120" style="s2">we should do like continue to record no</p>
+<p begin="00:03:42.400" end="00:03:45.519" style="s2">pressure</p>
+<p begin="00:03:43.120" end="00:03:46.959" style="s2">and then like maybe two years from now</p>
+<p begin="00:03:45.519" end="00:03:48.319" style="s2">see how good you&#39;ve gotten</p>
+<p begin="00:03:46.959" end="00:03:50.000" style="s2">and then have the comparisons you know</p>
+<p begin="00:03:48.319" end="00:03:52.640" style="s2">from the beginner stage</p>
+<p begin="00:03:50.000" end="00:03:54.319" style="s2">um to when you get more advanced okay</p>
+<p begin="00:03:52.640" end="00:03:56.159" style="s2">this guy says beautiful form please</p>
+<p begin="00:03:54.319" end="00:03:58.239" style="s2">feature her every week</p>
+<p begin="00:03:56.159" end="00:04:00.319" style="s2">well actually you know as already told</p>
+<p begin="00:03:58.239" end="00:04:01.680" style="s2">you we decided to take a little bit of a</p>
+<p begin="00:04:00.319" end="00:04:03.920" style="s2">break</p>
+<p begin="00:04:01.680" end="00:04:05.599" style="s2">from recording because we don&#39;t want it</p>
+<p begin="00:04:03.920" end="00:04:07.680" style="s2">to ever get repetitive</p>
+<p begin="00:04:05.599" end="00:04:09.280" style="s2">we want to keep it fresh and exciting</p>
+<p begin="00:04:07.680" end="00:04:11.040" style="s2">yeah and we don&#39;t want to go over the</p>
+<p begin="00:04:09.280" end="00:04:12.720" style="s2">same lessons like twice we don&#39;t have</p>
+<p begin="00:04:11.040" end="00:04:14.400" style="s2">we want to have repetitive sessions so</p>
+<p begin="00:04:12.720" end="00:04:15.360" style="s2">we had pretty much all the strokes yeah</p>
+<p begin="00:04:14.400" end="00:04:17.040" style="s2">and now we&#39;re going to take a little bit</p>
+<p begin="00:04:15.360" end="00:04:18.239" style="s2">of a break like um</p>
+<p begin="00:04:17.040" end="00:04:20.239" style="s2">maybe two three months and see how</p>
+<p begin="00:04:18.239" end="00:04:21.919" style="s2">you&#39;re progressing then record</p>
+<p begin="00:04:20.239" end="00:04:23.840" style="s2">again and have like a progress report</p>
+<p begin="00:04:21.919" end="00:04:25.600" style="s2">you know</p>
+<p begin="00:04:23.840" end="00:04:27.280" style="s2">it&#39;s going to be super hot then yeah</p>
+<p begin="00:04:25.600" end="00:04:28.720" style="s2">when it was hot like</p>
+<p begin="00:04:27.280" end="00:04:30.800" style="s2">where was september i think right what</p>
+<p begin="00:04:28.720" end="00:04:32.720" style="s2">month was it remember i think it was</p>
+<p begin="00:04:30.800" end="00:04:34.639" style="s2">august maybe august so how many months</p>
+<p begin="00:04:32.720" end="00:04:36.800" style="s2">have been working already five months</p>
+<p begin="00:04:34.639" end="00:04:38.160" style="s2">five months this hasn&#39;t been that hasn&#39;t</p>
+<p begin="00:04:36.800" end="00:04:40.479" style="s2">been that long</p>
+<p begin="00:04:38.160" end="00:04:42.560" style="s2">this guy asked is it possible to follow</p>
+<p begin="00:04:40.479" end="00:04:44.720" style="s2">anna on a social network</p>
+<p begin="00:04:42.560" end="00:04:46.240" style="s2">is it possible yes of course what is it</p>
+<p begin="00:04:44.720" end="00:04:49.199" style="s2">follow me everybody</p>
+<p begin="00:04:46.240" end="00:04:49.680" style="s2">but what is it tell tell people it&#39;s a n</p>
+<p begin="00:04:49.199" end="00:04:54.240" style="s2">a</p>
+<p begin="00:04:49.680" end="00:04:56.080" style="s2">r o g e r s seven anna rogers seven</p>
+<p begin="00:04:54.240" end="00:04:57.759" style="s2">that&#39;s instagram what about tick tock</p>
+<p begin="00:04:56.080" end="00:05:00.800" style="s2">are you still doing tech talk i know</p>
+<p begin="00:04:57.759" end="00:05:02.240" style="s2">i had my but you haven&#39;t deleted it no i</p>
+<p begin="00:05:00.800" end="00:05:02.800" style="s2">have not deleted so what&#39;s your tick</p>
+<p begin="00:05:02.240" end="00:05:05.919" style="s2">tock</p>
+<p begin="00:05:02.800" end="00:05:10.800" style="s2">i forgot i think it&#39;s anna v</p>
+<p begin="00:05:05.919" end="00:05:13.039" style="s2">one nine seven five and nav197</p>
+<p begin="00:05:10.800" end="00:05:14.560" style="s2">yeah so everybody go follow follow anna</p>
+<p begin="00:05:13.039" end="00:05:16.800" style="s2">on the social network</p>
+<p begin="00:05:14.560" end="00:05:18.479" style="s2">you know you never know good good how</p>
+<p begin="00:05:16.800" end="00:05:20.880" style="s2">did she repay you for this private</p>
+<p begin="00:05:18.479" end="00:05:20.880" style="s2">lesson</p>
+<p begin="00:05:21.039" end="00:05:27.840" style="s2">what is this i read this one</p>
+<p begin="00:05:25.039" end="00:05:29.199" style="s2">well i&#39;ll get into that in a minute we</p>
+<p begin="00:05:27.840" end="00:05:29.680" style="s2">we do have an agreement i&#39;m sure you</p>
+<p begin="00:05:29.199" end="00:05:32.800" style="s2">want to</p>
+<p begin="00:05:29.680" end="00:05:34.479" style="s2">we have an agreement arrangement</p>
+<p begin="00:05:32.800" end="00:05:35.680" style="s2">we have an arrangement now i&#39;m going to</p>
+<p begin="00:05:34.479" end="00:05:36.720" style="s2">tell i&#39;m going to tell but i&#39;m going to</p>
+<p begin="00:05:35.680" end="00:05:38.720" style="s2">respond to it</p>
+<p begin="00:05:36.720" end="00:05:40.000" style="s2">from uh from a specific question okay</p>
+<p begin="00:05:38.720" end="00:05:41.840" style="s2">this is interesting this guy says it&#39;s</p>
+<p begin="00:05:40.000" end="00:05:43.759" style="s2">so obvious that she plays golf</p>
+<p begin="00:05:41.840" end="00:05:47.199" style="s2">the follow through and how she moves the</p>
+<p begin="00:05:43.759" end="00:05:49.280" style="s2">other leg and her foot after the stroke</p>
+<p begin="00:05:47.199" end="00:05:50.320" style="s2">you&#39;re a golf player no no i&#39;ve tried it</p>
+<p begin="00:05:49.280" end="00:05:53.440" style="s2">twice yeah</p>
+<p begin="00:05:50.320" end="00:05:55.840" style="s2">yeah recently actually okay also like</p>
+<p begin="00:05:53.440" end="00:05:57.440" style="s2">after we after our beginner session or</p>
+<p begin="00:05:55.840" end="00:05:57.919" style="s2">yeah yeah that was a couple months ago</p>
+<p begin="00:05:57.440" end="00:06:01.199" style="s2">i&#39;ve tried</p>
+<p begin="00:05:57.919" end="00:06:02.479" style="s2">oh okay so you need it but you haven&#39;t</p>
+<p begin="00:06:01.199" end="00:06:04.800" style="s2">played golf before</p>
+<p begin="00:06:02.479" end="00:06:06.400" style="s2">no no okay okay anna this is very</p>
+<p begin="00:06:04.800" end="00:06:09.199" style="s2">interesting um lol</p>
+<p begin="00:06:06.400" end="00:06:09.680" style="s2">she is not a beginner it is staged</p>
+<p begin="00:06:09.199" end="00:06:12.000" style="s2">taught</p>
+<p begin="00:06:09.680" end="00:06:13.280" style="s2">over 10k hours of lessons she&#39;s trying</p>
+<p begin="00:06:12.000" end="00:06:15.759" style="s2">to look like a beginner</p>
+<p begin="00:06:13.280" end="00:06:17.520" style="s2">oh that&#39;s a big compliment seriously but</p>
+<p begin="00:06:15.759" end="00:06:18.240" style="s2">i&#39;m a stage person that&#39;s for sure i</p>
+<p begin="00:06:17.520" end="00:06:19.759" style="s2">like to</p>
+<p begin="00:06:18.240" end="00:06:21.280" style="s2">you know were you are you lying to me</p>
+<p begin="00:06:19.759" end="00:06:23.600" style="s2">all along</p>
+<p begin="00:06:21.280" end="00:06:24.720" style="s2">no you never played before no that was</p>
+<p begin="00:06:23.600" end="00:06:26.800" style="s2">our first session</p>
+<p begin="00:06:24.720" end="00:06:27.759" style="s2">right when we recorded that epic video</p>
+<p begin="00:06:26.800" end="00:06:29.440" style="s2">yes i&#39;ve never</p>
+<p begin="00:06:27.759" end="00:06:30.960" style="s2">i&#39;ve never played in my life yeah that&#39;s</p>
+<p begin="00:06:29.440" end="00:06:32.840" style="s2">why when i fetch balls you&#39;re hitting</p>
+<p begin="00:06:30.960" end="00:06:35.840" style="s2">everything on with two hands on both</p>
+<p begin="00:06:32.840" end="00:06:35.840" style="s2">sides</p>
+<p begin="00:06:37.600" end="00:06:40.720" style="s2">out of all the beginners that i ever</p>
+<p begin="00:06:38.800" end="00:06:41.759" style="s2">thought i think you progressed the</p>
+<p begin="00:06:40.720" end="00:06:43.360" style="s2">fastest</p>
+<p begin="00:06:41.759" end="00:06:45.600" style="s2">that&#39;s why i don&#39;t blame people who</p>
+<p begin="00:06:43.360" end="00:06:48.800" style="s2">think this is staged and fake because</p>
+<p begin="00:06:45.600" end="00:06:50.400" style="s2">it&#39;s quite amazing how how much how you</p>
+<p begin="00:06:48.800" end="00:06:51.599" style="s2">picked it up immediately in that first</p>
+<p begin="00:06:50.400" end="00:06:52.240" style="s2">session you started hitting balls over</p>
+<p begin="00:06:51.599" end="00:06:53.840" style="s2">the net</p>
+<p begin="00:06:52.240" end="00:06:55.039" style="s2">and started cleaning up your technique</p>
+<p begin="00:06:53.840" end="00:06:55.919" style="s2">because i can tell you that some of the</p>
+<p begin="00:06:55.039" end="00:06:57.120" style="s2">other beginners</p>
+<p begin="00:06:55.919" end="00:06:58.560" style="s2">that i teach they have a very difficult</p>
+<p begin="00:06:57.120" end="00:06:59.919" style="s2">time connecting with the ball they can&#39;t</p>
+<p begin="00:06:58.560" end="00:07:02.080" style="s2">even connect</p>
+<p begin="00:06:59.919" end="00:07:03.440" style="s2">with the with the strings and the ball</p>
+<p begin="00:07:02.080" end="00:07:05.599" style="s2">together you know yeah i feel like the</p>
+<p begin="00:07:03.440" end="00:07:06.400" style="s2">angel is coming out of me when the ball</p>
+<p begin="00:07:05.599" end="00:07:09.759" style="s2">is coming yeah</p>
+<p begin="00:07:06.400" end="00:07:09.759" style="s2">it&#39;s very natural it&#39;s very natural</p>
+<p begin="00:07:10.639" end="00:07:14.960" style="s2">but um yeah so you you were like you</p>
+<p begin="00:07:13.360" end="00:07:16.080" style="s2">learned it very very quickly you picked</p>
+<p begin="00:07:14.960" end="00:07:18.319" style="s2">it up very quickly so</p>
+<p begin="00:07:16.080" end="00:07:20.080" style="s2">i understand that people think uh it was</p>
+<p begin="00:07:18.319" end="00:07:23.280" style="s2">staged but it was definitely not</p>
+<p begin="00:07:20.080" end="00:07:25.360" style="s2">um you were an absolutely 100</p>
+<p begin="00:07:23.280" end="00:07:27.280" style="s2">complete beginner uh before that first</p>
+<p begin="00:07:25.360" end="00:07:28.960" style="s2">lesson who&#39;s agreed with me that she&#39;s</p>
+<p begin="00:07:27.280" end="00:07:31.680" style="s2">russian</p>
+<p begin="00:07:28.960" end="00:07:33.039" style="s2">anna what&#39;s what will you reveal your</p>
+<p begin="00:07:31.680" end="00:07:34.960" style="s2">nationality</p>
+<p begin="00:07:33.039" end="00:07:36.800" style="s2">yes i&#39;m from russia you&#39;re from russia</p>
+<p begin="00:07:34.960" end="00:07:38.319" style="s2">okay all right this guy from siberia</p>
+<p begin="00:07:36.800" end="00:07:40.080" style="s2">from the coldest part and i</p>
+<p begin="00:07:38.319" end="00:07:42.039" style="s2">live in here in paradise you know what&#39;s</p>
+<p begin="00:07:40.080" end="00:07:43.440" style="s2">funny you know who else is from siberia</p>
+<p begin="00:07:42.039" end="00:07:46.479" style="s2">sharapova</p>
+<p begin="00:07:43.440" end="00:07:49.039" style="s2">yeah this must be this tennis hotspot</p>
+<p begin="00:07:46.479" end="00:07:49.599" style="s2">a lot of great tennis players from there</p>
+<p begin="00:07:49.039" end="00:07:51.360" style="s2">all right</p>
+<p begin="00:07:49.599" end="00:07:52.960" style="s2">totally unfair comment this guy</p>
+<p begin="00:07:51.360" end="00:07:54.160" style="s2">qualifies it right away but anna seems</p>
+<p begin="00:07:52.960" end="00:07:54.720" style="s2">to be more interested in the opportunity</p>
+<p begin="00:07:54.160" end="00:07:56.879" style="s2">to have</p>
+<p begin="00:07:54.720" end="00:07:58.800" style="s2">a bunch of new skimpy outfits than</p>
+<p begin="00:07:56.879" end="00:08:02.000" style="s2">anything else</p>
+<p begin="00:07:58.800" end="00:08:04.240" style="s2">okay no the thing is like i honestly</p>
+<p begin="00:08:02.000" end="00:08:05.120" style="s2">didn&#39;t have time to invest into clothes</p>
+<p begin="00:08:04.240" end="00:08:07.120" style="s2">for tennis yeah</p>
+<p begin="00:08:05.120" end="00:08:08.240" style="s2">exactly i just think it&#39;s not my number</p>
+<p begin="00:08:07.120" end="00:08:11.039" style="s2">one priority</p>
+<p begin="00:08:08.240" end="00:08:12.560" style="s2">whatever skimpy i have home i wear right</p>
+<p begin="00:08:11.039" end="00:08:14.639" style="s2">you don&#39;t have you didn&#39;t especially</p>
+<p begin="00:08:12.560" end="00:08:16.560" style="s2">that first lesson you didn&#39;t have any uh</p>
+<p begin="00:08:14.639" end="00:08:17.759" style="s2">tennis clothes this is a little lemon</p>
+<p begin="00:08:16.560" end="00:08:20.080" style="s2">but i don&#39;t think it&#39;s for</p>
+<p begin="00:08:17.759" end="00:08:21.039" style="s2">uh there&#39;s nothing that&#39;s ridiculous</p>
+<p begin="00:08:20.080" end="00:08:23.280" style="s2">don&#39;t even listen</p>
+<p begin="00:08:21.039" end="00:08:24.960" style="s2">to it don&#39;t listen to that don&#39;t listen</p>
+<p begin="00:08:23.280" end="00:08:27.599" style="s2">to that people don&#39;t realize</p>
+<p begin="00:08:24.960" end="00:08:29.199" style="s2">it&#39;s very warm here i mean like i don&#39;t</p>
+<p begin="00:08:27.599" end="00:08:31.120" style="s2">know how else to dress but lightly</p>
+<p begin="00:08:29.199" end="00:08:32.959" style="s2">you gotta dress lightly exactly it&#39;s 90</p>
+<p begin="00:08:31.120" end="00:08:35.200" style="s2">degrees out anna this guy says</p>
+<p begin="00:08:32.959" end="00:08:37.279" style="s2">i can almost see her brain grow new</p>
+<p begin="00:08:35.200" end="00:08:37.839" style="s2">connections second by second she is so</p>
+<p begin="00:08:37.279" end="00:08:40.959" style="s2">smart</p>
+<p begin="00:08:37.839" end="00:08:42.959" style="s2">oh i agree i didn&#39;t notice my brain</p>
+<p begin="00:08:40.959" end="00:08:44.320" style="s2">yes very sometimes it comes handy</p>
+<p begin="00:08:42.959" end="00:08:46.720" style="s2">sometimes really</p>
+<p begin="00:08:44.320" end="00:08:48.160" style="s2">i&#39;m overthinking the stroke well this is</p>
+<p begin="00:08:46.720" end="00:08:50.240" style="s2">on your forehand that&#39;s what happened</p>
+<p begin="00:08:48.160" end="00:08:51.839" style="s2">yes see a lot of people are wondering uh</p>
+<p begin="00:08:50.240" end="00:08:54.560" style="s2">what i&#39;m doing with your forehand</p>
+<p begin="00:08:51.839" end="00:08:55.440" style="s2">and they were telling me also what to do</p>
+<p begin="00:08:54.560" end="00:08:58.640" style="s2">on your forehand</p>
+<p begin="00:08:55.440" end="00:09:01.680" style="s2">oh yeah but i through my experience</p>
+<p begin="00:08:58.640" end="00:09:02.640" style="s2">i made the decision to go back to your</p>
+<p begin="00:09:01.680" end="00:09:04.240" style="s2">old forehand</p>
+<p begin="00:09:02.640" end="00:09:06.560" style="s2">like we talked about because we&#39;re going</p>
+<p begin="00:09:04.240" end="00:09:08.880" style="s2">to develop that loop</p>
+<p begin="00:09:06.560" end="00:09:10.399" style="s2">a little bit slower than i normally</p>
+<p begin="00:09:08.880" end="00:09:11.440" style="s2">would with other people because your</p>
+<p begin="00:09:10.399" end="00:09:14.800" style="s2">interpretation</p>
+<p begin="00:09:11.440" end="00:09:17.200" style="s2">of the loop was a little bit uh</p>
+<p begin="00:09:14.800" end="00:09:18.560" style="s2">too mechanical so you were obsessing on</p>
+<p begin="00:09:17.200" end="00:09:19.760" style="s2">the loop it was too much in your head</p>
+<p begin="00:09:18.560" end="00:09:20.560" style="s2">like you said you were thinking about it</p>
+<p begin="00:09:19.760" end="00:09:22.080" style="s2">too much</p>
+<p begin="00:09:20.560" end="00:09:23.440" style="s2">and it made the forehand very robotic</p>
+<p begin="00:09:22.080" end="00:09:24.000" style="s2">and mechanical it didn&#39;t look smooth</p>
+<p begin="00:09:23.440" end="00:09:25.360" style="s2">anymore</p>
+<p begin="00:09:24.000" end="00:09:26.800" style="s2">yeah and you weren&#39;t getting it in they</p>
+<p begin="00:09:25.360" end="00:09:27.839" style="s2">were missing it a lot when you weren&#39;t</p>
+<p begin="00:09:26.800" end="00:09:28.720" style="s2">playing with me you told me your</p>
+<p begin="00:09:27.839" end="00:09:30.720" style="s2">forehand was</p>
+<p begin="00:09:28.720" end="00:09:32.160" style="s2">not working at all in the clinics and</p>
+<p begin="00:09:30.720" end="00:09:34.000" style="s2">that&#39;s why i made the decision to</p>
+<p begin="00:09:32.160" end="00:09:36.080" style="s2">to slow down on the loop you know to</p>
+<p begin="00:09:34.000" end="00:09:37.360" style="s2">just build it gradually step by step</p>
+<p begin="00:09:36.080" end="00:09:39.200" style="s2">and your forehead came back i think it&#39;s</p>
+<p begin="00:09:37.360" end="00:09:39.839" style="s2">been pretty good lately right it&#39;s</p>
+<p begin="00:09:39.200" end="00:09:41.440" style="s2">getting bad</p>
+<p begin="00:09:39.839" end="00:09:43.279" style="s2">it&#39;s getting better ballroom dancer</p>
+<p begin="00:09:41.440" end="00:09:44.800" style="s2">she&#39;s light on her feet definitely helps</p>
+<p begin="00:09:43.279" end="00:09:47.360" style="s2">a female fetterer</p>
+<p begin="00:09:44.800" end="00:09:49.120" style="s2">that&#39;s a very nice comment oh yeah so</p>
+<p begin="00:09:47.360" end="00:09:52.000" style="s2">let&#39;s just tell the audience you</p>
+<p begin="00:09:49.120" end="00:09:53.440" style="s2">do ballroom dance yeah i love dancing</p>
+<p begin="00:09:52.000" end="00:09:56.720" style="s2">right you did competitions and stuff</p>
+<p begin="00:09:53.440" end="00:09:59.760" style="s2">right i did competitions i perform</p>
+<p begin="00:09:56.720" end="00:10:02.240" style="s2">um and i love going social dancing</p>
+<p begin="00:09:59.760" end="00:10:02.880" style="s2">this is like most fun this is cardio</p>
+<p begin="00:10:02.240" end="00:10:06.079" style="s2">right</p>
+<p begin="00:10:02.880" end="00:10:06.640" style="s2">yeah and what i find with uh ballroom</p>
+<p begin="00:10:06.079" end="00:10:08.880" style="s2">dancers</p>
+<p begin="00:10:06.640" end="00:10:09.839" style="s2">is the weirdest thing i&#39;ve wasted i&#39;m</p>
+<p begin="00:10:08.880" end="00:10:12.320" style="s2">teaching actually</p>
+<p begin="00:10:09.839" end="00:10:13.760" style="s2">two other people that do ballroom dance</p>
+<p begin="00:10:12.320" end="00:10:14.320" style="s2">and one of them you met remember that</p>
+<p begin="00:10:13.760" end="00:10:16.959" style="s2">yes</p>
+<p begin="00:10:14.320" end="00:10:17.360" style="s2">and um everyone that does ballroom dance</p>
+<p begin="00:10:16.959" end="00:10:19.760" style="s2">is an</p>
+<p begin="00:10:17.360" end="00:10:21.519" style="s2">unbelievable shape like they don&#39;t have</p>
+<p begin="00:10:19.760" end="00:10:23.760" style="s2">an ounce of fat on them so it</p>
+<p begin="00:10:21.519" end="00:10:24.880" style="s2">must be in the most amazing workout ever</p>
+<p begin="00:10:23.760" end="00:10:27.600" style="s2">ballroom dance yes</p>
+<p begin="00:10:24.880" end="00:10:28.560" style="s2">yeah i&#39;m waiting for you to start oh</p>
+<p begin="00:10:27.600" end="00:10:30.560" style="s2">right</p>
+<p begin="00:10:28.560" end="00:10:31.920" style="s2">that&#39;s we&#39;re going to reveal that later</p>
+<p begin="00:10:30.560" end="00:10:32.320" style="s2">okay this is an interesting comment</p>
+<p begin="00:10:31.920" end="00:10:34.480" style="s2">she&#39;s</p>
+<p begin="00:10:32.320" end="00:10:36.000" style="s2">already athletic this coach is amazing</p>
+<p begin="00:10:34.480" end="00:10:37.519" style="s2">the ability to bring out the best in an</p>
+<p begin="00:10:36.000" end="00:10:39.680" style="s2">athlete is a great skill she will be on</p>
+<p begin="00:10:37.519" end="00:10:40.640" style="s2">a women&#39;s 3.5 team in no time if she</p>
+<p begin="00:10:39.680" end="00:10:42.079" style="s2">keeps this up</p>
+<p begin="00:10:40.640" end="00:10:43.839" style="s2">then when she falls in love with the</p>
+<p begin="00:10:42.079" end="00:10:45.680" style="s2">game i don&#39;t see why she won&#39;t be a</p>
+<p begin="00:10:43.839" end="00:10:47.839" style="s2">solid 4.0 player</p>
+<p begin="00:10:45.680" end="00:10:49.519" style="s2">so you know what those numbers mean</p>
+<p begin="00:10:47.839" end="00:10:52.160" style="s2">there&#39;s like the rating system</p>
+<p begin="00:10:49.519" end="00:10:53.519" style="s2">and it&#39;s the let&#39;s say 5.0 is like the</p>
+<p begin="00:10:52.160" end="00:10:54.399" style="s2">highest you can get as a recreational</p>
+<p begin="00:10:53.519" end="00:10:57.519" style="s2">player</p>
+<p begin="00:10:54.399" end="00:10:59.279" style="s2">and right now i would rate you as a 3-0</p>
+<p begin="00:10:57.519" end="00:11:00.720" style="s2">you think so i think so okay because</p>
+<p begin="00:10:59.279" end="00:11:04.079" style="s2">people asked me at the clinic</p>
+<p begin="00:11:00.720" end="00:11:07.279" style="s2">yeah and they said ask your coach so 3.0</p>
+<p begin="00:11:04.079" end="00:11:08.959" style="s2">3.0 i think we&#39;re going to be 3.5</p>
+<p begin="00:11:07.279" end="00:11:10.959" style="s2">in a few months okay and then probably</p>
+<p begin="00:11:08.959" end="00:11:12.720" style="s2">next year we&#39;re going to be 4.0 like</p>
+<p begin="00:11:10.959" end="00:11:14.160" style="s2">improvement in tennis it&#39;s very gradual</p>
+<p begin="00:11:12.720" end="00:11:16.640" style="s2">like you can&#39;t just jump</p>
+<p begin="00:11:14.160" end="00:11:18.240" style="s2">these levels fast you have to be patient</p>
+<p begin="00:11:16.640" end="00:11:21.680" style="s2">but i think</p>
+<p begin="00:11:18.240" end="00:11:24.399" style="s2">i think this this um person says 4.0</p>
+<p begin="00:11:21.680" end="00:11:26.240" style="s2">i actually think you can be 5.0 i think</p>
+<p begin="00:11:24.399" end="00:11:29.120" style="s2">so but it&#39;s going to take a long time</p>
+<p begin="00:11:26.240" end="00:11:30.399" style="s2">i&#39;m good yeah it&#39;s gonna take a lot of</p>
+<p begin="00:11:29.120" end="00:11:32.079" style="s2">like training you&#39;re gonna have to play</p>
+<p begin="00:11:30.399" end="00:11:33.440" style="s2">as much as possible</p>
+<p begin="00:11:32.079" end="00:11:34.560" style="s2">muscle memory you&#39;re gonna have to start</p>
+<p begin="00:11:33.440" end="00:11:36.160" style="s2">playing matches you&#39;re gonna have to</p>
+<p begin="00:11:34.560" end="00:11:38.959" style="s2">learn how to keep score</p>
+<p begin="00:11:36.160" end="00:11:40.079" style="s2">and all that stuff and um i don&#39;t see</p>
+<p begin="00:11:38.959" end="00:11:42.000" style="s2">any reason why you shouldn&#39;t</p>
+<p begin="00:11:40.079" end="00:11:43.760" style="s2">get up to the highest recreational level</p>
+<p begin="00:11:42.000" end="00:11:44.800" style="s2">this is interesting what a great video i</p>
+<p begin="00:11:43.760" end="00:11:47.640" style="s2">watched the whole thing with no</p>
+<p begin="00:11:44.800" end="00:11:51.260" style="s2">intention of playing tennis whatsoever</p>
+<p begin="00:11:47.640" end="00:11:51.260" style="s2">[Laughter]</p>
+<p begin="00:11:52.720" end="00:11:56.959" style="s2">it serves different purposes but you</p>
+<p begin="00:11:55.519" end="00:11:57.680" style="s2">know my goal is to get people to play</p>
+<p begin="00:11:56.959" end="00:11:59.120" style="s2">tennis</p>
+<p begin="00:11:57.680" end="00:12:00.320" style="s2">and one thing i do like i get a lot of</p>
+<p begin="00:11:59.120" end="00:12:01.760" style="s2">beginners to watch me and they start</p>
+<p begin="00:12:00.320" end="00:12:03.040" style="s2">playing tennis and they</p>
+<p begin="00:12:01.760" end="00:12:05.279" style="s2">and they write me and say i started</p>
+<p begin="00:12:03.040" end="00:12:06.880" style="s2">playing playing tennis because of you</p>
+<p begin="00:12:05.279" end="00:12:08.560" style="s2">i love it but this guy has no intention</p>
+<p begin="00:12:06.880" end="00:12:10.320" style="s2">of playing and still</p>
+<p begin="00:12:08.560" end="00:12:11.760" style="s2">had a fun time watching the video so</p>
+<p begin="00:12:10.320" end="00:12:14.160" style="s2">that&#39;s good too i guess</p>
+<p begin="00:12:11.760" end="00:12:15.760" style="s2">but my but my main goal i do want people</p>
+<p begin="00:12:14.160" end="00:12:17.760" style="s2">i want to grow the sport you know</p>
+<p begin="00:12:15.760" end="00:12:19.200" style="s2">i love this game like the one uh i don&#39;t</p>
+<p begin="00:12:17.760" end="00:12:21.839" style="s2">know if you found it</p>
+<p begin="00:12:19.200" end="00:12:22.560" style="s2">no it&#39;s a late uh comment i was just</p>
+<p begin="00:12:21.839" end="00:12:25.200" style="s2">watching</p>
+<p begin="00:12:22.560" end="00:12:26.639" style="s2">the video and somebody said the guy</p>
+<p begin="00:12:25.200" end="00:12:28.480" style="s2">looks like tom brady</p>
+<p begin="00:12:26.639" end="00:12:29.680" style="s2">i know i saw that i don&#39;t see it&#39;s a</p>
+<p begin="00:12:28.480" end="00:12:32.320" style="s2">good one you know</p>
+<p begin="00:12:29.680" end="00:12:32.880" style="s2">i don&#39;t see that at all tom brady yeah i</p>
+<p begin="00:12:32.320" end="00:12:35.440" style="s2">see that</p>
+<p begin="00:12:32.880" end="00:12:37.279" style="s2">no yeah no not again maybe like the way</p>
+<p begin="00:12:35.440" end="00:12:39.519" style="s2">you you squinch your face</p>
+<p begin="00:12:37.279" end="00:12:42.399" style="s2">i do have a lot yeah yeah yeah you need</p>
+<p begin="00:12:39.519" end="00:12:44.880" style="s2">the botox you know</p>
+<p begin="00:12:42.399" end="00:12:46.480" style="s2">i&#39;m gonna pass on that okay i don&#39;t</p>
+<p begin="00:12:44.880" end="00:12:47.360" style="s2">think i&#39;m gonna do that here it is this</p>
+<p begin="00:12:46.480" end="00:12:49.440" style="s2">guy writes</p>
+<p begin="00:12:47.360" end="00:12:51.120" style="s2">maybe a next video is of you getting a</p>
+<p begin="00:12:49.440" end="00:12:54.240" style="s2">lesson in ballroom dancing</p>
+<p begin="00:12:51.120" end="00:12:55.200" style="s2">uh-huh here we go okay so now so now we</p>
+<p begin="00:12:54.240" end="00:12:57.920" style="s2">can explain</p>
+<p begin="00:12:55.200" end="00:12:58.720" style="s2">the entire arrangement between anna and</p>
+<p begin="00:12:57.920" end="00:13:02.480" style="s2">uh</p>
+<p begin="00:12:58.720" end="00:13:03.760" style="s2">so i&#39;m teaching you tennis and in return</p>
+<p begin="00:13:02.480" end="00:13:06.399" style="s2">you were going to teach me ballroom</p>
+<p begin="00:13:03.760" end="00:13:09.360" style="s2">dancing and while you are</p>
+<p begin="00:13:06.399" end="00:13:10.880" style="s2">one of the most gifted beginner tennis</p>
+<p begin="00:13:09.360" end="00:13:13.200" style="s2">players i&#39;ve ever seen</p>
+<p begin="00:13:10.880" end="00:13:14.639" style="s2">i am one of the least gifted dancers</p>
+<p begin="00:13:13.200" end="00:13:16.240" style="s2">probably you&#39;ve ever seen</p>
+<p begin="00:13:14.639" end="00:13:17.839" style="s2">so you actually have the the hard</p>
+<p begin="00:13:16.240" end="00:13:20.240" style="s2">challenge of trying to teach me</p>
+<p begin="00:13:17.839" end="00:13:22.320" style="s2">that&#39;s true it&#39;s very true it&#39;s very</p>
+<p begin="00:13:20.240" end="00:13:22.880" style="s2">true no no no i taught him some basic</p>
+<p begin="00:13:22.320" end="00:13:25.360" style="s2">lessons</p>
+<p begin="00:13:22.880" end="00:13:27.040" style="s2">basic lessons yes i did you did great</p>
+<p begin="00:13:25.360" end="00:13:28.480" style="s2">yes of course i&#39;m trying but that&#39;s</p>
+<p begin="00:13:27.040" end="00:13:30.959" style="s2">body weight transfer it&#39;s not my</p>
+<p begin="00:13:28.480" end="00:13:33.760" style="s2">strength awareness but i do see already</p>
+<p begin="00:13:30.959" end="00:13:35.200" style="s2">like things i don&#39;t have time but i do</p>
+<p begin="00:13:33.760" end="00:13:37.040" style="s2">see some improvements</p>
+<p begin="00:13:35.200" end="00:13:38.639" style="s2">already in my posture from dancing</p>
+<p begin="00:13:37.040" end="00:13:39.920" style="s2">that&#39;s one of the takeaways every dancer</p>
+<p begin="00:13:38.639" end="00:13:40.880" style="s2">that i meet they have the most amazing</p>
+<p begin="00:13:39.920" end="00:13:42.959" style="s2">posture ever</p>
+<p begin="00:13:40.880" end="00:13:44.800" style="s2">and so do you and maybe that&#39;s something</p>
+<p begin="00:13:42.959" end="00:13:46.079" style="s2">that i can learn from dancing because my</p>
+<p begin="00:13:44.800" end="00:13:48.000" style="s2">posture has always been</p>
+<p begin="00:13:46.079" end="00:13:49.360" style="s2">and not the greatest so well you are</p>
+<p begin="00:13:48.000" end="00:13:51.040" style="s2">like a walking noodle</p>
+<p begin="00:13:49.360" end="00:13:52.240" style="s2">so speaking of dancing do you want to do</p>
+<p begin="00:13:51.040" end="00:13:53.440" style="s2">you want to do our lesson that we</p>
+<p begin="00:13:52.240" end="00:13:55.440" style="s2">normally do do you want to do a</p>
+<p begin="00:13:53.440" end="00:13:57.600" style="s2">dance lesson real quick yeah all right</p>
+<p begin="00:13:55.440" end="00:13:59.279" style="s2">all right let&#39;s go okay let&#39;s do it</p>
+<p begin="00:13:57.600" end="00:14:00.800" style="s2">okay so which one we&#39;re doing today we</p>
+<p begin="00:13:59.279" end="00:14:03.279" style="s2">are learning bachata</p>
+<p begin="00:14:00.800" end="00:14:04.000" style="s2">okay all right it&#39;s like eight counts</p>
+<p begin="00:14:03.279" end="00:14:05.440" style="s2">it&#39;s very</p>
+<p begin="00:14:04.000" end="00:14:08.079" style="s2">yeah i think we back up a little bit</p>
+<p begin="00:14:05.440" end="00:14:11.279" style="s2">very cool music you know anything goes</p>
+<p begin="00:14:08.079" end="00:14:13.120" style="s2">yeah that&#39;s one two three four five</p>
+<p begin="00:14:11.279" end="00:14:14.480" style="s2">what kind of music is it i&#39;m sorry i</p>
+<p begin="00:14:13.120" end="00:14:16.480" style="s2">interrupted the teacher but i should</p>
+<p begin="00:14:14.480" end="00:14:18.399" style="s2">turn on the</p>
+<p begin="00:14:16.480" end="00:14:20.079" style="s2">i&#39;m going to get copyright strike so</p>
+<p begin="00:14:18.399" end="00:14:23.440" style="s2">just tell me um</p>
+<p begin="00:14:20.079" end="00:14:24.720" style="s2">we&#39;ll turn on the music um in our heads</p>
+<p begin="00:14:23.440" end="00:14:26.399" style="s2">we can i&#39;m going to get copyright</p>
+<p begin="00:14:24.720" end="00:14:26.800" style="s2">strikes oh that&#39;s right the music could</p>
+<p begin="00:14:26.399" end="00:14:29.199" style="s2">be</p>
+<p begin="00:14:26.800" end="00:14:30.079" style="s2">anything that is going like this if</p>
+<p begin="00:14:29.199" end="00:14:32.399" style="s2">you&#39;re sitting</p>
+<p begin="00:14:30.079" end="00:14:33.360" style="s2">and you&#39;re doing this with your leg okay</p>
+<p begin="00:14:32.399" end="00:14:36.320" style="s2">in the bar</p>
+<p begin="00:14:33.360" end="00:14:36.880" style="s2">that means it&#39;s bachata it&#39;s very like</p>
+<p begin="00:14:36.320" end="00:14:40.240" style="s2">easy</p>
+<p begin="00:14:36.880" end="00:14:44.000" style="s2">yes okay one two three four</p>
+<p begin="00:14:40.240" end="00:14:47.519" style="s2">five six seven eight got it okay three</p>
+<p begin="00:14:44.000" end="00:14:49.519" style="s2">tap one two three tap tap means you are</p>
+<p begin="00:14:47.519" end="00:14:52.639" style="s2">not putting body weight on it</p>
+<p begin="00:14:49.519" end="00:14:56.000" style="s2">so usually okay one all right two three</p>
+<p begin="00:14:52.639" end="00:14:59.199" style="s2">tap one two three tap</p>
+<p begin="00:14:56.000" end="00:15:01.360" style="s2">okay wait wait wait and then</p>
+<p begin="00:14:59.199" end="00:15:03.120" style="s2">and then tap yes let&#39;s do it are you</p>
+<p begin="00:15:01.360" end="00:15:04.399" style="s2">ready i&#39;m ready so which one which way</p>
+<p begin="00:15:03.120" end="00:15:06.399" style="s2">we&#39;re going this way or that way</p>
+<p begin="00:15:04.399" end="00:15:08.240" style="s2">we are going this way we are facing each</p>
+<p begin="00:15:06.399" end="00:15:12.720" style="s2">other all right and we are doing this</p>
+<p begin="00:15:08.240" end="00:15:12.720" style="s2">okay let&#39;s go all right ready go</p>
+</div>
+</body>
+</tt>

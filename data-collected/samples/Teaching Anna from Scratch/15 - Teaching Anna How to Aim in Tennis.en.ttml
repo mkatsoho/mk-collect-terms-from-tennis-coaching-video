@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.040" end="00:00:09.920" style="s2">that looks good that forehand</p>
+<p begin="00:00:04.160" end="00:00:15.440" style="s2">come again i know that looking smooth</p>
+<p begin="00:00:09.920" end="00:00:15.440" style="s2">smooth not so smooth</p>
+<p begin="00:00:15.519" end="00:00:18.640" style="s2">good how many times do you play this</p>
+<p begin="00:00:16.640" end="00:00:20.960" style="s2">week two times</p>
+<p begin="00:00:18.640" end="00:00:22.400" style="s2">one time with the wall only nice you&#39;re</p>
+<p begin="00:00:20.960" end="00:00:25.359" style="s2">still going on the wall</p>
+<p begin="00:00:22.400" end="00:00:27.599" style="s2">i&#39;m proud of you i like the wall the</p>
+<p begin="00:00:25.359" end="00:00:30.160" style="s2">wall is fantastic good music</p>
+<p begin="00:00:27.599" end="00:00:30.800" style="s2">oh you play with music no i don&#39;t</p>
+<p begin="00:00:30.160" end="00:00:32.880" style="s2">recommend</p>
+<p begin="00:00:30.800" end="00:00:34.960" style="s2">no no you know why i don&#39;t recommend</p>
+<p begin="00:00:32.880" end="00:00:36.640" style="s2">music this is so funny like when i used</p>
+<p begin="00:00:34.960" end="00:00:39.280" style="s2">to play college tennis</p>
+<p begin="00:00:36.640" end="00:00:40.079" style="s2">some teams would have music during</p>
+<p begin="00:00:39.280" end="00:00:41.920" style="s2">practice</p>
+<p begin="00:00:40.079" end="00:00:43.600" style="s2">and i always hated that and our coach</p>
+<p begin="00:00:41.920" end="00:00:45.360" style="s2">thankfully never used music</p>
+<p begin="00:00:43.600" end="00:00:47.200" style="s2">and i would get so distracted when we</p>
+<p begin="00:00:45.360" end="00:00:48.640" style="s2">would go uh to away matches</p>
+<p begin="00:00:47.200" end="00:00:50.800" style="s2">and would warm up and they would blast</p>
+<p begin="00:00:48.640" end="00:00:51.840" style="s2">music here&#39;s why i don&#39;t like music for</p>
+<p begin="00:00:50.800" end="00:00:53.600" style="s2">tennis because</p>
+<p begin="00:00:51.840" end="00:00:55.120" style="s2">tennis is such an intuitive game when</p>
+<p begin="00:00:53.600" end="00:00:56.559" style="s2">you&#39;re listening to music you get</p>
+<p begin="00:00:55.120" end="00:00:57.360" style="s2">distracted you start thinking about the</p>
+<p begin="00:00:56.559" end="00:00:59.760" style="s2">music</p>
+<p begin="00:00:57.360" end="00:01:00.719" style="s2">yes it can be inspirational sometimes</p>
+<p begin="00:00:59.760" end="00:01:02.160" style="s2">listening to music</p>
+<p begin="00:01:00.719" end="00:01:03.680" style="s2">but it doesn&#39;t really work for tennis in</p>
+<p begin="00:01:02.160" end="00:01:04.479" style="s2">tennis you really gotta concentrate you</p>
+<p begin="00:01:03.680" end="00:01:05.840" style="s2">gotta focus</p>
+<p begin="00:01:04.479" end="00:01:07.680" style="s2">you know that&#39;s why everybody has to be</p>
+<p begin="00:01:05.840" end="00:01:10.159" style="s2">quiet for example</p>
+<p begin="00:01:07.680" end="00:01:11.200" style="s2">in the stands when players play it&#39;s a</p>
+<p begin="00:01:10.159" end="00:01:12.560" style="s2">sport where you really have to</p>
+<p begin="00:01:11.200" end="00:01:14.080" style="s2">concentrate and focus</p>
+<p begin="00:01:12.560" end="00:01:16.320" style="s2">and you don&#39;t want noise coming in for</p>
+<p begin="00:01:14.080" end="00:01:17.520" style="s2">the outside therefore next time do not</p>
+<p begin="00:01:16.320" end="00:01:20.479" style="s2">use headphones when you&#39;re playing on</p>
+<p begin="00:01:17.520" end="00:01:25.119" style="s2">the wall okay that&#39;s right</p>
+<p begin="00:01:20.479" end="00:01:28.560" style="s2">good better come on</p>
+<p begin="00:01:25.119" end="00:01:31.360" style="s2">better whoa</p>
+<p begin="00:01:28.560" end="00:01:31.360" style="s2">what a whipper</p>
+<p begin="00:01:31.600" end="00:01:36.320" style="s2">better come on oh lala</p>
+<p begin="00:01:36.400" end="00:01:42.479" style="s2">oh my goodness these are rip shots</p>
+<p begin="00:01:40.159" end="00:01:42.479" style="s2">whoa</p>
+<p begin="00:01:43.759" end="00:01:50.479" style="s2">better it&#39;s better on a beautiful</p>
+<p begin="00:01:47.920" end="00:01:50.479" style="s2">forehand</p>
+<p begin="00:01:51.200" end="00:01:54.880" style="s2">maybe the best forehand of your life but</p>
+<p begin="00:01:53.360" end="00:01:57.520" style="s2">nick i have a question about</p>
+<p begin="00:01:54.880" end="00:01:59.360" style="s2">like directions go ahead when the ball</p>
+<p begin="00:01:57.520" end="00:02:00.159" style="s2">is going across the court sometimes i</p>
+<p begin="00:01:59.360" end="00:02:01.759" style="s2">feel like</p>
+<p begin="00:02:00.159" end="00:02:03.439" style="s2">the opponent is standing and we are</p>
+<p begin="00:02:01.759" end="00:02:06.399" style="s2">rallying and i want it</p>
+<p begin="00:02:03.439" end="00:02:07.280" style="s2">to be easy for the partner yeah so when</p>
+<p begin="00:02:06.399" end="00:02:10.879" style="s2">i do it</p>
+<p begin="00:02:07.280" end="00:02:13.520" style="s2">the ball is not going the way i want</p>
+<p begin="00:02:10.879" end="00:02:14.319" style="s2">all the time and especially if he is</p>
+<p begin="00:02:13.520" end="00:02:17.200" style="s2">like</p>
+<p begin="00:02:14.319" end="00:02:18.959" style="s2">when she is outside of that corner okay</p>
+<p begin="00:02:17.200" end="00:02:20.480" style="s2">i got you i mean does it mean i have to</p>
+<p begin="00:02:18.959" end="00:02:24.000" style="s2">turn my body a little bit</p>
+<p begin="00:02:20.480" end="00:02:25.680" style="s2">more away so the sense so i finished not</p>
+<p begin="00:02:24.000" end="00:02:27.200" style="s2">in the middle okay that&#39;s a really</p>
+<p begin="00:02:25.680" end="00:02:28.560" style="s2">really good question so you know</p>
+<p begin="00:02:27.200" end="00:02:30.160" style="s2">like right now at this stage of your</p>
+<p begin="00:02:28.560" end="00:02:30.480" style="s2">game when you&#39;re playing with other</p>
+<p begin="00:02:30.160" end="00:02:31.920" style="s2">people</p>
+<p begin="00:02:30.480" end="00:02:33.519" style="s2">are you rallying like mostly through the</p>
+<p begin="00:02:31.920" end="00:02:36.080" style="s2">middle yeah</p>
+<p begin="00:02:33.519" end="00:02:38.080" style="s2">okay but i want to be able to like when</p>
+<p begin="00:02:36.080" end="00:02:40.400" style="s2">the person went this way i wanted to be</p>
+<p begin="00:02:38.080" end="00:02:43.599" style="s2">easy for him and return the ball</p>
+<p begin="00:02:40.400" end="00:02:45.440" style="s2">to the close proximity where he right so</p>
+<p begin="00:02:43.599" end="00:02:47.120" style="s2">here&#39;s the deal with uh directional</p>
+<p begin="00:02:45.440" end="00:02:48.160" style="s2">control if you rally with someone</p>
+<p begin="00:02:47.120" end="00:02:49.760" style="s2">through the middle and you&#39;re</p>
+<p begin="00:02:48.160" end="00:02:51.120" style="s2">hitting it right to that person you</p>
+<p begin="00:02:49.760" end="00:02:51.840" style="s2">actually are working on directional</p>
+<p begin="00:02:51.120" end="00:02:53.760" style="s2">control</p>
+<p begin="00:02:51.840" end="00:02:55.440" style="s2">so it&#39;s not so easy to get the ball</p>
+<p begin="00:02:53.760" end="00:02:57.200" style="s2">right down the center every time</p>
+<p begin="00:02:55.440" end="00:02:58.560" style="s2">so if you master that skill if you can</p>
+<p begin="00:02:57.200" end="00:03:00.480" style="s2">hit the ball right down the center</p>
+<p begin="00:02:58.560" end="00:03:02.480" style="s2">that means that you can hit it anywhere</p>
+<p begin="00:03:00.480" end="00:03:04.800" style="s2">on the court that&#39;s number one</p>
+<p begin="00:03:02.480" end="00:03:06.400" style="s2">okay so don&#39;t worry that you&#39;re rallying</p>
+<p begin="00:03:04.800" end="00:03:08.560" style="s2">uh through the middle of the court</p>
+<p begin="00:03:06.400" end="00:03:09.440" style="s2">you are working on directional control</p>
+<p begin="00:03:08.560" end="00:03:11.599" style="s2">by doing that</p>
+<p begin="00:03:09.440" end="00:03:12.800" style="s2">now you notice how sometimes when we</p>
+<p begin="00:03:11.599" end="00:03:14.239" style="s2">rally when we do drills</p>
+<p begin="00:03:12.800" end="00:03:16.720" style="s2">i will stand in the corners and i&#39;ll</p>
+<p begin="00:03:14.239" end="00:03:18.000" style="s2">have you hit to me so i did that very</p>
+<p begin="00:03:16.720" end="00:03:20.159" style="s2">early on i was very sneaky</p>
+<p begin="00:03:18.000" end="00:03:21.280" style="s2">about that this was maybe our third or</p>
+<p begin="00:03:20.159" end="00:03:23.280" style="s2">fourth session i would already start</p>
+<p begin="00:03:21.280" end="00:03:25.360" style="s2">sneaking i didn&#39;t tell you anything</p>
+<p begin="00:03:23.280" end="00:03:26.879" style="s2">right i would just slide to the corner</p>
+<p begin="00:03:25.360" end="00:03:28.799" style="s2">and you would start hitting to me</p>
+<p begin="00:03:26.879" end="00:03:30.239" style="s2">and that&#39;s where you learned how to</p>
+<p begin="00:03:28.799" end="00:03:32.239" style="s2">let&#39;s say aim</p>
+<p begin="00:03:30.239" end="00:03:33.840" style="s2">because here&#39;s the problem with aiming</p>
+<p begin="00:03:32.239" end="00:03:35.280" style="s2">if you are literally aiming with the</p>
+<p begin="00:03:33.840" end="00:03:37.280" style="s2">racket towards the target</p>
+<p begin="00:03:35.280" end="00:03:38.879" style="s2">you&#39;re doing yourself a big disservice</p>
+<p begin="00:03:37.280" end="00:03:40.480" style="s2">because you&#39;re slowing down</p>
+<p begin="00:03:38.879" end="00:03:42.640" style="s2">at the moment of contact and you are</p>
+<p begin="00:03:40.480" end="00:03:44.560" style="s2">steering the ball pushing it guiding it</p>
+<p begin="00:03:42.640" end="00:03:46.000" style="s2">towards the target and what you want to</p>
+<p begin="00:03:44.560" end="00:03:49.040" style="s2">do instead</p>
+<p begin="00:03:46.000" end="00:03:50.799" style="s2">is make a small change in the angle of</p>
+<p begin="00:03:49.040" end="00:03:51.280" style="s2">the racket face at the moment of contact</p>
+<p begin="00:03:50.799" end="00:03:52.959" style="s2">so</p>
+<p begin="00:03:51.280" end="00:03:55.200" style="s2">the fascinating thing about tennis is</p>
+<p begin="00:03:52.959" end="00:03:57.439" style="s2">that this angle of the racket face</p>
+<p begin="00:03:55.200" end="00:03:58.959" style="s2">change is so miniscule that you do this</p>
+<p begin="00:03:57.439" end="00:04:00.959" style="s2">movement intuitively</p>
+<p begin="00:03:58.959" end="00:04:02.480" style="s2">and you already know how to do it you&#39;re</p>
+<p begin="00:04:00.959" end="00:04:03.840" style="s2">not aware that you know how to do it but</p>
+<p begin="00:04:02.480" end="00:04:05.840" style="s2">you already know how to aim</p>
+<p begin="00:04:03.840" end="00:04:07.439" style="s2">intuitively and we&#39;ll learn that very</p>
+<p begin="00:04:05.840" end="00:04:08.000" style="s2">early on i&#39;m going to prove it to you</p>
+<p begin="00:04:07.439" end="00:04:09.360" style="s2">right now</p>
+<p begin="00:04:08.000" end="00:04:10.799" style="s2">okay and i&#39;m going to prove to you now</p>
+<p begin="00:04:09.360" end="00:04:12.080" style="s2">that you already know how to aim so</p>
+<p begin="00:04:10.799" end="00:04:13.040" style="s2">these i want you to hit right through</p>
+<p begin="00:04:12.080" end="00:04:16.239" style="s2">the middle of the chord</p>
+<p begin="00:04:13.040" end="00:04:16.239" style="s2">down the center here we go</p>
+<p begin="00:04:16.400" end="00:04:21.759" style="s2">very nice very nice</p>
+<p begin="00:04:22.160" end="00:04:26.479" style="s2">okay now go to the left which is</p>
+<p begin="00:04:24.960" end="00:04:28.000" style="s2">basically cross court i want you to hit</p>
+<p begin="00:04:26.479" end="00:04:31.199" style="s2">your forehand to the left</p>
+<p begin="00:04:28.000" end="00:04:34.639" style="s2">okay good</p>
+<p begin="00:04:31.199" end="00:04:35.600" style="s2">another one okay now hit your forehand</p>
+<p begin="00:04:34.639" end="00:04:37.600" style="s2">to the right</p>
+<p begin="00:04:35.600" end="00:04:39.440" style="s2">which is inside out you&#39;re gonna hit the</p>
+<p begin="00:04:37.600" end="00:04:43.840" style="s2">forehand to the right</p>
+<p begin="00:04:39.440" end="00:04:45.360" style="s2">here we go good</p>
+<p begin="00:04:43.840" end="00:04:47.040" style="s2">okay it&#39;s okay if you miss i&#39;m gonna hit</p>
+<p begin="00:04:45.360" end="00:04:49.680" style="s2">it to the right</p>
+<p begin="00:04:47.040" end="00:04:51.600" style="s2">all right now how did you do that you</p>
+<p begin="00:04:49.680" end="00:04:54.800" style="s2">have no idea right</p>
+<p begin="00:04:51.600" end="00:04:56.000" style="s2">you&#39;re brilliant you are brilliant for</p>
+<p begin="00:04:54.800" end="00:04:57.440" style="s2">sure you are brilliant</p>
+<p begin="00:04:56.000" end="00:04:59.280" style="s2">but you have no idea in other words</p>
+<p begin="00:04:57.440" end="00:05:00.639" style="s2">there was no conscious changing</p>
+<p begin="00:04:59.280" end="00:05:01.840" style="s2">in the angle of the racket face of</p>
+<p begin="00:05:00.639" end="00:05:02.800" style="s2">contact you didn&#39;t think of anything you</p>
+<p begin="00:05:01.840" end="00:05:04.479" style="s2">just hit the ball</p>
+<p begin="00:05:02.800" end="00:05:06.160" style="s2">i told you where to go and you just went</p>
+<p begin="00:05:04.479" end="00:05:08.240" style="s2">there i feel like you tricked me</p>
+<p begin="00:05:06.160" end="00:05:10.320" style="s2">i didn&#39;t try no i have no idea how i did</p>
+<p begin="00:05:08.240" end="00:05:11.840" style="s2">it well like i told you the way</p>
+<p begin="00:05:10.320" end="00:05:13.680" style="s2">directional control works</p>
+<p begin="00:05:11.840" end="00:05:15.840" style="s2">is the racket angle of the racket face</p>
+<p begin="00:05:13.680" end="00:05:18.320" style="s2">of contact so if i hold my racket</p>
+<p begin="00:05:15.840" end="00:05:19.759" style="s2">like this if it&#39;s like let&#39;s say aligned</p>
+<p begin="00:05:18.320" end="00:05:21.520" style="s2">with the baseline like this</p>
+<p begin="00:05:19.759" end="00:05:24.320" style="s2">it&#39;s completely parallel to the baseline</p>
+<p begin="00:05:21.520" end="00:05:25.600" style="s2">if you hit that ball it&#39;s going to go</p>
+<p begin="00:05:24.320" end="00:05:26.720" style="s2">right down the middle now we&#39;re assuming</p>
+<p begin="00:05:25.600" end="00:05:27.600" style="s2">that we&#39;re going to have the same finish</p>
+<p begin="00:05:26.720" end="00:05:30.080" style="s2">on all strokes</p>
+<p begin="00:05:27.600" end="00:05:31.919" style="s2">okay if we turn the racket just slightly</p>
+<p begin="00:05:30.080" end="00:05:34.560" style="s2">over this way look just a slight</p>
+<p begin="00:05:31.919" end="00:05:36.160" style="s2">angle change now that ball is going to</p>
+<p begin="00:05:34.560" end="00:05:37.520" style="s2">go cross-court because over the length</p>
+<p begin="00:05:36.160" end="00:05:38.479" style="s2">of the court the angle doesn&#39;t have to</p>
+<p begin="00:05:37.520" end="00:05:39.680" style="s2">be that big</p>
+<p begin="00:05:38.479" end="00:05:41.919" style="s2">yeah so we&#39;re talking about a small</p>
+<p begin="00:05:39.680" end="00:05:44.320" style="s2">little change so the important thing</p>
+<p begin="00:05:41.919" end="00:05:45.199" style="s2">is your question when you ask me how do</p>
+<p begin="00:05:44.320" end="00:05:46.880" style="s2">i aim</p>
+<p begin="00:05:45.199" end="00:05:48.800" style="s2">is just to tell yourself where you&#39;re</p>
+<p begin="00:05:46.880" end="00:05:49.600" style="s2">going to go and do not do what most rec</p>
+<p begin="00:05:48.800" end="00:05:52.000" style="s2">players do</p>
+<p begin="00:05:49.600" end="00:05:53.360" style="s2">is by literally aiming let me show you</p>
+<p begin="00:05:52.000" end="00:05:56.880" style="s2">so most players will</p>
+<p begin="00:05:53.360" end="00:05:58.080" style="s2">aim by going towards the target with the</p>
+<p begin="00:05:56.880" end="00:06:00.240" style="s2">with the racket so when they go</p>
+<p begin="00:05:58.080" end="00:06:01.120" style="s2">cross-court it will go cross-court with</p>
+<p begin="00:06:00.240" end="00:06:02.319" style="s2">the racquet</p>
+<p begin="00:06:01.120" end="00:06:03.759" style="s2">down the middle that will go down the</p>
+<p begin="00:06:02.319" end="00:06:04.400" style="s2">middle with the racket and inside out</p>
+<p begin="00:06:03.759" end="00:06:06.000" style="s2">they will go</p>
+<p begin="00:06:04.400" end="00:06:08.400" style="s2">towards the target with the racket so</p>
+<p begin="00:06:06.000" end="00:06:10.639" style="s2">they&#39;re literally steering the ball</p>
+<p begin="00:06:08.400" end="00:06:11.919" style="s2">towards the target now what that is it&#39;s</p>
+<p begin="00:06:10.639" end="00:06:13.199" style="s2">an inferior forehand because you&#39;re</p>
+<p begin="00:06:11.919" end="00:06:14.240" style="s2">losing a lot of acceleration you&#39;re</p>
+<p begin="00:06:13.199" end="00:06:15.759" style="s2">slowing down</p>
+<p begin="00:06:14.240" end="00:06:17.520" style="s2">the moment of contact and you&#39;re losing</p>
+<p begin="00:06:15.759" end="00:06:18.639" style="s2">a lot of speed because of that so you</p>
+<p begin="00:06:17.520" end="00:06:20.400" style="s2">should do instead</p>
+<p begin="00:06:18.639" end="00:06:22.000" style="s2">is what you just demonstrated here is by</p>
+<p begin="00:06:20.400" end="00:06:23.039" style="s2">simply telling yourself</p>
+<p begin="00:06:22.000" end="00:06:25.280" style="s2">i&#39;m gonna hit the forehand down the</p>
+<p begin="00:06:23.039" end="00:06:25.840" style="s2">middle cross-court inside out and just</p>
+<p begin="00:06:25.280" end="00:06:27.280" style="s2">do it</p>
+<p begin="00:06:25.840" end="00:06:29.440" style="s2">because you already know how to do it</p>
+<p begin="00:06:27.280" end="00:06:31.759" style="s2">and don&#39;t change a single thing</p>
+<p begin="00:06:29.440" end="00:06:33.600" style="s2">ana so are you more clear now on how to</p>
+<p begin="00:06:31.759" end="00:06:35.600" style="s2">aim in tennis yeah you&#39;re not gonna</p>
+<p begin="00:06:33.600" end="00:06:36.639" style="s2">you&#39;re not concerned about it anymore no</p>
+<p begin="00:06:35.600" end="00:06:38.880" style="s2">you don&#39;t be concerned</p>
+<p begin="00:06:36.639" end="00:06:40.720" style="s2">just trust in your guts trust in your</p>
+<p begin="00:06:38.880" end="00:06:41.440" style="s2">guts you already know how to do it and</p>
+<p begin="00:06:40.720" end="00:06:43.600" style="s2">your concern</p>
+<p begin="00:06:41.440" end="00:06:45.280" style="s2">initially was like hitting it right to</p>
+<p begin="00:06:43.600" end="00:06:46.560" style="s2">the person sometimes</p>
+<p begin="00:06:45.280" end="00:06:48.000" style="s2">you might not be able to hit it to them</p>
+<p begin="00:06:46.560" end="00:06:49.280" style="s2">because of other technical flaws it&#39;s</p>
+<p begin="00:06:48.000" end="00:06:50.880" style="s2">not the fact that you can&#39;t aim</p>
+<p begin="00:06:49.280" end="00:06:52.560" style="s2">maybe you&#39;re hitting the ball late your</p>
+<p begin="00:06:50.880" end="00:06:53.919" style="s2">timing is off maybe you&#39;re you&#39;re doing</p>
+<p begin="00:06:52.560" end="00:06:55.840" style="s2">a mishit you&#39;re moving your wrist that</p>
+<p begin="00:06:53.919" end="00:06:57.039" style="s2">contact could be many different things</p>
+<p begin="00:06:55.840" end="00:06:59.759" style="s2">but you should definitely not concern</p>
+<p begin="00:06:57.039" end="00:07:00.880" style="s2">yourself with trying to aim and spend</p>
+<p begin="00:06:59.759" end="00:07:03.199" style="s2">any thoughts</p>
+<p begin="00:07:00.880" end="00:07:04.960" style="s2">about that at all okay i decided i just</p>
+<p begin="00:07:03.199" end="00:07:06.240" style="s2">want to hit inside of the court and let</p>
+<p begin="00:07:04.960" end="00:07:07.039" style="s2">them run around yeah and there&#39;s</p>
+<p begin="00:07:06.240" end="00:07:09.440" style="s2">absolutely nothing</p>
+<p begin="00:07:07.039" end="00:07:10.319" style="s2">more good well listen there&#39;s absolutely</p>
+<p begin="00:07:09.440" end="00:07:11.520" style="s2">nothing wrong with</p>
+<p begin="00:07:10.319" end="00:07:13.759" style="s2">hitting right to the person down the</p>
+<p begin="00:07:11.520" end="00:07:14.800" style="s2">middle like i said this is going to</p>
+<p begin="00:07:13.759" end="00:07:16.240" style="s2">train you to</p>
+<p begin="00:07:14.800" end="00:07:18.400" style="s2">direct the balls to other parts of the</p>
+<p begin="00:07:16.240" end="00:07:20.000" style="s2">court as well the middle is my bread and</p>
+<p begin="00:07:18.400" end="00:07:21.440" style="s2">butter anyways</p>
+<p begin="00:07:20.000" end="00:07:22.880" style="s2">there&#39;s nothing wrong with the middle</p>
+<p begin="00:07:21.440" end="00:07:24.240" style="s2">yeah do you know how the pros warm up</p>
+<p begin="00:07:22.880" end="00:07:26.000" style="s2">have you ever been to a tournament</p>
+<p begin="00:07:24.240" end="00:07:27.840" style="s2">yes professional tournament where in del</p>
+<p begin="00:07:26.000" end="00:07:29.599" style="s2">rey right yes if you see how the one off</p>
+<p begin="00:07:27.840" end="00:07:31.840" style="s2">they&#39;re going up down the middle</p>
+<p begin="00:07:29.599" end="00:07:33.599" style="s2">yeah yeah and one thing you can do which</p>
+<p begin="00:07:31.840" end="00:07:35.840" style="s2">is good is like you go</p>
+<p begin="00:07:33.599" end="00:07:37.039" style="s2">half court so you can go from like from</p>
+<p begin="00:07:35.840" end="00:07:39.440" style="s2">here to here so have</p>
+<p begin="00:07:37.039" end="00:07:41.360" style="s2">your partner stand over there on that</p>
+<p begin="00:07:39.440" end="00:07:43.280" style="s2">side and you guys rally cross court</p>
+<p begin="00:07:41.360" end="00:07:44.720" style="s2">there&#39;s something you can do you know as</p>
+<p begin="00:07:43.280" end="00:07:46.240" style="s2">an addition to that okay and i&#39;m going</p>
+<p begin="00:07:44.720" end="00:07:48.319" style="s2">to test you now see if you</p>
+<p begin="00:07:46.240" end="00:07:51.120" style="s2">know how to aim with the incoming ball</p>
+<p begin="00:07:48.319" end="00:07:51.120" style="s2">go cross-court</p>
+<p begin="00:07:51.360" end="00:07:55.120" style="s2">okay cross-court again</p>
+<p begin="00:07:56.160" end="00:07:59.520" style="s2">cross-court again get a little more</p>
+<p begin="00:07:57.520" end="00:08:03.039" style="s2">angle on it</p>
+<p begin="00:07:59.520" end="00:08:03.039" style="s2">all right now go down the line</p>
+<p begin="00:08:04.240" end="00:08:07.199" style="s2">down the line again</p>
+<p begin="00:08:07.680" end="00:08:16.000" style="s2">all right hit it cross-court you got a</p>
+<p begin="00:08:12.240" end="00:08:16.000" style="s2">little to jam there cross court again</p>
+<p begin="00:08:16.479" end="00:08:20.639" style="s2">and match point your choice you call it</p>
+<p begin="00:08:18.560" end="00:08:23.280" style="s2">where you going</p>
+<p begin="00:08:20.639" end="00:08:23.280" style="s2">cross court</p>
+<p begin="00:08:23.840" end="00:08:27.440" style="s2">absolutely perfect it&#39;s okay listen when</p>
+<p begin="00:08:26.879" end="00:08:28.479" style="s2">i was</p>
+<p begin="00:08:27.440" end="00:08:29.440" style="s2">giving you a little bit of pressure</p>
+<p begin="00:08:28.479" end="00:08:31.199" style="s2">there that&#39;s why your forehead was a</p>
+<p begin="00:08:29.440" end="00:08:33.599" style="s2">little bit tight that&#39;s normal</p>
+<p begin="00:08:31.199" end="00:08:34.719" style="s2">but uh see how easy aiming is you</p>
+<p begin="00:08:33.599" end="00:08:39.519" style="s2">already know how to do it</p>
+<p begin="00:08:34.719" end="00:08:39.519" style="s2">therefore don&#39;t worry about it good job</p>
+</div>
+</body>
+</tt>

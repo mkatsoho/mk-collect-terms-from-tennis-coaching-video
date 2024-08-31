@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.960" end="00:00:04.720" style="s2">don&#39;t go up so fast that wasn&#39;t bad but</p>
+<p begin="00:00:03.199" end="00:00:08.160" style="s2">don&#39;t go up so fast you take the ball</p>
+<p begin="00:00:04.720" end="00:00:11.200" style="s2">what did i do too you went here too fast</p>
+<p begin="00:00:08.160" end="00:00:17.920" style="s2">so you&#39;re gonna come what one two</p>
+<p begin="00:00:11.200" end="00:00:17.920" style="s2">toss and then go</p>
+<p begin="00:00:18.960" end="00:00:25.439" style="s2">the arm come down all the way watch here</p>
+<p begin="00:00:22.240" end="00:00:28.000" style="s2">here let the arm come down down toss</p>
+<p begin="00:00:25.439" end="00:00:28.000" style="s2">and then hit</p>
+<p begin="00:00:28.840" end="00:00:31.840" style="s2">higher</p>
+<p begin="00:00:33.840" end="00:00:36.399" style="s2">do you know what i mean by in front but</p>
+<p begin="00:00:35.200" end="00:00:38.000" style="s2">when you throw it behind you won&#39;t be</p>
+<p begin="00:00:36.399" end="00:00:39.360" style="s2">able to rotate into the serve because i</p>
+<p begin="00:00:38.000" end="00:00:41.040" style="s2">want you to start developing some surf</p>
+<p begin="00:00:39.360" end="00:00:42.399" style="s2">power and you got to utilize your body</p>
+<p begin="00:00:41.040" end="00:00:43.680" style="s2">in a certain way so if you don&#39;t throw</p>
+<p begin="00:00:42.399" end="00:00:45.440" style="s2">it in front</p>
+<p begin="00:00:43.680" end="00:00:46.879" style="s2">you&#39;re going to miss out on the torso</p>
+<p begin="00:00:45.440" end="00:00:48.719" style="s2">rotation on this you&#39;re going to be</p>
+<p begin="00:00:46.879" end="00:00:51.039" style="s2">sideways and hitting the ball</p>
+<p begin="00:00:48.719" end="00:00:52.480" style="s2">here like this so i want you to do is</p>
+<p begin="00:00:51.039" end="00:00:54.320" style="s2">throw it in front a little bit</p>
+<p begin="00:00:52.480" end="00:00:56.160" style="s2">and then you&#39;re going to rotate into it</p>
+<p begin="00:00:54.320" end="00:00:57.520" style="s2">like this this</p>
+<p begin="00:00:56.160" end="00:00:59.440" style="s2">see as soon as the racket drops you</p>
+<p begin="00:00:57.520" end="00:01:00.320" style="s2">start coming you start coming this way</p>
+<p begin="00:00:59.440" end="00:01:02.000" style="s2">with the shoulders</p>
+<p begin="00:01:00.320" end="00:01:03.440" style="s2">and this little action gives you more</p>
+<p begin="00:01:02.000" end="00:01:04.479" style="s2">power on the surface so you&#39;re gonna go</p>
+<p begin="00:01:03.440" end="00:01:07.600" style="s2">here</p>
+<p begin="00:01:04.479" end="00:01:09.119" style="s2">here toss in front and rotate into it</p>
+<p begin="00:01:07.600" end="00:01:12.960" style="s2">like that</p>
+<p begin="00:01:09.119" end="00:01:14.320" style="s2">better do this with me now when we throw</p>
+<p begin="00:01:12.960" end="00:01:16.880" style="s2">it in front we&#39;re going to go</p>
+<p begin="00:01:14.320" end="00:01:19.759" style="s2">towards the left pocket watch we&#39;re</p>
+<p begin="00:01:16.880" end="00:01:21.600" style="s2">going towards the left pocket</p>
+<p begin="00:01:19.759" end="00:01:23.040" style="s2">there you go see that this side is going</p>
+<p begin="00:01:21.600" end="00:01:24.880" style="s2">to come down a little bit because of</p>
+<p begin="00:01:23.040" end="00:01:27.840" style="s2">that okay so it&#39;s a downward</p>
+<p begin="00:01:24.880" end="00:01:27.840" style="s2">forward rotation</p>
+<p begin="00:01:28.240" end="00:01:31.439" style="s2">there you go and see how the weight</p>
+<p begin="00:01:29.840" end="00:01:32.880" style="s2">shifts onto the front foot now if you</p>
+<p begin="00:01:31.439" end="00:01:34.079" style="s2">want to lift the back foot up in the air</p>
+<p begin="00:01:32.880" end="00:01:35.360" style="s2">that&#39;s fine</p>
+<p begin="00:01:34.079" end="00:01:37.119" style="s2">but that&#39;s the rotation it&#39;s going to</p>
+<p begin="00:01:35.360" end="00:01:39.280" style="s2">give you a lot of momentum it&#39;s going to</p>
+<p begin="00:01:37.119" end="00:01:40.560" style="s2">give you a lot more power</p>
+<p begin="00:01:39.280" end="00:01:42.799" style="s2">it&#39;s going to make the swing a lot</p>
+<p begin="00:01:40.560" end="00:01:44.880" style="s2">easier more effortless</p>
+<p begin="00:01:42.799" end="00:01:47.200" style="s2">there it is and see how you when you</p>
+<p begin="00:01:44.880" end="00:01:50.880" style="s2">finish like this this is a good sign</p>
+<p begin="00:01:47.200" end="00:01:53.119" style="s2">yeah a very good sign oh when i toss</p>
+<p begin="00:01:50.880" end="00:01:54.399" style="s2">do i stand on this line no that&#39;s a good</p>
+<p begin="00:01:53.119" end="00:01:55.759" style="s2">question so remember our last</p>
+<p begin="00:01:54.399" end="00:01:58.079" style="s2">third lesson we we said we&#39;re going to</p>
+<p begin="00:01:55.759" end="00:02:00.079" style="s2">count right so we&#39;re going to go one</p>
+<p begin="00:01:58.079" end="00:02:01.920" style="s2">two is going to be here on the back foot</p>
+<p begin="00:02:00.079" end="00:02:05.040" style="s2">three is going to be toss and go forward</p>
+<p begin="00:02:01.920" end="00:02:08.640" style="s2">so when you toss you start going forward</p>
+<p begin="00:02:05.040" end="00:02:12.560" style="s2">again okay so you&#39;re gonna go</p>
+<p begin="00:02:08.640" end="00:02:16.239" style="s2">one here you&#39;re gonna go two</p>
+<p begin="00:02:12.560" end="00:02:18.400" style="s2">lag back foot and now three forward</p>
+<p begin="00:02:16.239" end="00:02:19.840" style="s2">like that okay so it&#39;s kind of like</p>
+<p begin="00:02:18.400" end="00:02:22.480" style="s2">simultaneously</p>
+<p begin="00:02:19.840" end="00:02:23.040" style="s2">returning your center of gravity from</p>
+<p begin="00:02:22.480" end="00:02:24.400" style="s2">right</p>
+<p begin="00:02:23.040" end="00:02:25.520" style="s2">absolutely you&#39;re starting to go forward</p>
+<p begin="00:02:24.400" end="00:02:27.200" style="s2">now we&#39;re going to add something else</p>
+<p begin="00:02:25.520" end="00:02:29.200" style="s2">later we&#39;re going to get on the toes and</p>
+<p begin="00:02:27.200" end="00:02:29.840" style="s2">bend the knees and go even more forward</p>
+<p begin="00:02:29.200" end="00:02:31.280" style="s2">but let&#39;s start</p>
+<p begin="00:02:29.840" end="00:02:34.560" style="s2">with this rotation only we&#39;re going to</p>
+<p begin="00:02:31.280" end="00:02:34.560" style="s2">add the other stuff later okay</p>
+<p begin="00:02:35.360" end="00:02:38.640" style="s2">not bad but throw the ball a little bit</p>
+<p begin="00:02:36.800" end="00:02:39.920" style="s2">higher yeah see when you throw it in</p>
+<p begin="00:02:38.640" end="00:02:43.920" style="s2">front naturally you kind of</p>
+<p begin="00:02:39.920" end="00:02:43.920" style="s2">rotate forward you see that very nice</p>
+<p begin="00:02:48.840" end="00:02:55.920" style="s2">better</p>
+<p begin="00:02:50.879" end="00:02:57.920" style="s2">much better what do you think</p>
+<p begin="00:02:55.920" end="00:02:58.959" style="s2">very nice so once you start identifying</p>
+<p begin="00:02:57.920" end="00:03:00.239" style="s2">when it&#39;s bad yes</p>
+<p begin="00:02:58.959" end="00:03:01.760" style="s2">when you&#39;re by yourself without me</p>
+<p begin="00:03:00.239" end="00:03:03.599" style="s2">looking at you you can you want to start</p>
+<p begin="00:03:01.760" end="00:03:04.879" style="s2">feeling if it&#39;s behind you and then</p>
+<p begin="00:03:03.599" end="00:03:07.599" style="s2">on the next time you serve you correct</p>
+<p begin="00:03:04.879" end="00:03:09.360" style="s2">it and try to get it more in front</p>
+<p begin="00:03:07.599" end="00:03:11.840" style="s2">more in front that wasn&#39;t far enough in</p>
+<p begin="00:03:09.360" end="00:03:13.440" style="s2">front do it again</p>
+<p begin="00:03:11.840" end="00:03:14.959" style="s2">that was a really really nice serve so</p>
+<p begin="00:03:13.440" end="00:03:16.239" style="s2">let&#39;s add something else to sir because</p>
+<p begin="00:03:14.959" end="00:03:18.480" style="s2">today we&#39;re building a little bit more</p>
+<p begin="00:03:16.239" end="00:03:19.920" style="s2">power into your serve okay so now what i</p>
+<p begin="00:03:18.480" end="00:03:21.440" style="s2">want you to do is get on your toes</p>
+<p begin="00:03:19.920" end="00:03:22.879" style="s2">i want you to practice by me holding</p>
+<p begin="00:03:21.440" end="00:03:24.720" style="s2">your racket put your rack in a trophy</p>
+<p begin="00:03:22.879" end="00:03:27.519" style="s2">position</p>
+<p begin="00:03:24.720" end="00:03:28.879" style="s2">and i try to get on your toes and also</p>
+<p begin="00:03:27.519" end="00:03:31.200" style="s2">bend your knees a little bit</p>
+<p begin="00:03:28.879" end="00:03:32.799" style="s2">now don&#39;t get on the toes like ballet</p>
+<p begin="00:03:31.200" end="00:03:34.560" style="s2">more on the balls of your feet i would</p>
+<p begin="00:03:32.799" end="00:03:37.040" style="s2">say if you look at the foot</p>
+<p begin="00:03:34.560" end="00:03:38.319" style="s2">it&#39;s going to be somewhere here yeah</p>
+<p begin="00:03:37.040" end="00:03:39.040" style="s2">there it&#39;s not going to be towards the</p>
+<p begin="00:03:38.319" end="00:03:40.400" style="s2">tip okay</p>
+<p begin="00:03:39.040" end="00:03:42.159" style="s2">yeah yeah so doing it there and i&#39;ll</p>
+<p begin="00:03:40.400" end="00:03:43.280" style="s2">bend your knees a little bit bend bend</p>
+<p begin="00:03:42.159" end="00:03:44.400" style="s2">your knees</p>
+<p begin="00:03:43.280" end="00:03:46.000" style="s2">a little bit more when you get the</p>
+<p begin="00:03:44.400" end="00:03:46.640" style="s2">racket to about this position i want you</p>
+<p begin="00:03:46.000" end="00:03:49.280" style="s2">to</p>
+<p begin="00:03:46.640" end="00:03:49.760" style="s2">be in this exact position with your body</p>
+<p begin="00:03:49.280" end="00:03:52.640" style="s2">knees</p>
+<p begin="00:03:49.760" end="00:03:53.519" style="s2">slightly bent like this and then on the</p>
+<p begin="00:03:52.640" end="00:03:54.799" style="s2">toes like that</p>
+<p begin="00:03:53.519" end="00:03:56.720" style="s2">and now when you throw it in front</p>
+<p begin="00:03:54.799" end="00:03:57.360" style="s2">naturally you want to lean forward a</p>
+<p begin="00:03:56.720" end="00:03:58.799" style="s2">little bit</p>
+<p begin="00:03:57.360" end="00:04:00.879" style="s2">towards the ball that&#39;s in front so let</p>
+<p begin="00:03:58.799" end="00:04:02.799" style="s2">me show you that go ahead and hold the</p>
+<p begin="00:04:00.879" end="00:04:06.159" style="s2">rack in the trophy</p>
+<p begin="00:04:02.799" end="00:04:07.360" style="s2">go ahead get on your toes okay bend your</p>
+<p begin="00:04:06.159" end="00:04:08.799" style="s2">knees a little bit</p>
+<p begin="00:04:07.360" end="00:04:10.400" style="s2">and i&#39;ll lean forward i&#39;m going to hold</p>
+<p begin="00:04:08.799" end="00:04:12.319" style="s2">you lean there you go there you go</p>
+<p begin="00:04:10.400" end="00:04:14.159" style="s2">my body weight is on the left foot</p>
+<p begin="00:04:12.319" end="00:04:15.920" style="s2">exactly you feel it on the left foot</p>
+<p begin="00:04:14.159" end="00:04:17.759" style="s2">yes yes when you lean forward naturally</p>
+<p begin="00:04:15.920" end="00:04:19.280" style="s2">it&#39;s going to go towards the left foot</p>
+<p begin="00:04:17.759" end="00:04:20.880" style="s2">and now when you accelerate go lean a</p>
+<p begin="00:04:19.280" end="00:04:24.000" style="s2">little more lean</p>
+<p begin="00:04:20.880" end="00:04:25.280" style="s2">lean more see how you&#39;re losing balance</p>
+<p begin="00:04:24.000" end="00:04:26.560" style="s2">yes so that&#39;s what&#39;s going to happen on</p>
+<p begin="00:04:25.280" end="00:04:28.080" style="s2">the serve so that&#39;s how we&#39;re going to</p>
+<p begin="00:04:26.560" end="00:04:29.600" style="s2">build the power in the serve so we</p>
+<p begin="00:04:28.080" end="00:04:31.120" style="s2">already are rotating we&#39;re already doing</p>
+<p begin="00:04:29.600" end="00:04:33.280" style="s2">that we&#39;re going towards the left pocket</p>
+<p begin="00:04:31.120" end="00:04:35.120" style="s2">so now also we&#39;re going to go toss it in</p>
+<p begin="00:04:33.280" end="00:04:37.919" style="s2">front get on our toes</p>
+<p begin="00:04:35.120" end="00:04:42.240" style="s2">and then we go forward like that okay</p>
+<p begin="00:04:37.919" end="00:04:43.759" style="s2">let&#39;s try it out</p>
+<p begin="00:04:42.240" end="00:04:45.520" style="s2">get on your toes more that&#39;s not bad but</p>
+<p begin="00:04:43.759" end="00:04:49.040" style="s2">get on your toes we just talked about</p>
+<p begin="00:04:45.520" end="00:04:52.720" style="s2">watch yeah watch me again one two</p>
+<p begin="00:04:49.040" end="00:04:52.720" style="s2">three toes and knees</p>
+<p begin="00:04:54.840" end="00:04:57.840" style="s2">better</p>
+<p begin="00:05:00.720" end="00:05:04.160" style="s2">okay now what i want you to do is when</p>
+<p begin="00:05:02.639" end="00:05:06.400" style="s2">you go upwards</p>
+<p begin="00:05:04.160" end="00:05:07.520" style="s2">okay allow the body to go don&#39;t hold</p>
+<p begin="00:05:06.400" end="00:05:10.080" style="s2">yourself on the ground</p>
+<p begin="00:05:07.520" end="00:05:11.840" style="s2">if i go fast here and i accelerate up</p>
+<p begin="00:05:10.080" end="00:05:12.240" style="s2">first you see my body goes up towards</p>
+<p begin="00:05:11.840" end="00:05:15.440" style="s2">the ball</p>
+<p begin="00:05:12.240" end="00:05:18.240" style="s2">naturally so accelerate up</p>
+<p begin="00:05:15.440" end="00:05:18.240" style="s2">towards that ball</p>
+<p begin="00:05:20.160" end="00:05:23.440" style="s2">allow the body to go up it&#39;s not bad i</p>
+<p begin="00:05:22.400" end="00:05:25.440" style="s2">like the rotation</p>
+<p begin="00:05:23.440" end="00:05:26.960" style="s2">you didn&#39;t go forward much i want you to</p>
+<p begin="00:05:25.440" end="00:05:28.639" style="s2">do two things now in addition to</p>
+<p begin="00:05:26.960" end="00:05:31.520" style="s2">rotating i want you to go</p>
+<p begin="00:05:28.639" end="00:05:32.400" style="s2">forward and also up like this towards</p>
+<p begin="00:05:31.520" end="00:05:36.560" style="s2">the ball that&#39;s up</p>
+<p begin="00:05:32.400" end="00:05:36.560" style="s2">and in front of you okay do it again</p>
+<p begin="00:05:37.680" end="00:05:42.960" style="s2">there you go oh my goodness you saw that</p>
+<p begin="00:05:43.440" end="00:05:46.639" style="s2">by the way i want you to not get</p>
+<p begin="00:05:45.199" end="00:05:47.360" style="s2">frustrated with the toss because the</p>
+<p begin="00:05:46.639" end="00:05:49.440" style="s2">toss</p>
+<p begin="00:05:47.360" end="00:05:50.960" style="s2">is very complex yeah because you&#39;re</p>
+<p begin="00:05:49.440" end="00:05:52.800" style="s2">doing two separate things with the</p>
+<p begin="00:05:50.960" end="00:05:54.240" style="s2">hitting arm at the non-heading arm</p>
+<p begin="00:05:52.800" end="00:05:56.080" style="s2">and also you&#39;re doing many other things</p>
+<p begin="00:05:54.240" end="00:05:57.520" style="s2">with the body so the toss even at the</p>
+<p begin="00:05:56.080" end="00:05:58.720" style="s2">professional level at the elite level</p>
+<p begin="00:05:57.520" end="00:06:00.080" style="s2">there&#39;s even some players</p>
+<p begin="00:05:58.720" end="00:06:01.840" style="s2">at that level believe it or not that</p>
+<p begin="00:06:00.080" end="00:06:03.840" style="s2">have trouble with the toss so that&#39;s how</p>
+<p begin="00:06:01.840" end="00:06:05.039" style="s2">complex it is yes the toss is always a</p>
+<p begin="00:06:03.840" end="00:06:06.160" style="s2">very difficult thing so don&#39;t be too</p>
+<p begin="00:06:05.039" end="00:06:08.319" style="s2">hard on yourself</p>
+<p begin="00:06:06.160" end="00:06:10.000" style="s2">if you&#39;re not getting it right like if</p>
+<p begin="00:06:08.319" end="00:06:12.319" style="s2">you get out of 10</p>
+<p begin="00:06:10.000" end="00:06:13.360" style="s2">tosses if maybe three or four are good</p>
+<p begin="00:06:12.319" end="00:06:15.440" style="s2">right now that&#39;s not bad</p>
+<p begin="00:06:13.360" end="00:06:20.400" style="s2">it&#39;s okay to not toss it perfect every</p>
+<p begin="00:06:15.440" end="00:06:22.479" style="s2">time it&#39;s all right</p>
+<p begin="00:06:20.400" end="00:06:24.560" style="s2">okay it was a little too far in front do</p>
+<p begin="00:06:22.479" end="00:06:26.479" style="s2">it again</p>
+<p begin="00:06:24.560" end="00:06:28.000" style="s2">okay it&#39;s good i like what you&#39;re doing</p>
+<p begin="00:06:26.479" end="00:06:29.280" style="s2">there you&#39;re doing the thing we learned</p>
+<p begin="00:06:28.000" end="00:06:30.560" style="s2">in the beginning the rotation you&#39;re</p>
+<p begin="00:06:29.280" end="00:06:31.840" style="s2">rotating much better</p>
+<p begin="00:06:30.560" end="00:06:33.360" style="s2">you are throwing the ball more in front</p>
+<p begin="00:06:31.840" end="00:06:34.000" style="s2">there was a nice serve but let&#39;s try to</p>
+<p begin="00:06:33.360" end="00:06:36.639" style="s2">add a little</p>
+<p begin="00:06:34.000" end="00:06:37.600" style="s2">more and we got to add the knee bends</p>
+<p begin="00:06:36.639" end="00:06:38.960" style="s2">and getting on your toes</p>
+<p begin="00:06:37.600" end="00:06:40.240" style="s2">because you&#39;re a visual learner i&#39;m</p>
+<p begin="00:06:38.960" end="00:06:40.960" style="s2">going to show you one more time all</p>
+<p begin="00:06:40.240" end="00:06:42.560" style="s2">right now</p>
+<p begin="00:06:40.960" end="00:06:44.880" style="s2">watch exactly what&#39;s going to happen to</p>
+<p begin="00:06:42.560" end="00:06:46.479" style="s2">my body as my racket starts to travel up</p>
+<p begin="00:06:44.880" end="00:06:48.080" style="s2">towards the trophy position</p>
+<p begin="00:06:46.479" end="00:06:49.599" style="s2">so here i&#39;m gonna do your rhythm okay</p>
+<p begin="00:06:48.080" end="00:06:54.800" style="s2">one</p>
+<p begin="00:06:49.599" end="00:06:54.800" style="s2">and i will go two okay three</p>
+<p begin="00:06:55.360" end="00:07:03.680" style="s2">you see what i did yeah you go here</p>
+<p begin="00:06:59.599" end="00:07:04.400" style="s2">here here here you see this toes and</p>
+<p begin="00:07:03.680" end="00:07:05.840" style="s2">knees</p>
+<p begin="00:07:04.400" end="00:07:07.840" style="s2">toes and knees and the balls in front</p>
+<p begin="00:07:05.840" end="00:07:08.960" style="s2">i&#39;m going to also lean a little bit</p>
+<p begin="00:07:07.840" end="00:07:10.240" style="s2">and at the same time i&#39;m also</p>
+<p begin="00:07:08.960" end="00:07:13.280" style="s2">accelerating so that&#39;s what you got to</p>
+<p begin="00:07:10.240" end="00:07:13.280" style="s2">add to your serve okay</p>
+<p begin="00:07:13.360" end="00:07:17.840" style="s2">more in front and</p>
+<p begin="00:07:20.560" end="00:07:23.840" style="s2">okay remember we there was one time we</p>
+<p begin="00:07:22.479" end="00:07:25.440" style="s2">played on the wall i made you aware of</p>
+<p begin="00:07:23.840" end="00:07:27.120" style="s2">something that you&#39;re doing sometimes</p>
+<p begin="00:07:25.440" end="00:07:28.639" style="s2">is that you bend too early so if you&#39;re</p>
+<p begin="00:07:27.120" end="00:07:30.160" style="s2">going here</p>
+<p begin="00:07:28.639" end="00:07:31.599" style="s2">here and now if you bend here it&#39;s too</p>
+<p begin="00:07:30.160" end="00:07:33.120" style="s2">early because now you&#39;re going to bend</p>
+<p begin="00:07:31.599" end="00:07:35.120" style="s2">and toss at the same time</p>
+<p begin="00:07:33.120" end="00:07:37.280" style="s2">very common mistake so always bend</p>
+<p begin="00:07:35.120" end="00:07:38.639" style="s2">without always excuse me always toss</p>
+<p begin="00:07:37.280" end="00:07:39.680" style="s2">without bending the knees</p>
+<p begin="00:07:38.639" end="00:07:42.000" style="s2">it&#39;s unnecessary because what will</p>
+<p begin="00:07:39.680" end="00:07:43.360" style="s2">happen is you&#39;ll bend to toss the ball</p>
+<p begin="00:07:42.000" end="00:07:44.160" style="s2">and then you&#39;ll straighten it and you&#39;ll</p>
+<p begin="00:07:43.360" end="00:07:46.000" style="s2">bend again</p>
+<p begin="00:07:44.160" end="00:07:47.280" style="s2">so you do like a double knee bend so so</p>
+<p begin="00:07:46.000" end="00:07:49.360" style="s2">wait the bend</p>
+<p begin="00:07:47.280" end="00:07:51.599" style="s2">until the ball is already in the air all</p>
+<p begin="00:07:49.360" end="00:07:51.599" style="s2">right</p>
+<p begin="00:07:52.720" end="00:07:57.840" style="s2">it was behind you exactly i know it&#39;s</p>
+<p begin="00:07:56.000" end="00:08:00.160" style="s2">a tough day today but it was pretty good</p>
+<p begin="00:07:57.840" end="00:08:00.160" style="s2">try</p>
+<p begin="00:08:02.400" end="00:08:06.400" style="s2">okay if you wait for the ball to drop to</p>
+<p begin="00:08:04.720" end="00:08:07.599" style="s2">here you don&#39;t get no vertical momentum</p>
+<p begin="00:08:06.400" end="00:08:09.680" style="s2">you understand what i&#39;m saying you have</p>
+<p begin="00:08:07.599" end="00:08:11.120" style="s2">to strike the ball much higher</p>
+<p begin="00:08:09.680" end="00:08:13.039" style="s2">if you allow the ball to come down to</p>
+<p begin="00:08:11.120" end="00:08:15.599" style="s2">this you will not get vertical momentum</p>
+<p begin="00:08:13.039" end="00:08:16.800" style="s2">exactly so for the rotational horizontal</p>
+<p begin="00:08:15.599" end="00:08:18.160" style="s2">momentum you&#39;re getting because now</p>
+<p begin="00:08:16.800" end="00:08:19.440" style="s2">you&#39;re freely rotating</p>
+<p begin="00:08:18.160" end="00:08:21.360" style="s2">and you&#39;re fixing your toss so you&#39;re</p>
+<p begin="00:08:19.440" end="00:08:22.960" style="s2">adding one power source your server is</p>
+<p begin="00:08:21.360" end="00:08:24.479" style="s2">already harder and more powerful because</p>
+<p begin="00:08:22.960" end="00:08:25.199" style="s2">of that if you want to get an additional</p>
+<p begin="00:08:24.479" end="00:08:26.720" style="s2">power source</p>
+<p begin="00:08:25.199" end="00:08:28.800" style="s2">which is a vertical momentum upward</p>
+<p begin="00:08:26.720" end="00:08:31.120" style="s2">momentum you have to allow</p>
+<p begin="00:08:28.800" end="00:08:32.719" style="s2">the contact to be higher and allow the</p>
+<p begin="00:08:31.120" end="00:08:33.440" style="s2">body to go up towards that higher</p>
+<p begin="00:08:32.719" end="00:08:34.959" style="s2">contact</p>
+<p begin="00:08:33.440" end="00:08:38.000" style="s2">don&#39;t hold yourself down and wait until</p>
+<p begin="00:08:34.959" end="00:08:38.000" style="s2">the ball drops too low</p>
+<p begin="00:08:38.839" end="00:08:41.839" style="s2">okay</p>
+<p begin="00:08:46.320" end="00:08:51.040" style="s2">yeah you know what you did right your</p>
+<p begin="00:08:49.120" end="00:08:51.920" style="s2">hand is still kind of extended well of</p>
+<p begin="00:08:51.040" end="00:08:53.600" style="s2">course</p>
+<p begin="00:08:51.920" end="00:08:55.440" style="s2">and i i don&#39;t do it you know what that</p>
+<p begin="00:08:53.600" end="00:08:56.880" style="s2">is i think it&#39;s leverage that</p>
+<p begin="00:08:55.440" end="00:08:58.720" style="s2">see that&#39;s one thing that is going to</p>
+<p begin="00:08:56.880" end="00:08:59.279" style="s2">help you get vertical momentum is if you</p>
+<p begin="00:08:58.720" end="00:09:01.360" style="s2">continue</p>
+<p begin="00:08:59.279" end="00:09:02.880" style="s2">staying up with this toss arm it&#39;s going</p>
+<p begin="00:09:01.360" end="00:09:04.320" style="s2">to put your shoulder</p>
+<p begin="00:09:02.880" end="00:09:05.440" style="s2">tilted and then when you accelerate</p>
+<p begin="00:09:04.320" end="00:09:06.640" style="s2">upwards you&#39;re going to reverse this</p>
+<p begin="00:09:05.440" end="00:09:08.560" style="s2">tilt</p>
+<p begin="00:09:06.640" end="00:09:09.920" style="s2">it&#39;s going to help you go up even more</p>
+<p begin="00:09:08.560" end="00:09:12.399" style="s2">okay do it again</p>
+<p begin="00:09:09.920" end="00:09:12.399" style="s2">keep going</p>
+<p begin="00:09:16.480" end="00:09:20.000" style="s2">that was the old serve where it was</p>
+<p begin="00:09:17.920" end="00:09:21.360" style="s2">behind you that was without any it was</p>
+<p begin="00:09:20.000" end="00:09:24.399" style="s2">pretty much all arm right</p>
+<p begin="00:09:21.360" end="00:09:27.360" style="s2">so you went like this no rotation</p>
+<p begin="00:09:24.399" end="00:09:27.360" style="s2">then it was all armed</p>
+<p begin="00:09:27.600" end="00:09:32.320" style="s2">better better</p>
+<p begin="00:09:32.480" end="00:09:38.399" style="s2">better way better</p>
+<p begin="00:09:35.680" end="00:09:39.120" style="s2">don&#39;t bend twice don&#39;t bend twice come</p>
+<p begin="00:09:38.399" end="00:09:42.880" style="s2">on wait</p>
+<p begin="00:09:39.120" end="00:09:46.080" style="s2">one two three</p>
+<p begin="00:09:42.880" end="00:09:46.080" style="s2">okay do it again</p>
+<p begin="00:09:46.560" end="00:09:49.920" style="s2">better i like it a lot better i got</p>
+<p begin="00:09:48.320" end="00:09:50.959" style="s2">exercise for you here let me have your</p>
+<p begin="00:09:49.920" end="00:09:52.640" style="s2">racket</p>
+<p begin="00:09:50.959" end="00:09:54.320" style="s2">and now you&#39;re gonna high-five me up</p>
+<p begin="00:09:52.640" end="00:09:56.320" style="s2">here right after my hand throughout the</p>
+<p begin="00:09:54.320" end="00:09:58.399" style="s2">whole service motion there you go do it</p>
+<p begin="00:09:56.320" end="00:10:01.600" style="s2">again go after my hand</p>
+<p begin="00:09:58.399" end="00:10:04.560" style="s2">do it again there you go one more time</p>
+<p begin="00:10:01.600" end="00:10:05.120" style="s2">not too hard okay there you go all right</p>
+<p begin="00:10:04.560" end="00:10:08.320" style="s2">you seen</p>
+<p begin="00:10:05.120" end="00:10:10.640" style="s2">you see now one more time okay sure</p>
+<p begin="00:10:08.320" end="00:10:12.480" style="s2">this is really helpful okay good do it</p>
+<p begin="00:10:10.640" end="00:10:14.240" style="s2">again</p>
+<p begin="00:10:12.480" end="00:10:15.519" style="s2">there you go now you&#39;re doing it see how</p>
+<p begin="00:10:14.240" end="00:10:16.640" style="s2">you see now how you&#39;re getting that</p>
+<p begin="00:10:15.519" end="00:10:19.200" style="s2">vertical momentum</p>
+<p begin="00:10:16.640" end="00:10:21.120" style="s2">you&#39;re allowing the body to go up okay</p>
+<p begin="00:10:19.200" end="00:10:22.800" style="s2">you&#39;re accelerating upwards</p>
+<p begin="00:10:21.120" end="00:10:24.640" style="s2">that&#39;s exactly what you need to do on</p>
+<p begin="00:10:22.800" end="00:10:25.600" style="s2">your server sure you need to understand</p>
+<p begin="00:10:24.640" end="00:10:28.880" style="s2">all right here we go</p>
+<p begin="00:10:25.600" end="00:10:32.160" style="s2">one two</p>
+<p begin="00:10:28.880" end="00:10:33.600" style="s2">three there you go</p>
+<p begin="00:10:32.160" end="00:10:35.440" style="s2">do that that&#39;s exactly what you should</p>
+<p begin="00:10:33.600" end="00:10:39.760" style="s2">do on the serve one</p>
+<p begin="00:10:35.440" end="00:10:39.760" style="s2">two three high five</p>
+<p begin="00:10:41.760" end="00:10:45.519" style="s2">i can&#39;t even believe you attempted to</p>
+<p begin="00:10:43.360" end="00:10:46.240" style="s2">hit that one that was like a multiple</p>
+<p begin="00:10:45.519" end="00:10:48.240" style="s2">football</p>
+<p begin="00:10:46.240" end="00:11:00.000" style="s2">there was three footballs in one you</p>
+<p begin="00:10:48.240" end="00:11:02.800" style="s2">would jog towards the ball</p>
+<p begin="00:11:00.000" end="00:11:04.399" style="s2">yeah not bad not bad do it again but you</p>
+<p begin="00:11:02.800" end="00:11:06.160" style="s2">you&#39;re not leaning though</p>
+<p begin="00:11:04.399" end="00:11:07.920" style="s2">remember you got to lean lean on this</p>
+<p begin="00:11:06.160" end="00:11:10.000" style="s2">foot here lean here</p>
+<p begin="00:11:07.920" end="00:11:15.839" style="s2">like that so when you finish you finish</p>
+<p begin="00:11:10.000" end="00:11:15.839" style="s2">on your left foot</p>
+<p begin="00:11:21.680" end="00:11:29.839" style="s2">yes that was it</p>
+<p begin="00:11:31.040" end="00:11:46.480" style="s2">wow okay do it again one more time</p>
+<p begin="00:11:42.399" end="00:11:46.480" style="s2">yes better do it again</p>
+<p begin="00:11:48.079" end="00:11:51.120" style="s2">here you know what the fascinating thing</p>
+<p begin="00:11:50.720" end="00:11:52.639" style="s2">about</p>
+<p begin="00:11:51.120" end="00:11:54.800" style="s2">this what i&#39;m teaching you is what i</p>
+<p begin="00:11:52.639" end="00:11:57.760" style="s2">call the passive leg drive</p>
+<p begin="00:11:54.800" end="00:11:59.120" style="s2">so passive leg drive so now what happens</p>
+<p begin="00:11:57.760" end="00:12:00.240" style="s2">is because you&#39;re doing all these things</p>
+<p begin="00:11:59.120" end="00:12:01.360" style="s2">correct you&#39;re doing the</p>
+<p begin="00:12:00.240" end="00:12:02.880" style="s2">the shoulder of a shoulder you&#39;re</p>
+<p begin="00:12:01.360" end="00:12:04.000" style="s2">throwing the ball in front you&#39;re</p>
+<p begin="00:12:02.880" end="00:12:05.600" style="s2">leaning forward more</p>
+<p begin="00:12:04.000" end="00:12:08.000" style="s2">you&#39;re bending your knees you&#39;re getting</p>
+<p begin="00:12:05.600" end="00:12:09.040" style="s2">on your toes when you accelerate upwards</p>
+<p begin="00:12:08.000" end="00:12:11.120" style="s2">towards the ball</p>
+<p begin="00:12:09.040" end="00:12:13.120" style="s2">your body is lifting off the ground so</p>
+<p begin="00:12:11.120" end="00:12:15.279" style="s2">you&#39;re not actually consciously jumping</p>
+<p begin="00:12:13.120" end="00:12:17.920" style="s2">but the legs are being propelled off the</p>
+<p begin="00:12:15.279" end="00:12:21.279" style="s2">ground by your body</p>
+<p begin="00:12:17.920" end="00:12:21.279" style="s2">there it is you&#39;re doing it now every</p>
+<p begin="00:12:22.839" end="00:12:25.839" style="s2">time</p>
+<p begin="00:12:30.079" end="00:12:33.839" style="s2">that was a nice one there if you allow</p>
+<p begin="00:12:32.320" end="00:12:35.680" style="s2">the body to meet the ball</p>
+<p begin="00:12:33.839" end="00:12:36.639" style="s2">very high because you notice how in the</p>
+<p begin="00:12:35.680" end="00:12:37.760" style="s2">beginning you were kind of making</p>
+<p begin="00:12:36.639" end="00:12:39.120" style="s2">contact here and you were kind of</p>
+<p begin="00:12:37.760" end="00:12:41.120" style="s2">holding yourself down yeah</p>
+<p begin="00:12:39.120" end="00:12:42.320" style="s2">so if you allow the body to make contact</p>
+<p begin="00:12:41.120" end="00:12:43.680" style="s2">much higher</p>
+<p begin="00:12:42.320" end="00:12:45.279" style="s2">with a full extension with the whole</p>
+<p begin="00:12:43.680" end="00:12:46.240" style="s2">body stretching towards the ball when</p>
+<p begin="00:12:45.279" end="00:12:47.760" style="s2">you were like you when you were</p>
+<p begin="00:12:46.240" end="00:12:49.279" style="s2">high-fiving me remember</p>
+<p begin="00:12:47.760" end="00:12:50.880" style="s2">and in addition to that if you throw the</p>
+<p begin="00:12:49.279" end="00:12:52.399" style="s2">ball a little bit in front it&#39;ll make</p>
+<p begin="00:12:50.880" end="00:12:54.399" style="s2">you land inside the cord</p>
+<p begin="00:12:52.399" end="00:12:55.839" style="s2">yeah and now again like i said before</p>
+<p begin="00:12:54.399" end="00:12:57.920" style="s2">you&#39;re rotating much better</p>
+<p begin="00:12:55.839" end="00:13:00.000" style="s2">so how do you prevent that remember how</p>
+<p begin="00:12:57.920" end="00:13:02.240" style="s2">do you prevent not rotating into it</p>
+<p begin="00:13:00.000" end="00:13:03.600" style="s2">what causes that remember not rotating</p>
+<p begin="00:13:02.240" end="00:13:05.440" style="s2">yeah if you don&#39;t rotate if you make</p>
+<p begin="00:13:03.600" end="00:13:07.600" style="s2">contact back here what will cause that</p>
+<p begin="00:13:05.440" end="00:13:09.440" style="s2">bad toss right so if you throw it back</p>
+<p begin="00:13:07.600" end="00:13:09.920" style="s2">here you won&#39;t be able to rotate into it</p>
+<p begin="00:13:09.440" end="00:13:12.240" style="s2">it&#39;s</p>
+<p begin="00:13:09.920" end="00:13:13.279" style="s2">completely an arm movement so now when</p>
+<p begin="00:13:12.240" end="00:13:15.839" style="s2">you start throwing in front you&#39;re</p>
+<p begin="00:13:13.279" end="00:13:17.760" style="s2">allowing your torso to rotate forward</p>
+<p begin="00:13:15.839" end="00:13:18.880" style="s2">that&#39;s horizontal momentum you&#39;re doing</p>
+<p begin="00:13:17.760" end="00:13:19.760" style="s2">it much better it&#39;s going to give you</p>
+<p begin="00:13:18.880" end="00:13:21.920" style="s2">additional power</p>
+<p begin="00:13:19.760" end="00:13:23.279" style="s2">and if you can add what we did second</p>
+<p begin="00:13:21.920" end="00:13:24.000" style="s2">the vertical momentum you&#39;re going to</p>
+<p begin="00:13:23.279" end="00:13:25.760" style="s2">also add</p>
+<p begin="00:13:24.000" end="00:13:27.279" style="s2">a second source of power to the server</p>
+<p begin="00:13:25.760" end="00:13:28.720" style="s2">which is the vertical momentum</p>
+<p begin="00:13:27.279" end="00:13:29.839" style="s2">right and you combine those two together</p>
+<p begin="00:13:28.720" end="00:13:30.880" style="s2">you combine the horizontal and the</p>
+<p begin="00:13:29.839" end="00:13:32.800" style="s2">vertical momentum</p>
+<p begin="00:13:30.880" end="00:13:34.720" style="s2">you&#39;re adding a lot of effortless power</p>
+<p begin="00:13:32.800" end="00:13:35.839" style="s2">to your serve you can see the serves are</p>
+<p begin="00:13:34.720" end="00:13:37.519" style="s2">going much harder</p>
+<p begin="00:13:35.839" end="00:13:38.959" style="s2">yeah but again the most important thing</p>
+<p begin="00:13:37.519" end="00:13:39.680" style="s2">is the toss and it requires a lot of</p>
+<p begin="00:13:38.959" end="00:13:42.480" style="s2">practice</p>
+<p begin="00:13:39.680" end="00:13:43.120" style="s2">so be patient but good job good job</p>
+<p begin="00:13:42.480" end="00:13:46.240" style="s2">today</p>
+<p begin="00:13:43.120" end="00:13:46.240" style="s2">all right nice job</p>
+</div>
+</body>
+</tt>
